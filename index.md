@@ -5,7 +5,7 @@
 
 **LoRa Gateway**
 
-[![HT-M01.jpg](http://www.heltec.cn/wp-content/uploads/2018/05/1.jpg)](en/core/HT-M01)
+[![HT-M01.jpg](http://www.heltec.cn/wp-content/uploads/2018/05/1.jpg)](en/lora_gateway/HT-M01)
 
 &nbsp;
 
