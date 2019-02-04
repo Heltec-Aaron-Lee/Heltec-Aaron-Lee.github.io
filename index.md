@@ -1,18 +1,15 @@
-# Product Documents
+# Heltec LoRa Family
 
 ***
+&nbsp;
 
-<img src='assets/img/product_pics/1.jpg'> <img src='assets/img/product_pics/cores.png'>
+**LoRa Gateway**
+
+[![HT-M01.jpg](http://www.heltec.cn/wp-content/uploads/2018/05/1.jpg)](en/core/HT-M01)
 
 &nbsp;
 
-**M5Core**
-
-[![core_basic.png](http://m5-docs.oss-cn-shenzhen.aliyuncs.com/assets/img/product_pics/homepage_picture/core/core_basic_01.png)](en/core/basic)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![core_gray.png](http://m5-docs.oss-cn-shenzhen.aliyuncs.com/assets/img/product_pics/homepage_picture/core/core_gray_01.png)](en/core/gray)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![product_pic_fire.png](http://m5-docs.oss-cn-shenzhen.aliyuncs.com/assets/img/product_pics/homepage_picture/core/core_fire_01.png)](en/core/fire)
-
-&nbsp;
-
-**MiniCore**
+**LoRa Nodes**
 
 [![minicore_m5stick.png](http://m5-docs.oss-cn-shenzhen.aliyuncs.com/assets/img/product_pics/homepage_picture/core/core_m5stick_01.png)](en/core/m5stick)
 
