@@ -11,7 +11,7 @@
 
 **LoRa Nodes**
 
-[![minicore_m5stick.png](http://m5-docs.oss-cn-shenzhen.aliyuncs.com/assets/img/product_pics/homepage_picture/core/core_m5stick_01.png)](en/core/m5stick)
+[![wireless_stick.jpg](en/wireless_stick/wireless_stick.jpg)](en/wireless_stick/wireless_stick)
 
 &nbsp;
 
