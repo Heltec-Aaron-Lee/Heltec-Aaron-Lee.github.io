@@ -20,7 +20,7 @@
 
 Open Arduino IDE, and click `File`->`Peferences`->`Settings`
 
-[01](../../img/how_to_install_esp32_Arduino/01.png)
+<img src="img/how_to_install_esp32_Arduino/01.png">
 
 <img src="assets/img/getting_started_pics/m5stack_core/get_started_with_arduino_m5core/windows/quick_start_arduino_win_02.png">
 
