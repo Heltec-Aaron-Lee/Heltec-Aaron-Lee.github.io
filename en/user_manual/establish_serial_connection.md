@@ -14,25 +14,25 @@
 
 **And install this USB driver following those screenshots.**
 
-<img src="assets/img/getting_started_pics/establish_serial_connection/macOS_CP2104_dmg.png">
+<img src="img/establish_serial_connection/macOS_CP2104_dmg.png">
 
-<img src="assets/img/getting_started_pics/establish_serial_connection/macOS_CP2104_pkg.png">
+<img src="img/establish_serial_connection/macOS_CP2104_pkg.png">
 
-<img src="assets/img/getting_started_pics/establish_serial_connection/2.png">
+<img src="img/establish_serial_connection/2.png">
 
-<img src="assets/img/getting_started_pics/establish_serial_connection/3.png">
+<img src="img/establish_serial_connection/3.png">
 
-<img src="assets/img/getting_started_pics/establish_serial_connection/4.png">
+<img src="img/establish_serial_connection/4.png">
 
-<img src="assets/img/getting_started_pics/establish_serial_connection/5.png">
+<img src="img/establish_serial_connection/5.png">
 
-<img src="assets/img/getting_started_pics/establish_serial_connection/6.png">
+<img src="img/establish_serial_connection/6.png">
 
-<img src="assets/img/getting_started_pics/establish_serial_connection/7.png">
+<img src="img/establish_serial_connection/7.png">
 
-<img src="assets/img/getting_started_pics/establish_serial_connection/8.png">
+<img src="img/establish_serial_connection/8.png">
 
-<img src="assets/img/getting_started_pics/establish_serial_connection/9.png">
+<img src="img/establish_serial_connection/9.png">
 
 ### 2. Check port on MacOS
 
@@ -52,15 +52,15 @@
 
 **Choice the version of USB driver according to your windows version(Windows7/8/10).**
 
-<img src="assets/img/getting_started_pics/establish_serial_connection/windows_download_CP2104_USB_driver.</figure>
+<img src="img/establish_serial_connection/windows_download_CP2104_USB_driver.</figure>
 
 **Choice the right version installer(x64/x86), and install it.**
 
-<img src="assets/img/getting_started_pics/establish_serial_connection/windows_install_usb_driver01.png">
+<img src="img/establish_serial_connection/windows_install_usb_driver01.png">
 
-<img src="assets/img/getting_started_pics/establish_serial_connection/windows_install_usb_driver02.png">
+<img src="img/establish_serial_connection/windows_install_usb_driver02.png">
 
-<img src="assets/img/getting_started_pics/establish_serial_connection/windows_install_usb_driver03.png">
+<img src="img/establish_serial_connection/windows_install_usb_driver03.png">
 
 ### 2. Check port on Windows
 
@@ -68,4 +68,4 @@
 
 **Figures below show serial port for M5Stack Core board**
 
-<img src="assets/img/getting_started_pics/establish_serial_connection/windows_m5stack_in_device_manager.</figure>
+<img src="img/establish_serial_connection/windows_in_device_manager.</figure>

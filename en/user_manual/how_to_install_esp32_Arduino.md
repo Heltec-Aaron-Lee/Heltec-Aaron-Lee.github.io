@@ -41,7 +41,7 @@ Click `Tools`->`Board:`->`Boards Manager...`, search `Heltec ESP32` in the new p
 Open Arduino IDE, then Select `Sketch`->`Include Library`->`Manage Libraries...`
 Search `Heltec ESP32` and install it
 
-<img src="img/how_to_install_esp32_Arduino/06.png">
+<img src="img/how_to_install_esp32_Arduino/06.png" width="500">
 
 <img src="img/how_to_install_esp32_Arduino/07.jpg">
 

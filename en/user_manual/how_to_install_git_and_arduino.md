@@ -9,15 +9,15 @@ If you has installed `Git`, please following next setp 2 straight.Otherwise, dow
 https://www.arduino.cc/en/Main/Software
 
 <figure>
-    <img src="assets/img/getting_started_pics/m5stack_core/get_started_with_arduino_m5core/windows/arduino_cc_package.png">
+    <img src="img/how_to_install_git_and_arduino/arduino_cc_package.png">
 </figure>
 
 Double click to install Arduino IDE
 
 <figure>
-    <img src="assets/img/getting_started_pics/m5stack_core/get_started_with_arduino_m5core/windows/select_arduino_install_path.png">
+    <img src="img/how_to_install_git_and_arduino/select_arduino_install_path.png">
 </figure>
 
 <figure>
-    <img src="assets/img/getting_started_pics/m5stack_core/get_started_with_arduino_m5core/windows/install_arduino_2.png">
+    <img src="img/how_to_install_git_and_arduino/install_arduino_2.png">
 </figure>
