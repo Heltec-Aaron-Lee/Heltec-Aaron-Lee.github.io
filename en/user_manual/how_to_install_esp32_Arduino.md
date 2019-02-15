@@ -22,71 +22,62 @@ Open Arduino IDE, and click `File`->`Peferences`->`Settings`
 
 <img src="img/how_to_install_esp32_Arduino/01.png">
 
-<img src="assets/img/getting_started_pics/m5stack_core/get_started_with_arduino_m5core/windows/quick_start_arduino_win_02.png">
+<img src="img/how_to_install_esp32_Arduino/02.png">
 
 Input last esp32 board manager URL
 
-*Now the last board manager URL: "https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series/releases/download/0.0.1/package_heltec_esp32_index.json"*
+*Now the last board manager URL: https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series/releases/download/0.0.1/package_heltec_esp32_index.json*
 
-<img src="assets/img/getting_started_pics/m5stack_core/get_started_with_arduino_m5core/windows/quick_start_arduino_win_03.png">
+<img src="img/how_to_install_esp32_Arduino/03.png">
 
 Click `Tools`->`Board:`->`Boards Manager...`, search `Heltec ESP32` in the new pop-up dialog, then click `install`
 
-<img src="assets/img/getting_started_pics/m5stack_core/get_started_with_arduino_m5core/windows/quick_start_arduino_win_04.png">
+<img src="img/how_to_install_esp32_Arduino/04.png">
 
-<img src="assets/img/getting_started_pics/m5stack_core/get_started_with_arduino_m5core/windows/quick_start_arduino_win_05.png">
+<img src="img/how_to_install_esp32_Arduino/05.jpg">
 
 ### Step2. Download the Heltec ESP32 Library
 
 Open Arduino IDE, then Select `Sketch`->`Include Library`->`Manage Libraries...`
 Search `Heltec ESP32` and install it
 
-<img src="assets/img/getting_started_pics/m5stack_core/get_started_with_arduino_m5core/windows/quick_start_arduino_win_06.png">
+<img src="img/how_to_install_esp32_Arduino/06.png">
 
-<img src="assets/img/getting_started_pics/m5stack_core/get_started_with_arduino_m5core/windows/quick_start_arduino_win_07.png">
+<img src="img/how_to_install_esp32_Arduino/07.jpg">
 
-!> **Note:** *As shown below, it means you need update*
-
-<img src="assets/img/getting_started_pics/m5stack_core/get_started_with_arduino_m5core/windows/update_m5stack_lib.png">
 
 ## Example
 
-This section for verifying whether you can program with Arduino or not. Now, The USB cable connects to M5Stack Core, then select your serial port which is connected M5Stack Core.
+This section for verifying whether you can program with Arduino or not. Now, The USB cable connects to Heltec ESP32 board, then select your serial port which is connected to Heltec ESP32 board.
 
 Select a demo example, compile and upload
 
 ### 1. Execute a example likes `FactoryTest.ino`
 
-Select your board name, baudrate, the specified serial port: M5Stack-Core-ESP32, 921600, COM4(Now, my serial port which is connected with PC is `COM4`)
+Correct select the board you had connected to computer and the specified serial port: e.g. WiFi Kit 32, WiFi LoRa 32, COM3(my PC is `COM3`)
 
-<img src="assets/img/getting_started_pics/m5stack_core/get_started_with_arduino_m5core/windows/select_board_baudrate_serial_port.png">
+<img src="img/how_to_install_esp32_Arduino/08.png">
 
-Then select an example likes `FactoryTest.ino`
+Then select an example likes `XXXXXX_FactoryTest.ino`
 
-<img src="assets/img/getting_started_pics/m5stack_core/get_started_with_arduino_m5core/windows/select_an_example.png">
+<img src="img/how_to_install_esp32_Arduino/09.png">
 
 Upload it
 
-<img src="assets/img/getting_started_pics/m5stack_core/get_started_with_arduino_m5core/windows/arduino_upload.png">
+<img src="img/how_to_install_esp32_Arduino/10.png">
 
-### 2. New a M5Stack program
+### 2. New a Heltec ESP32 program
 
-Open Arduino IDE, then new a `.ino` file, rename it as `my_test.ino`
-
-Copy the below code to my_test.ino
+Open Arduino IDE, then new a `.ino` file, then copy the below code.
 
 ```arduino
-#include <M5Stack.h>
+#include <heltec.h>
 
-// the setup routine runs once when M5Stack starts up
+// the setup routine runs once when starts up
 void setup(){
 
-  // Initialize the M5Stack object
-  M5.begin();
-
-  // LCD display
-  M5.Lcd.print("Hello World!");
-  M5.Lcd.print("M5Stack is running successfully!");
+  // Initialize the Heltec ESP32 object
+  Heltec.begin(true /*DisplayEnable Enable*/, true /*LoRa Disable*/, true /*Serial Enable*/, true /*PABOOST Enable*/, 470E6 /**/);
 }
 
 // the loop routine runs over and over again forever
@@ -95,6 +86,5 @@ void loop() {
 }
 ```
 
-compile it and upload, the M5Stack screen will show "Hello World!" "M5Stack is running successfully!"
+compile it and upload, the on board screen (if have) will show and Arduino's serial monitor will print something, it means Heltec ESP32 board is running successfully!
 
-?> *If you want to upgrade the M5Stack Lib, please view this article [upgrade M5Stack Lib](/en/related_documents/upgrade_m5stack_lib).*
