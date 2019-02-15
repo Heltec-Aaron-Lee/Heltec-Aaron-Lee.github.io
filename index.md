@@ -15,7 +15,7 @@
 
 **LoRa Nodes**
 
-[![wireless_stick.jpg](en/products/lora/lora_node/wireless_stick/wireless_stick.png)](en/products/lora/lora_node/wireless_stick/wireless_stick)
+[![wireless_stick.png](en/products/lora/lora_node/wireless_stick/wireless_stick.png)](en/products/lora/lora_node/wireless_stick/wireless_stick)
 
 &nbsp;
 
