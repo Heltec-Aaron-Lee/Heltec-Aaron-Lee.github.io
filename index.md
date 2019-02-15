@@ -1,11 +1,9 @@
-# Heltec Automation(TM) Products Selection Page
+# Heltec Automation(TM) Products Page
 
 ***
 &nbsp;
 
-# Heltec LoRa Family
-
-***
+## Heltec LoRa Family
 &nbsp;
 
 **LoRa Gateway**
@@ -23,14 +21,10 @@
 **LoRa Antenna**
 
 
-# Heltec Display Family
-
-***
+## Heltec Display Family
 &nbsp;
 
-# Other Accessories
-
-***
+## Other Accessories
 &nbsp;
 
 
