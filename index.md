@@ -15,7 +15,7 @@
 
 **LoRa Nodes**
 
-[![wireless_stick.png](en/products/lora/lora_node/wireless_stick/wireless_stick.png)](en/products/lora/lora_node/wireless_stick/wireless_stick)
+[![wireless_stick.jpg](http://www.heltec.cn/wp-content/uploads/2018/12/SAM_0445_800x800.jpg)](en/products/lora/lora_node/wireless_stick/wireless_stick)
 
 &nbsp;
 

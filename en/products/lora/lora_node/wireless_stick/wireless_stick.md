@@ -1,3 +1,5 @@
 # Wireless Stick
+***
+&nbsp;
 
-<img src="en/products/lora/lora_node/wireless_stick.png">
+<img src="img/01.jpg">
