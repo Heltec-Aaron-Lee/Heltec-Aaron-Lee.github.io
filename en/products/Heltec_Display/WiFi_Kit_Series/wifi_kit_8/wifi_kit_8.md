@@ -3,7 +3,7 @@
 &nbsp;
 
 
-<img src="en/products/Heltec_Display/WiFi_Kit_Series/wifi_kit_8/img/01.jpg">
+<img src="img/products/Heltec_Display/WiFi_Kit_Series/wifi_kit_8/01.jpg">
 
 * * *
 
@@ -57,7 +57,7 @@
 
 ## PinoutDiagram
 
-<img src="en/products/Heltec_Display/WiFi_Kit_Series/wifi_kit_8/img/WIFI Kit 8.png">
+<img src="img/products/Heltec_Display/WiFi_Kit_Series/wifi_kit_8/WIFI Kit 8.png">
 
 ## Other Links
 

@@ -3,11 +3,11 @@
 &nbsp;
 
 
-<img src="en/products/Heltec_Display/WiFi_Kit_Series/wifi_kit_32/img/01.jpg">
+<img src="img/products/Heltec_Display/WiFi_Kit_Series/wifi_kit_32/01.jpg">
 
 * * *
 
-**[Parameter](#Parameter)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[PinoutDiagram](#TPinoutDiagram)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[Example](https://github.com/HelTecAutomation/Heltec_ESP32)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[For More Information](http://www.heltec.cn/project/wifi_kit_32/)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[Purchase](https://item.taobao.com/item.htm?spm=a1z10.1-c.w14866899-17001092433.5.5728fdd9CD1FCQ&id=555572682989)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[Other Links](#Other-Links)**
+**[Parameter](#Parameter)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[PinoutDiagram](#PinoutDiagram)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[Example](https://github.com/HelTecAutomation/Heltec_ESP32)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[For More Information](http://www.heltec.cn/project/wifi_kit_32/)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[Purchase](https://item.taobao.com/item.htm?spm=a1z10.1-c.w14866899-17001092433.5.5728fdd9CD1FCQ&id=555572682989)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[Other Links](#Other-Links)**
 
  ## Parameter
 
@@ -65,7 +65,7 @@
 
 ## PinoutDiagram
 
-<img src="en/products/lora/lora_node/wifi_lora_32/img/WIFI_LoRa_32_V2.png">
+<img src="img/products/lora/lora_node/wifi_lora_32/WIFI_LoRa_32_V2.png">
 
 ## Other Links
 
