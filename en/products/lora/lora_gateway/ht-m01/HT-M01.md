@@ -75,10 +75,6 @@
    </tr>
 </table>
 
-## PinoutDiagram
-
-<img src="img/products/lora/lora_node/wifi_lora_32/02.png">
-
 ## Other Links
 
 -  **Datasheet** - [ESP32](https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_cn.pdf)
