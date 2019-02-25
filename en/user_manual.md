@@ -7,5 +7,5 @@
 
 3. [How to Install Heltec ESP32 Based Dev-baords Develop Environment](en/user_manual/how_to_install_esp32_Arduino)
 
-4. [How to Install Heltec ESP8266 Based Dev-baords Develop Environment](en/user_manual/how_to_install_esp32_Arduino_MacOS)
+4. [How to Install Heltec ESP8266 Based Dev-baords Develop Environment](en/user_manual/how_to_install_esp8266_Arduino)
  
