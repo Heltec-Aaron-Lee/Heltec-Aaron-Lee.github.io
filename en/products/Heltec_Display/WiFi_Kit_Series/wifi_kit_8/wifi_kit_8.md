@@ -3,7 +3,7 @@
 &nbsp;
 
 
-<img src="img/products/Heltec_Display/WiFi_Kit_Series/wifi_kit_8/01.jpg">
+<img src="img/products/Heltec_Display/WiFi_Kit_Series/wifi_kit_8/01.png">
 
 * * *
 
@@ -26,7 +26,7 @@
    </tr>
     <tr>
       <td>Op.Temp.</td>
-      <td>-40°C ~ 90°C</td>
+      <td>-40°C to 90°C</td>
    </tr>
    <tr>
       <td>Input</td>
@@ -57,7 +57,7 @@
 
 ## PinoutDiagram
 
-<img src="img/products/Heltec_Display/WiFi_Kit_Series/wifi_kit_8/WIFI Kit 8.png">
+<img src="img/products/Heltec_Display/WiFi_Kit_Series/wifi_kit_8/02.png">
 
 ## Other Links
 

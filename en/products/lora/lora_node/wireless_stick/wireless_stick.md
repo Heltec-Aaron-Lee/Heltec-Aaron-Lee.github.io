@@ -70,7 +70,7 @@
    </tr>
    <tr>
       <td>Op.Temp.</td>
-      <td>30°C to +80°C</td>
+      <td>30°C to 80°C</td>
    </tr>
    <tr>
       <td>Operating Voltage</td>
