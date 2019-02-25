@@ -77,7 +77,7 @@ Open Arduino IDE, then new a `.ino` file, then copy the below code.
 void setup(){
 
   // Initialize the Heltec ESP32 object
-  Heltec.begin(true /*DisplayEnable Enable*/, true /*PABOOST Enable*/, 470E6 /**/);
+  Heltec.begin(true /*DisplayEnable Enable*/, true /*Serial Enable*/);
 }
 
 // the loop routine runs over and over again forever

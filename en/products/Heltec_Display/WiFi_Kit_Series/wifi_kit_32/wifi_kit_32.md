@@ -65,7 +65,7 @@
 
 ## PinoutDiagram
 
-<img src="img/products/lora/lora_node/wifi_lora_32/WIFI_LoRa_32_V2.png">
+<img src="img/products/Heltec_Display/WiFi_Kit_Series/wifi_kit_32/02.png">
 
 ## Other Links
 
