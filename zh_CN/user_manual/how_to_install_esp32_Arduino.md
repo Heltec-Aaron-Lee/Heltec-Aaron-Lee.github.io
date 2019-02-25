@@ -1,60 +1,60 @@
-# Heltec ESP32 Based Dev-baords Develop Environment
+# Heltec ESP32 
 
-?> We suggest you confirm whether the `USB driver`, `Git` and `Arduino IDE` has installed first. If not, please view this two articles [establish serial connection](/en/related_documents/establish_serial_connection) and [Install Git and Arduino IDE](/en/related_documents/how_to_install_git_and_arduino).
+?>   `USB driver`, `Git` and `Arduino IDE` .  [](/zh_CN/related_documents/establish_serial_connection) [ Git  Arduino IDE](/zh_CN/related_documents/how_to_install_git_and_arduino).
 
-## CONTENT
+## 
 
-1. [Setting Environment](#setting-environment)
+1. [](#)
 
-    - [Step1. Download Heltec Arduino-ESP32 Support](#step1-download-arduino-esp32-support)
+    - [1. esp32](#esp32)
 
-    - [Step2. Download the Heltec ESP32 Library](#step2-download-the-m5stack-lib)
+    - [2. esp32](#esp32)
 
-2. [Example](#example)
+2. [](#)
 
-## 1. Setting Environment
+## 1. 
 
-*(Only two steps to complete setting)*
+*()*
 
-### Step1. Download Arduino-ESP32 Support
+### esp32
 
-Open Arduino IDE, and click `File`->`Peferences`->`Settings`
+ Arduino IDE,  `File`->`Peferences`->`Settings`
 
 <img src="img/how_to_install_esp32_Arduino/01.png">
 
 <img src="img/how_to_install_esp32_Arduino/02.png">
 
-Input last esp32 board manager URL
+esp32URL
 
-*Now the last board manager URL: https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series/releases/download/0.0.1/package_heltec_esp32_index.json*
+*URL: https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series/releases/download/0.0.1/package_heltec_esp32_index.json*
 
 <img src="img/how_to_install_esp32_Arduino/03.png">
 
-Click `Tools`->`Board:`->`Boards Manager...`, search `Heltec ESP32` in the new pop-up dialog, then click `install`
+ `Tools`->`Board:`->`Boards Manager...`,  `Heltec ESP32`  `install`
 
 <img src="img/how_to_install_esp32_Arduino/04.png">
 
 <img src="img/how_to_install_esp32_Arduino/05.jpg">
 
-### Step2. Download the Heltec ESP32 Library
+### esp32
 
-Open Arduino IDE, then Select `Sketch`->`Include Library`->`Manage Libraries...`
-Search `Heltec ESP32` and install it
+ Arduino IDE,  `Sketch`->`Include Library`->`Manage Libraries...`
+ `Heltec ESP32` 
 
 <img src="img/how_to_install_esp32_Arduino/06.png">
 
 <img src="img/how_to_install_esp32_Arduino/07.jpg">
 
 
-## Example
+## 
 
-This section for verifying whether you can program with Arduino or not. Now, The USB cable connects to Heltec ESP32 board, then select your serial port which is connected to Heltec ESP32 board.
+Arduino USBHeltec ESP8266Heltec ESP8266
 
-Select a demo example, compile and upload
+
 
-### 1. Execute a example likes `FactoryTest.ino`
+### 1.  `FactoryTest.ino`
 
-Correct select the board you had connected to computer and the specified serial port: e.g. WiFi Kit 32, WiFi LoRa 32, COM3(my PC is `COM3`)
+: e.g. WiFi Kit 8, COM3( `COM3`)
 
 <img src="img/how_to_install_esp32_Arduino/08.png">
 
@@ -62,13 +62,13 @@ Then select an example likes `XXXXXX_FactoryTest.ino`
 
 <img src="img/how_to_install_esp32_Arduino/09.png">
 
-Upload it
+upload
 
 <img src="img/how_to_install_esp32_Arduino/10.png">
 
-### 2. New a Heltec ESP32 program
+### 2. 
 
-Open Arduino IDE, then new a `.ino` file, then copy the below code.
+ Arduino IDE, new `.ino` , 
 
 ```arduino
 #include <heltec.h>
@@ -86,7 +86,6 @@ void loop() {
 }
 ```
 
-compile it and upload, the on board screen (if have) will show and Arduino's serial monitor will print something, it means Heltec ESP32 board is running successfully!
-
-Enjoy!
+ArduinoHeltec ESP32
+
 
