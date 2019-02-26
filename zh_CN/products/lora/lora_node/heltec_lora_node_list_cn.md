@@ -18,7 +18,7 @@
 | [Wireless Stick Lite](http://www.heltec.cn/project/wireless-stick/) | 整板 | [ESP32-PICO](https://www.espressif.com/zh-hans/products/hardware/esp32/resources) | 片内4MB | 锂电池 | √ | √ | 35uA | x |
 | Wireless Shell | 模块 | [ESP32-PICO](https://www.espressif.com/zh-hans/products/hardware/esp32/resources) | 片内4MB | -- | √ | x | 35uA | x |
 | [LoRa Kit 151](http://www.heltec.cn) | 整板 | [STM32L151CBU6](https://www.st.com/content/st_com/en/products/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus/stm32-ultra-low-power-mcus/stm32l1-series/stm32l151-152/stm32l151cb.html) | 片内128kB | 锂电池 | x | x | 7uA | x |
-| [LoRa Node 151](http://www.heltec.cn) | 整板 | [STM32L151CCU6](https://www.st.com/content/st_com/en/products/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus/stm32-ultra-low-power-mcus/stm32l1-series/stm32l151-152/stm32l151cc.html) | 片内256kB | 1/2AA锂亚硫酸氯电池 | x | x | 1.8uA | x |
+| [LoRa Node 151](http://www.heltec.cn) | 整板 | [STM32L151CCU6](https://www.st.com/content/st_com/en/products/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus/stm32-ultra-low-power-mcus/stm32l1-series/stm32l151-152/stm32l151cc.html) | 片内256kB | 1/2AA锂亚硫酸氯电池 | √ | √ | 1.8uA | x |
 | [Turtle Board](http://www.heltec.cn) | 整板 | [STM32L432KC](https://www.st.com/content/st_com/en/products/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus/stm32-ultra-low-power-mcus/stm32l4-series/stm32l4x2/stm32l432kc.html) | 片内256kB | 7号干电池x2 | √ | √ | 5uA | x |
 
 &nbsp;
