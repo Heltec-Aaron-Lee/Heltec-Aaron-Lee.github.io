@@ -3,13 +3,16 @@
 ?> 首先我们建议你确认 `USB 驱动`, `Git` 和 `Arduino IDE` 已经成功安装. 如果没有, 请参阅这两篇文章 [建立串口通信](/zh_CN/user_manual/establish_serial_connection) 和 [安装 Git 和 Arduino IDE](/zh_CN/user_manual/how_to_install_git_and_arduino).
 
 ## 总览
+
 1. [编译环境和例程下载](#编译环境和例程下载)
 
     -1. [ESP32开发版编译环境下载](#ESP32开发版编译环境下载)
 
     -2. [ESP32开发板例程下载](#ESP32开发板例程下载)
     
-## 1. 编译环境和例程下载
+2. [示例](#示例)    
+    
+## 编译环境和例程下载
 
 *(只需两步即可获得ESP8266开发板编译环境和例程)*
 
