@@ -20,12 +20,12 @@
 |                     Wireless Stick Lite                      | Dev-Board | [ESP32-PICO](https://www.espressif.com/en/products/hardware/esp32/resources) |  4MB  |                Lithium*                 |       √        |   √   |    35uA    |       x       |
 |                        Wireless Shell                        |  Module   | [ESP32-PICO](https://www.espressif.com/en/products/hardware/esp32/resources) |  4MB  |                   --                    |       √        |   x   |    35uA    |       x       |
 |                         LoRa Kit 151                         | Dev-Board | [STM32L151CBU6](https://www.st.com/content/st_com/en/products/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus/stm32-ultra-low-power-mcus/stm32l1-series/stm32l151-152/stm32l151cb.html) | 128kB |                 Lithium                 |       x        |   x   |    7uA     |       x       |
-|                        LoRa Node 151                         | Dev-Board | [STM32L151CCU6](https://www.st.com/content/st_com/en/products/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus/stm32-ultra-low-power-mcus/stm32l1-series/stm32l151-152/stm32l151cc.html) | 256kB | 1/2 AA Lithium chlorine sulfite battery |       x        |   x   |   1.8uA    |       x       |
+|                        LoRa Node 151                         | Dev-Board | [STM32L151CCU6](https://www.st.com/content/st_com/en/products/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus/stm32-ultra-low-power-mcus/stm32l1-series/stm32l151-152/stm32l151cc.html) | 256kB | 1/2 AA Lithium chlorine sulfite battery |       √        |   √   |   1.8uA    |       x       |
 |                         Turtle Board                         | Dev-Board | [STM32L432KC](https://www.st.com/content/st_com/en/products/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus/stm32-ultra-low-power-mcus/stm32l4-series/stm32l4x2/stm32l432kc.html) | 256kB |                 AAA x 2                 |       √        |   √   |    5uA     |       x       |
 
 &nbsp;
 
-**注释：**
+**Notes：**
 
 1. Type：
    - Dev-Board -- Can be used directly;
