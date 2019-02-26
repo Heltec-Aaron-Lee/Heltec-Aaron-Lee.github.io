@@ -19,7 +19,7 @@
 
 ***
 
-[![wireless_stick.jpg](E:\leehu\Documents\Heltec-Aaron-Lee.github.io\img\products\lora\lora_node\wireless_stick\01.jpg)](en/products/lora/lora_node/wireless_stick/wireless_stick)&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![wifi_lora_32_v2](E:\leehu\Documents\Heltec-Aaron-Lee.github.io\img\products\lora\lora_node\wifi_lora_32\01.jpg)](en/products/lora/lora_node/wifi_lora_32/wifi_lora_32)
+[![wireless_stick.jpg](/img/products/lora/lora_node/wireless_stick/01.jpg)](en/products/lora/lora_node/wireless_stick/wireless_stick)&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![wifi_lora_32_v2](/img/products/lora/lora_node/wifi_lora_32/01.jpg)](en/products/lora/lora_node/wifi_lora_32/wifi_lora_32)
 
 &nbsp;
 
