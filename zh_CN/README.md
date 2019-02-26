@@ -15,7 +15,9 @@
 
 **LoRa节点**
 
-[Heltec LoRa节点各型号差异对照表](zh_CN/products/lora/lora_node/heltec_lora_node_list_cn.md)
+[**Heltec LoRa节点各型号差异对照表**](zh_CN/products/lora/lora_node/heltec_lora_node_list_cn.md)
+
+***
 
 [![wireless_stick.jpg](http://www.heltec.cn/wp-content/uploads/2018/12/SAM_0445_800x800.jpg)](zh_CN/products/lora/lora_node/wireless_stick/wireless_stick)
 
@@ -65,4 +67,5 @@
 
 
 <!-- GitHub Buttons -->
+
 <script async defer src="https://buttons.github.io/buttons.js"></script>

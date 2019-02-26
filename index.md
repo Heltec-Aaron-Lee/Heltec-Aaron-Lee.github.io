@@ -17,6 +17,8 @@
 
  **[Heltec LoRa Node Products Difference Table](en\products\lora\lora_node\heltec_lora_node_list_eu.md)** 
 
+***
+
 [![wireless_stick.jpg](http://www.heltec.cn/wp-content/uploads/2018/12/SAM_0445_800x800.jpg)](en/products/lora/lora_node/wireless_stick/wireless_stick)
 
 &nbsp;
