@@ -19,11 +19,9 @@
 
 ***
 
-[![wireless_stick.jpg](http://www.heltec.cn/wp-content/uploads/2018/12/SAM_0445_800x800.jpg)](en/products/lora/lora_node/wireless_stick/wireless_stick)
+[![wireless_stick.jpg](E:\leehu\Documents\Heltec-Aaron-Lee.github.io\img\products\lora\lora_node\wireless_stick\01.jpg)](en/products/lora/lora_node/wireless_stick/wireless_stick)&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![wifi_lora_32_v2](E:\leehu\Documents\Heltec-Aaron-Lee.github.io\img\products\lora\lora_node\wifi_lora_32\01.jpg)](en/products/lora/lora_node/wifi_lora_32/wifi_lora_32)
 
 &nbsp;
-
-[![wifi_lora_32.jpg](http://www.heltec.cn/wp-content/uploads/2018/09/%E8%8A%AF%E7%89%87%E5%AE%9A%E7%A8%BF_01-2.png)](en/products/lora/lora_node/wifi_lora_32/wifi_lora_32)
 
 &nbsp;
 
