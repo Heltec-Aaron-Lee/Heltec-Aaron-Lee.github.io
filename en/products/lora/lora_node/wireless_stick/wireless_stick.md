@@ -44,5 +44,5 @@
 ## Other Links
 
 - [Pin out diagram](https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series/blob/master/PinoutDiagram/Wireless%20Stick.pdf)
-- [ESP32 MCP datasheet](https://www.espressif.com/en/products/hardware/esp32/resources)
+- [ESP32 MCU datasheet](https://www.espressif.com/en/products/hardware/esp32/resources)
 - [Heltec home page](http://www.heltec.cn/?lang=en)

@@ -2,71 +2,45 @@
 ***
 &nbsp;
 
+<img src="img/products/display/esp_arduino/wifi_kit_32/01.jpg">
 
-<img src="img/products/Heltec_Display/WiFi_Kit_Series/wifi_kit_32/01.jpg">
 
-* * *
 
-**[Parameter](#Parameter)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[PinoutDiagram](#PinoutDiagram)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[Example](https://github.com/HelTecAutomation/Heltec_ESP32)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[For More Information](http://www.heltec.cn/project/wifi_kit_32/)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[Purchase](https://item.taobao.com/item.htm?spm=a1z10.1-c.w14866899-17001092433.5.5728fdd9CD1FCQ&id=555572682989)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[Other Links](#Other-Links)**
+**[Product Page](http://www.heltec.cn/project/wifi_kit_32/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Example](https://github.com/HelTecAutomation/Heltec_ESP32)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Quick Start](https://docs.heltec.cn/#/en/user_manual/how_to_install_esp32_Arduino)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[Purchase](https://item.taobao.com/item.htm?spm=a1z10.1-c.w14866899-17001092433.5.5728fdd9CD1FCQ&id=555572682989)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[Other Links](#Other-Links)**
+
+
+
+## Main Features
+
+
+
+- **The Kit 32** is a IoT suite developed by Heltec AutoMation based on 32-bit dual core **ESP32** chip;
+- Compatible with Arduino, NodeMCU, Mciro Python etc.
+- On board OLED (128*64) display;
+- Integrated lithium battery charge and discharge circuit
+
+
 
  ## Parameter
 
-<table>
-   <tr style="font-weight:bold">
-      <td>Source</td>
-      <td>Parameter</td>
-   </tr>
-   <tr>
-      <td>ESP32</td>
-      <td>240MHz dual core, 600 DMIPS, 520KB SRAM, Wi-Fi, dual mode Bluetooth</td>
-   </tr>
-   <tr>
-      <td>Flash</td>
-      <td>32M-bits</td>
-   </tr>
-    <tr>
-      <td>Transmit power</td>
-      <td>+20dBm</td>
-   </tr>	
-    <tr>
-      <td>Receiver sensitivity</td>
-      <td>-98dBm</td>
-   </tr>	
-   <tr>
-      <td>Input</td>
-      <td>5V @ 500mA</td>
-   </tr>
-   <tr>
-      <td>UDP continuous throughput</td>
-      <td>135Mbps</td>
-   </tr>
-   <tr>
-      <td>OLED</td>
-      <td>0.96 inch, 128x64 </td>
-   </tr>
-   <tr>
-      <td>Size</td>
-      <td>50.2 x 25.5 x 9.74 mm</td>
-   </tr>
-   <tr>
-      <td>USB transfer interface chip</td>
-      <td>CP2102</td>
-   </tr>
-</table>
 
-## The OLED Resolution: 128x64
 
-<table>
- <tr><td>ESP32 Chip</td><td>GPIO15</td><td>GPIO4</td><td>GPIO16</td></tr>
- <tr><td>SSD1306</td><td>OLED_SCL</td><td>OLED_SDA</td><td>OLED_RST</td></tr>
+|          Source           | Parameter                                                    |
+| :-----------------------: | :----------------------------------------------------------- |
+|           ESP32           | 240MHz dual core, 600 DMIPS, 520KB SRAM, Wi-Fi, dual mode Bluetooth |
+|         Processor         | 2 Tensilica LX6 + 1 ULP processor                            |
+|           OLED            | 0.96 inch, 128x64                                            |
+|           Flash           | 4MB(32M-bits) external FLASH                                 |
+|         Interface         | MircoUSB x 1                                                 |
+| UDP continuous throughput | 135Mbps                                                      |
+|           Size            | 50.2 x 25.5 x 9.74 mm                                        |
+|     Operating Voltage     | 3.3v ~ 7v                                                    |
+|    USB to UART Bridge     | [CP2102](http://docs.heltec.cn/#/en/user_manual/establish_serial_connection) |
 
-</table>
- 
 
-## PinoutDiagram
-
-<img src="img/products/Heltec_Display/WiFi_Kit_Series/wifi_kit_32/02.png">
 
 ## Other Links
 
--  **Datasheet** - [ESP32](https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_cn.pdf)
+-  [Pin out diagram](https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series/blob/master/PinoutDiagram/WIFI%20Kit%2032.pdf)
+-  [ESP32 MCU datasheet](https://www.espressif.com/en/products/hardware/esp32/resources)
+-  [Heltec home page](http://www.heltec.cn/?lang=en)

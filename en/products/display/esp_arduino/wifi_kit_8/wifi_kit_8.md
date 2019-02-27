@@ -1,64 +1,46 @@
 # WiFi Kit 8
-***
+
+------
+
 &nbsp;
 
+<img src="img/products/display/esp_arduino/wifi_kit_8/01.jpg">
 
-<img src="img/products/Heltec_Display/WiFi_Kit_Series/wifi_kit_8/01.png">
 
-* * *
 
-**[Parameter](#Parameter)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[PinoutDiagram](#TPinoutDiagram)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[Example](https://github.com/HelTecAutomation/Heltec_ESP8266)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[For More Information](http://www.heltec.cn/project/wifi_kit_8/)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[Purchase](https://item.taobao.com/item.htm?spm=a1z10.5-c.w4002-17001092467.12.4a699f7fHlX9Yr&id=555696953988)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[Other Links](#Other-Links)**
+**[Product Page](http://www.heltec.cn/project/wifi_kit_8/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Example](https://github.com/HelTecAutomation/Heltec_ESP8266)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Quick Start](https://docs.heltec.cn/#/en/user_manual/how_to_install_esp8266_Arduino)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[Purchase](https://item.taobao.com/item.htm?spm=a1z10.5-c.w4002-17001092467.12.4a699f7fHlX9Yr&id=555696953988)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[Other Links](#Other-Links)**
 
- ## Parameter
 
-<table>
-   <tr style="font-weight:bold">
-      <td>Source</td>
-      <td>Parameter</td>
-   </tr>
-   <tr>
-      <td>ESP8266</td>
-      <td>80/160MHz, Complete Wi-Fi</td>
-   </tr>
-   <tr>
-      <td>Flash</td>
-      <td>32M-bits</td>
-   </tr>
-    <tr>
-      <td>Op.Temp.</td>
-      <td>-40°C to 90°C</td>
-   </tr>
-   <tr>
-      <td>Input</td>
-      <td>5V @ 500mA</td>
-   </tr>
-   <tr>
-      <td>OLED</td>
-      <td>0.91 inch, 128x32 </td>
-   </tr>
-   <tr>
-      <td>Size</td>
-      <td>51 x 18 x 8 mm</td>
-   </tr>
-   <tr>
-      <td>USB transfer interface chip</td>
-      <td>CP2104</td>
-   </tr>
-</table>
 
-## The OLED Resolution: 128x32
+## Main Features
 
-<table>
- <tr><td>ESP32 Chip</td><td>GPIO15</td><td>GPIO4</td><td>GPIO16</td></tr>
- <tr><td>SSD1306</td><td>OLED_SCL</td><td>OLED_SDA</td><td>OLED_RST</td></tr>
 
-</table>
- 
 
-## PinoutDiagram
+- **The Kit 8** is a IoT suite developed by Heltec AutoMation based on  **ESP8266** chip;
+- Compatible with Arduino, NodeMCU, Mciro Python etc.
+- On board OLED (128*32) display;
+- Integrated lithium battery charge and discharge circuit
 
-<img src="img/products/Heltec_Display/WiFi_Kit_Series/wifi_kit_8/02.png">
+
+
+## Parameter
+
+
+
+|       Source       | Parameter                                                    |
+| :----------------: | :----------------------------------------------------------- |
+|      ESP8266       | 80/160 MHz , 802.11 b/g/n Wi-Fi,                             |
+|        OLED        | 0.91 inch, 128x32                                            |
+|       Flash        | 4MB(32M-bits) external FLASH                                 |
+|        Size        | 50.86 x 18.2 x 6.69 mm                                       |
+|     Interface      | MircoUSB x 1                                                 |
+| Operating Voltage  | 3.3v ~ 7v                                                    |
+| USB to UART Bridge | [CP2104](http://docs.heltec.cn/#/en/user_manual/establish_serial_connection) |
+
+
 
 ## Other Links
 
--  **Datasheet** - [ESP8266](https://www.espressif.com/sites/default/files/documentation/0a-esp8285_datasheet_cn.pdf)
+- [Pin out diagram](https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series/blob/master/PinoutDiagram/WIFI%20Kit%208.pdf)
+- [ESP8266 MCU datasheet](https://www.espressif.com/en/products/hardware/esp32/resources)
+- [Heltec home page](http://www.heltec.cn/?lang=en)
