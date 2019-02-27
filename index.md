@@ -42,7 +42,7 @@
 
 [![0.96_Inch.jpg](http://www.heltec.cn/img/0.96ssd1306.jpg)](en/products/display/oled/0.96_Inch/0.96_Inch)&nbsp;&nbsp;&nbsp; [![1.3_Inch.jpg](http://www.heltec.cn/img/1.3sh1106.jpg)](en/products/display/oled/1.3_Inch/1.3_Inch)
 
-&nbsp;[![0.96_Inch.jpg](http://www.heltec.cn/img/0.96ssd1306.jpg)](en/products/display/oled/1.54_Inch/1.54_Inch)
+&nbsp;[![0.96_Inch.jpg](http://www.heltec.cn/img/1.54spd0301.jpg)](en/products/display/oled/1.54_Inch/1.54_Inch)
 
 &nbsp;
 
