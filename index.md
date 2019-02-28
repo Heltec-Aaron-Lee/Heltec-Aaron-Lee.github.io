@@ -15,7 +15,7 @@
 
 **LoRa Nodes**
 
- **[Heltec LoRa Node Products Difference Table](en\products\lora\lora_node\heltec_lora_node_list_eu.md)** 
+![link](http://www.heltec.cn/icon/link.png) **[Heltec LoRa Node Products Difference Table](en\products\lora\lora_node\heltec_lora_node_list_eu.md)** 
 
 ***
 
