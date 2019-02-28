@@ -6,7 +6,7 @@
 
 
 
-**[Product Page](http://www.heltec.cn/project/wifi_kit_32/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Example](https://github.com/HelTecAutomation/Heltec_ESP32)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Quick Start](https://docs.heltec.cn/#/en/user_manual/how_to_install_esp32_Arduino)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[Purchase](https://item.taobao.com/item.htm?spm=a1z10.1-c.w14866899-17001092433.5.5728fdd9CD1FCQ&id=555572682989)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[Other Links](#Other-Links)**
+![](http://heltec.cn/icon/idea.png)**[Product Page](http://www.heltec.cn/project/wifi-kit-32/?lang=en)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](http://heltec.cn/icon/list.png)**[Parameter](#parameter)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](http://heltec.cn/icon/startup.png)**[Quick Start](https://docs.heltec.cn/#/en/user_manual/how_to_install_esp32_Arduino)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](http://heltec.cn/icon/shop.png)**[Purchase](https://item.taobao.com/item.htm?spm=a1z10.1-c.w14866899-17001092433.5.5728fdd9CD1FCQ&id=555572682989)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](http://heltec.cn/icon/link.png)**[Other Links](#Other-Links)**
 
 
 
@@ -41,6 +41,9 @@
 
 ## Other Links
 
+- ![](http://heltec.cn/icon/left_hand.png) [Product Page](http://www.heltec.cn/project/wifi-kit-32/?lang=en)  +++important+++
+
 -  [Pin out diagram](https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series/blob/master/PinoutDiagram/WIFI%20Kit%2032.pdf)
+-  **[Schematic Diagram](https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series/blob/master/SchematicDiagram/WIFI_Kit_32_Schematic_diagram.PDF)**
 -  [ESP32 MCU datasheet](https://www.espressif.com/en/products/hardware/esp32/resources)
 -  [Heltec home page](http://www.heltec.cn/?lang=en)

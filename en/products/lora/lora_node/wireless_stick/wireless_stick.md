@@ -6,7 +6,7 @@
 
 * * *
 
-**[Product Page](http://www.heltec.cn/project/wireless-stick/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[Quick Start](https://docs.heltec.cn/#/en/user_manual/how_to_install_esp32_Arduino)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[Example](https://github.com/HelTecAutomation/Heltec_ESP32)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[Purchase](https://item.taobao.com/item.htm?spm=a1z10.1-c.w14865798-17001092431.1.72c71d6fGYbaJn&id=584124017321)** &nbsp;&nbsp;&nbsp;&nbsp; **[Other Links](#other-links)**
+![](http://heltec.cn/icon/idea.png)**[Product Page](http://www.heltec.cn/project/wireless-stick/?lang=en)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](http://heltec.cn/icon/startup.png)**[Quick Start](https://docs.heltec.cn/#/en/user_manual/how_to_install_esp32_Arduino)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](http://heltec.cn/icon/list.png)**[Parameter](#parameter)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](http://heltec.cn/icon/shop.png)**[Purchase](https://item.taobao.com/item.htm?spm=a1z10.1-c.w14865798-17001092431.1.72c71d6fGYbaJn&id=584124017321)** &nbsp;&nbsp;&nbsp;&nbsp; ![](http://heltec.cn/icon/link.png)**[Other Links](#other-links)**
 
 &nbsp;
 
@@ -43,6 +43,9 @@
 
 ## Other Links
 
+- ![](http://heltec.cn/icon/left_hand.png)**[Product page](http://www.heltec.cn/project/wireless-stick/?lang=en)**  *+ + + important + + +*
+
 - [Pin out diagram](https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series/blob/master/PinoutDiagram/Wireless%20Stick.pdf)
+- **[Schematic Diagram](https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series/tree/master/SchematicDiagram/WiFi_LoRa_32(V2))**
 - [ESP32 MCU datasheet](https://www.espressif.com/en/products/hardware/esp32/resources)
 - [Heltec home page](http://www.heltec.cn/?lang=en)

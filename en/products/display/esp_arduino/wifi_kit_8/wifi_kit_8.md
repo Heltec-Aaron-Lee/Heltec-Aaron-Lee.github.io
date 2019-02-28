@@ -8,7 +8,7 @@
 
 
 
-**[Product Page](http://www.heltec.cn/project/wifi_kit_8/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Example](https://github.com/HelTecAutomation/Heltec_ESP8266)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Quick Start](https://docs.heltec.cn/#/en/user_manual/how_to_install_esp8266_Arduino)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[Purchase](https://item.taobao.com/item.htm?spm=a1z10.5-c.w4002-17001092467.12.4a699f7fHlX9Yr&id=555696953988)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[Other Links](#Other-Links)**
+![](http://heltec.cn/icon/idea.png)**[Product Page](http://www.heltec.cn/project/wifi_kit_8/?lang=en)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](http://heltec.cn/icon/list.png)**[Parameter](#parameter)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](http://heltec.cn/icon/startup.png)**[Quick Start](https://docs.heltec.cn/#/en/user_manual/how_to_install_esp8266_Arduino)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](http://heltec.cn/icon/shop.png)**[Purchase](https://item.taobao.com/item.htm?spm=a1z10.5-c.w4002-17001092467.12.4a699f7fHlX9Yr&id=555696953988)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](http://heltec.cn/icon/link.png)**[Other Links](#Other-Links)**
 
 
 
@@ -40,6 +40,8 @@
 
 
 ## Other Links
+
+- ![](http://heltec.cn/icon/left_hand.png) **[Product Page](http://www.heltec.cn/project/wifi_kit_8/?lang=en)** +++important+++
 
 - [Pin out diagram](https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series/blob/master/PinoutDiagram/WIFI%20Kit%208.pdf)
 - [SchematicDiagram](https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series/blob/master/SchematicDiagram/WIFI_Kit_8_Schematic_diagram.PDF)
