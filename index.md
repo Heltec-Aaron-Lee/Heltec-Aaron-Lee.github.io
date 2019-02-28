@@ -1,7 +1,7 @@
 # Heltec Automation(TM) Products Page
 
 ***
-&nbsp;
+&nbsp;***+++ This page is currently under construction! +++***
 
 # Heltec LoRa Family
 ***

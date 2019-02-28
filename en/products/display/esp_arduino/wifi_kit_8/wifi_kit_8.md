@@ -42,5 +42,6 @@
 ## Other Links
 
 - [Pin out diagram](https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series/blob/master/PinoutDiagram/WIFI%20Kit%208.pdf)
+- [SchematicDiagram](https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series/blob/master/SchematicDiagram/WIFI_Kit_8_Schematic_diagram.PDF)
 - [ESP8266 MCU datasheet](https://www.espressif.com/en/products/hardware/esp32/resources)
 - [Heltec home page](http://www.heltec.cn/?lang=en)
