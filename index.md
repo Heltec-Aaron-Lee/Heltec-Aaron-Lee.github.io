@@ -44,19 +44,29 @@
 
 # Heltec OLED Display
 
-**0.49" OLED Display**
-
-&nbsp;
-
 **0.96" OLED Display**
 
-[![0.96_Inch.jpg](http://www.heltec.cn/img/0.96ssd1306.jpg)](en/products/display/oled/0.96_Inch/0.96_Inch)&nbsp;&nbsp;&nbsp; [![1.3_Inch.jpg](http://www.heltec.cn/img/1.3sh1106.jpg)](en/products/display/oled/1.3_Inch/1.3_Inch)
+[![0.96_Inch.jpg](http://www.heltec.cn/img/0.96ssd1306_blue.jpg)](en/products/display/oled/0.96_Inch/0.96_Inch)&nbsp;&nbsp;&nbsp; [![0.96_Inch.jpg](http://www.heltec.cn/img/0.96ssd1306.jpg)](en/products/display/oled/0.96_Inch/0.96_Inch)
 
-[![0.96_Inch.jpg](http://www.heltec.cn/img/1.54spd0301.jpg)](en/products/display/oled/1.54_Inch/1.54_Inch)
 
-&nbsp;
+
+[![0.96_Inch.jpg](http://www.heltec.cn/img/0.96ssd1306_white.jpg)](en/products/display/oled/0.96_Inch/0.96_Inch)
+
+
 
 **1.3" OLED Display**
+
+[![1.3_Inch.jpg](http://www.heltec.cn/img/1.3sh1106.jpg)](en/products/display/oled/1.3_Inch/1.3_Inch)&nbsp;&nbsp;&nbsp; [![1.3_Inch.jpg](http://www.heltec.cn/img/1.3sh1106_white.jpg)](en/products/display/oled/1.3_Inch/1.3_Inch)
+
+
+
+
+
+**1.54" OLED Display**
+
+[![1.3_Inch.jpg](http://www.heltec.cn/img/1.54spd0301_white.jpg)](en/products/display/oled/1.54_Inch/1.54_Inch)
+
+
 
 &nbsp;
 

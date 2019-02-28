@@ -9,7 +9,7 @@
 
 **LoRa网关**
 
-[![HT-M01.jpg](http://www.heltec.cn/wp-content/uploads/2018/05/1.jpg)](zh_CN/products/lora/lora_gateway/ht-m01/ht-m01)
+[HT-M01.jpg](http://heltec.cn/img/ht_m01.jpg)](zh_CN/products/lora/lora_gateway/ht-m01/ht-m01)
 
 &nbsp;
 
