@@ -31,8 +31,8 @@
 
 
 
-
 # Heltec ESP Arduino
+
 ***
 &nbsp;
 
@@ -42,15 +42,11 @@
 
 &nbsp;
 
-## Heltec OLED Display
-
-***
-
-&nbsp;
+# Heltec OLED Display
 
 **0.49" OLED Display**
 
-
+&nbsp;
 
 **0.96" OLED Display**
 
@@ -64,27 +60,16 @@
 
 &nbsp;
 
-## Heltec E-Ink Display
-
-***
+# Heltec E-Ink Display
 
 &nbsp;
 
-
-
-&nbsp;
-
-## Heltec Touch module
-
-***
-
-&nbsp;
+# Heltec Touch module
 
 &nbsp;
 
 # Other Accessories
-***
-&nbsp;
+
 
 <!-- GitHub Buttons -->
 
