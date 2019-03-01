@@ -2,7 +2,7 @@
 
 ------
 
-&nbsp;
+&nbsp;***+++ 本页面正在建设中！+++***
 
 # Heltec LoRa 系列
 
@@ -12,17 +12,17 @@
 
 **LoRa 网关**
 
-[![HT-M01.jpg](http://heltec.cn/img/ht_m01.jpg)](en/products/lora/lora_gateway/ht-m01/ht-m01)
+[![HT-M01.jpg](http://heltec.cn/img/ht_m01.jpg)](zh_CN/products/lora/lora_gateway/ht-m01/ht-m01)
 
 &nbsp;
 
 **LoRa 节点**
 
- **[Heltec LoRa节点各型号差异对照表](en\products\lora\lora_node\heltec_lora_node_list_eu.md)** 
+![link](http://www.heltec.cn/icon/link.png) **[Heltec LoRa节点各型号差异对照表](zn_CN\products\lora\lora_node\heltec_lora_node_list_eu.md)** 
 
 ------
 
-[![wireless_stick](http://heltec.cn/img/wireless_stick_home.jpg)](en/products/lora/lora_node/wireless_stick/wireless_stick)&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![wifi_lora_32_v2](http://heltec.cn/img/wifi_lora_32_home.jpg)](en/products/lora/lora_node/wifi_lora_32/wifi_lora_32)
+[![wireless_stick](http://heltec.cn/img/wireless_stick_home.jpg)](zh_CN/products/lora/lora_node/wireless_stick/wireless_stick)&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![wifi_lora_32_v2](http://heltec.cn/img/wifi_lora_32_home.jpg)](zh_CN/products/lora/lora_node/wifi_lora_32/wifi_lora_32)
 
 &nbsp;
 
@@ -34,7 +34,7 @@
 
 
 
-# Heltec显示屏系列
+# Heltec ESP Arduino系列
 
 ------
 
@@ -42,29 +42,41 @@
 
 **WiFi Kit 系列**
 
-[![wifi_kit_32.jpg](http://heltec.cn/img/wifi_kit_32.jpg)](en/products/display/esp_arduino/wifi_kit_32/wifi_kit_32)&nbsp;&nbsp;&nbsp; [![wifi_kit_8.jpg](http://heltec.cn/img/wifi_kit_8.jpg)](en/products/display/esp_arduino/wifi_kit_8/wifi_kit_8)
+[![wifi_kit_32.jpg](http://heltec.cn/img/wifi_kit_32.jpg)](zh_CN/products/display/esp_arduino/wifi_kit_32/wifi_kit_32)&nbsp;&nbsp;&nbsp; [![wifi_kit_8.jpg](http://heltec.cn/img/wifi_kit_8.jpg)](zh_CN/products/display/esp_arduino/wifi_kit_8/wifi_kit_8)
 
 &nbsp;
 
-# OLED点阵屏系列
+# OLED点阵屏
 
-**0.96" 寸点阵屏**
+**0.96" 寸OLED**
 
-[![0.96_Inch.jpg](http://www.heltec.cn/img/0.96ssd1306_blue.jpg)](en/products/display/oled/0.96_Inch/0.96_Inch)&nbsp;&nbsp;&nbsp; [![0.96_Inch.jpg](http://www.heltec.cn/img/0.96ssd1306.jpg)](en/products/display/oled/0.96_Inch/0.96_Inch)
-
-[![0.96_Inch.jpg](http://www.heltec.cn/img/0.96ssd1306_white.jpg)](en/products/display/oled/0.96_Inch/0.96_Inch)
+[![0.96_Inch.jpg](http://www.heltec.cn/img/0.96ssd1306_blue.jpg)](zh_CN/products/display/oled/0.96_Inch/0.96_Inch)&nbsp;&nbsp;&nbsp; [![0.96_Inch.jpg](http://www.heltec.cn/img/0.96ssd1306.jpg)](zh_CN/products/display/oled/0.96_Inch/0.96_Inch)
 
 
 
-**1.3"寸点阵屏**
-
-[![1.3_Inch.jpg](http://www.heltec.cn/img/1.3sh1106.jpg)](en/products/display/oled/1.3_Inch/1.3_Inch)&nbsp;&nbsp;&nbsp; [![1.3_Inch.jpg](http://www.heltec.cn/img/1.3sh1106_white.jpg)](en/products/display/oled/1.3_Inch/1.3_Inch)
+[![0.96_Inch.jpg](http://www.heltec.cn/img/0.96ssd1306_white.jpg)](zh_CN/products/display/oled/0.96_Inch/0.96_Inch)&nbsp;&nbsp;&nbsp; [![0.96_Inch.jpg](http://www.heltec.cn/img/0.96ssd1306_iic_yellow.jpg)](zh_CN/products/display/oled/0.96_Inch/0.96_Inch)&nbsp;&nbsp;&nbsp; 
 
 
 
-**1.54" 寸点阵屏**
+[![0.96_Inch.jpg](http://www.heltec.cn/img/0.96ssd1306_iic_white.jpg)](zh_CN/products/display/oled/0.96_Inch/0.96_Inch)&nbsp;&nbsp;&nbsp; [![0.96_Inch.jpg](http://www.heltec.cn/img/0.96ssd1306_iic_blue.jpg)](zh_CN/products/display/oled/0.96_Inch/0.96_Inch)
 
-[![1.3_Inch.jpg](http://www.heltec.cn/img/1.54spd0301_white.jpg)](en/products/display/oled/1.54_Inch/1.54_Inch)
+
+
+
+
+**1.3"寸OLED**
+
+[![1.3_Inch.jpg](http://www.heltec.cn/img/1.3sh1106_blue.jpg)](zh_CN/products/display/oled/1.3_Inch/1.3_Inch)&nbsp;&nbsp;&nbsp; [![1.3_Inch.jpg](http://www.heltec.cn/img/1.3sh1106_white.jpg)](zh_CN/products/display/oled/1.3_Inch/1.3_Inch)
+
+[![1.3_Inch.jpg](http://www.heltec.cn/img/1.3sh1106_iic_blue.jpg)](zh_CN/products/display/oled/1.3_Inch/1.3_Inch)&nbsp;&nbsp;&nbsp; [![1.3_Inch.jpg](http://www.heltec.cn/img/1.3sh1106_iic_white.jpg)](zh_CN/products/display/oled/1.3_Inch/1.3_Inch)
+
+
+
+
+
+**1.54"寸OLED**
+
+[![1.3_Inch.jpg](http://www.heltec.cn/img/1.54spd0301_white.jpg)](zh_CN/products/display/oled/1.54_Inch/1.54_Inch)&nbsp;&nbsp;&nbsp; [![1.3_Inch.jpg](http://www.heltec.cn/img/1.54spd0301_iic_white.jpg)](zh_CN/products/display/oled/1.54_Inch/1.54_Inch)
 
 
 

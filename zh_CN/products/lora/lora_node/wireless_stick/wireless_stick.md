@@ -2,94 +2,50 @@
 ***
 &nbsp;
 
-
-<img src="img/products/lora/lora_node/wireless_stick/01.jpg">
+<img src="img/products/lora/lora_node/wireless_stick/02.jpg">
 
 * * *
 
-**[Description](#Description)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[Quick Start](https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[Example](https://github.com/HelTecAutomation/Heltec_ESP32)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[For More Information](http://www.heltec.cn/project/wireless-stick/)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[Purchase](https://item.taobao.com/item.htm?spm=a1z10.1-c.w14865798-17001092431.1.72c71d6fGYbaJn&id=584124017321)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:clapper: **[Other Links](#Other-Links)**
+![](http://heltec.cn/icon/idea.png)**[产品详情](http://www.heltec.cn/project/wireless-stick/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](http://heltec.cn/icon/startup.png)**[ESP32开发环境安装](https://docs.heltec.cn/#/zn_CN/user_manual/how_to_install_esp32_Arduino)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](http://heltec.cn/icon/list.png)**[参数](#参数)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](http://heltec.cn/icon/shop.png)**[订购](https://item.taobao.com/item.htm?spm=a1z10.1-c.w14865798-17001092431.1.72c71d6fGYbaJn&id=584124017321)** &nbsp;&nbsp;&nbsp;&nbsp; ![](http://heltec.cn/icon/link.png)**[相关链接](#相关链接)**
 
-## Description
+&nbsp;
 
- - **The Wireless Stick** is a perfect enterprise-level IoT platform based on LoRa chip and 32-bit dual core **ESP32** chip. 
- - It can be used as a **gateway** for the ioT or as a **driver terminal product**
- - Deep dormancy: 800uA ,4MB RAM and 64M-Bit External FLASH storage
- - **Exclusive** Arduino version of ESP32 + LoRaWAN protocol routines
- - A CE certificate will be provided later
- - Integrated WiFi, LoRa, Bluetooth three network connections
- 
-*The LoRa Resolution*
+## 主要特性
 
- - LoRa spread spectrum communication has the characteristics of long communication distance
- - A gateway can communicate with more than 1000 nodes.
- - LoRaWAN is the first Internet of Things to propose double encryption
- - Improve the low-power part of the lorawan source to reduce the use of the battery to a greater extent 
- 
-*The OLED Resolution: 64x32*
+ - **The Wireless Stick** 是一款基于SX1276 LoRa芯片和32位双核**ESP32 **芯片，完美的企业级物联网平台;
+ - 兼容Arduino，NodeMCU，Mciro Python等。
+ - **支持 [ESP32 LoRaWAN](https://github.com/HelTecAutomation/ESP32_LoRaWAN) 协议;**
+ - 板载OLED (64*32) 显示屏;
+ - 基本低功耗设计。
 
-<table>
- <tr><td>ESP32 Chip</td><td>GPIO15</td><td>GPIO4</td><td>GPIO16</td></tr>
- <tr><td>SSD1306</td><td>OLED_SCL</td><td>OLED_SDA</td><td>OLED_RST</td></tr>
 
-</table>
- 
- ## Parameter
 
-<table>
-   <tr style="font-weight:bold">
-      <td>Source</td>
-      <td>Parameter</td>
-   </tr>
-   <tr>
-      <td>ESP32</td>
-      <td>240MHz dual core, 600 DMIPS, 520KB SRAM, Wi-Fi, dual mode Bluetooth</td>
-   </tr>
-   <tr>
-      <td>Flash</td>
-      <td>64M-bits</td>
-   </tr>
-   <tr>
-      <td>Input</td>
-      <td>5V @ 500mA</td>
-   </tr>
-   <tr>
-      <td>Interface</td>
-      <td>MircoUSB x 1, LoRa(IPEX) x 1</td>
-   </tr>
-   <tr>
-      <td>OLED</td>
-      <td>0.49 inch, 64x32 </td>
-   </tr>
-   <tr>
-      <td>LoRa support frequency band</td>
-      <td>SX1276(868-915, 923MHz);SX1278(433-510MHz)</td>
-   </tr>
-   <tr>
-      <td>Processor</td>
-      <td>2 Tensilica LX6 + 1 ULP processor</td>
-   </tr>
-   <tr>
-      <td>Op.Temp.</td>
-      <td>30�C to 80�C</td>
-   </tr>
-   <tr>
-      <td>Operating Voltage</td>
-      <td>3.3v ~ 7v</td>
-   </tr>
-   <tr>
-      <td>Size</td>
-      <td>50.2 x 25.5 x 9.74 mm</td>
-   </tr>
-   <tr>
-      <td>USB transfer interface chip</td>
-      <td>CP2102</td>
-   </tr>
-</table>
+ ## 参数
 
-## PinoutDiagram
+| 主控资源           | 参数                                                         |
+| ------------------ | :----------------------------------------------------------- |
+| ESP32              | 240MHz 双核, 600 DMIPS, 520KB SRAM, Wi-Fi, 双模蓝牙          |
+| 处理器             | 2 Tensilica LX6 + 1 ULP processor                            |
+| Flash闪存          | 8MB(64M-bits) external FLASH                                 |
+| 接口               | MircoUSB x 1, LoRa(IPEX) x 1                                 |
+| OLED屏             | 0.49 寸, 64x32                                               |
+| LoRa 频段 (MHz)    | EU_433, CN_470_510, EU_863_870, US_902_928 可选              |
+| 工作温度           | -10°C ~ 80°C                                                 |
+| 工作电压           | 3.3v ~ 7v                                                    |
+| 大小               | 50.2 x 25.5 x 9.74 mm                                        |
+| USB转接口芯片      | [CP2102](https://docs.heltec.cn/#/zh_CN/user_manual/establish_serial_connection) |
+| 电池类型           | 锂电池                                                       |
+| 电池检测电路       | √                                                            |
+| 外部电源控制(Vext) | √                                                            |
+| 低功耗设计         | 800uA in deep sleep mode.                                    |
 
-<img src="img/products/lora/lora_node/wireless_stick/02.png">
+&nbsp;
 
-## Other Links
+## 相关链接
 
--  **Datasheet** - [ESP32](https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_cn.pdf)
+- ![](http://heltec.cn/icon/left_hand.png)**[产品详情](http://www.heltec.cn/project/wireless-stick/)**  *+ + + 包括一系列资源（持续更新中） + + +*
+
+- [引脚图](https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series/blob/master/PinoutDiagram/Wireless%20Stick.pdf)
+- **[原理图](https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series/tree/master/SchematicDiagram/WiFi_LoRa_32(V2))**
+- [ESP32 MCU 数据手册](https://www.espressif.com/en/products/hardware/esp32/resources)
+- [首页](http://www.heltec.cn/?lang=en)
