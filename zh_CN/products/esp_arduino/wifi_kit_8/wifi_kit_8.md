@@ -4,7 +4,7 @@
 
 &nbsp;
 
-<img src="img/products/display/esp_arduino/wifi_kit_8/01.png">
+<img src="img/products/esp_arduino/wifi_kit_8/01.png">
 
 
 

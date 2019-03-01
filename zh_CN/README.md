@@ -36,17 +36,23 @@
 
 # Heltec ESP Arduino系列
 
+![](http://heltec.cn/icon/link.png) **[Heltec ESP Arduino各型号差异对照表](/zh_CN/products/esp_arduino/heltec_esp_arduino_list_eu.md)**
+
 ------
 
-&nbsp;
+
 
 **WiFi Kit 系列**
 
-[![wifi_kit_32.jpg](http://heltec.cn/img/wifi_kit_32.jpg)](zh_CN/products/display/esp_arduino/wifi_kit_32/wifi_kit_32)&nbsp;&nbsp;&nbsp; [![wifi_kit_8.jpg](http://heltec.cn/img/wifi_kit_8.jpg)](zh_CN/products/display/esp_arduino/wifi_kit_8/wifi_kit_8)
+[![wifi_kit_32.jpg](http://heltec.cn/img/wifi_kit_32.jpg)](zh_CN/products/esp_arduino/wifi_kit_32/wifi_kit_32)&nbsp;&nbsp;&nbsp; [![wifi_kit_8.jpg](http://heltec.cn/img/wifi_kit_8.jpg)](zh_CN/products/esp_arduino/wifi_kit_8/wifi_kit_8)
 
 &nbsp;
 
 # OLED点阵屏
+
+![](http://heltec.cn/icon/link.png) **[OLED点阵屏各型号差异对照表](/zh_CN/products/display/oled /heltec_oled_display_list_eu.md)**
+
+
 
 **0.96" 寸OLED**
 

@@ -33,16 +33,20 @@
 
 # Heltec ESP Arduino
 
+![](http://heltec.cn/icon/link.png) [Heltec ESP Arduino Product Difference Table](en\products\esp_arduino\heltec_esp_arduino_list_eu.md)
+
 ***
 &nbsp;
 
 **WiFi Kit Series**
 
-[![wifi_kit_32.jpg](http://heltec.cn/img/wifi_kit_32.jpg)](en/products/display/esp_arduino/wifi_kit_32/wifi_kit_32)&nbsp;&nbsp;&nbsp; [![wifi_kit_8.jpg](http://heltec.cn/img/wifi_kit_8.jpg)](en/products/display/esp_arduino/wifi_kit_8/wifi_kit_8)
+[![wifi_kit_32.jpg](http://heltec.cn/img/wifi_kit_32.jpg)](en/products/esp_arduino/wifi_kit_32/wifi_kit_32)&nbsp;&nbsp;&nbsp; [![wifi_kit_8.jpg](http://heltec.cn/img/wifi_kit_8.jpg)](en/products/esp_arduino/wifi_kit_8/wifi_kit_8)
 
 &nbsp;
 
 # Heltec OLED Display
+
+![](http://heltec.cn/icon/link.png) [Heltec OLED Display product Difference Table](en\products\display\oled\heltec_oled_display_list_eu.md)
 
 **0.96" OLED Display**
 

@@ -2,7 +2,7 @@
 ***
 &nbsp;
 
-<img src="img/products/display/esp_arduino/wifi_kit_32/01.jpg">
+<img src="img/products/esp_arduino/wifi_kit_32/01.jpg">
 
 
 
