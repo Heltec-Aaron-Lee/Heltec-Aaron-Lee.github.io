@@ -6,7 +6,7 @@
 
 * * *
 
-![](http://heltec.cn/icon/idea.png)**[产品详情](http://www.heltec.cn/project/wireless-stick/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](http://heltec.cn/icon/startup.png)**[ESP32开发环境安装](https://docs.heltec.cn/#/zn_CN/user_manual/how_to_install_esp32_Arduino)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](http://heltec.cn/icon/list.png)**[参数](#参数)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](http://heltec.cn/icon/shop.png)**[订购](https://item.taobao.com/item.htm?spm=a1z10.1-c.w14865798-17001092431.1.72c71d6fGYbaJn&id=584124017321)** &nbsp;&nbsp;&nbsp;&nbsp; ![](http://heltec.cn/icon/link.png)**[相关链接](#相关链接)**
+![](http://heltec.cn/icon/idea.png)**[产品详情](http://www.heltec.cn/project/wireless-stick/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](http://heltec.cn/icon/startup.png)**[ESP32开发环境安装](https://docs.heltec.cn/#/zh_CN/user_manual/how_to_install_esp32_Arduino)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](http://heltec.cn/icon/list.png)**[参数](#参数)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](http://heltec.cn/icon/shop.png)**[订购](https://item.taobao.com/item.htm?spm=a1z10.1-c.w14865798-17001092431.1.72c71d6fGYbaJn&id=584124017321)** &nbsp;&nbsp;&nbsp;&nbsp; ![](http://heltec.cn/icon/link.png)**[相关链接](#相关链接)**
 
 &nbsp;
 

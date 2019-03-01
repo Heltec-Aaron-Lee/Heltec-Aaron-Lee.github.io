@@ -27,7 +27,7 @@
 
  ## 参数
 
-| 主控资源            | Parameter                                                    |
+| 主控资源            | 参数                                                         |
 | ------------------- | ------------------------------------------------------------ |
 | ESP32               | 240MHz 双核, 600 DMIPS, 520KB SRAM, Wi-Fi, 双模蓝牙          |
 | 处理器              | 2 Tensilica LX6 + 1 ULP 处理器                               |
@@ -46,7 +46,7 @@
 
 
 
-## Other Links
+## 相关链接
 
 - ![](http://heltec.cn/icon/left_hand.png)**[产品详情](http://www.heltec.cn/project/wifi-lora-32/)**  **+++包括一系列资源（持续更新中）+++**
 

@@ -18,7 +18,7 @@
 
 **LoRa 节点**
 
-![link](http://www.heltec.cn/icon/link.png) **[Heltec LoRa节点各型号差异对照表](zn_CN\products\lora\lora_node\heltec_lora_node_list_eu.md)** 
+![link](http://www.heltec.cn/icon/link.png) **[Heltec LoRa节点各型号差异对照表](/zh_CN/products/lora/lora_node/heltec_lora_node_list_eu.md)** 
 
 ------
 
