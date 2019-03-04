@@ -50,7 +50,7 @@
 
 # OLED点阵屏
 
-![](http://heltec.cn/icon/link.png) **[OLED点阵屏各型号差异对照表](/zh_CN/products/display/oled /heltec_oled_display_list_eu.md)**
+![](http://heltec.cn/icon/link.png) **[OLED点阵屏各型号差异对照表](https://github.com/Heltec-Aaron-Lee/Heltec-Aaron-Lee.github.io/blob/master/zh_CN/products/display/oled/heltec_oled_display_list_eu.md)**
 
 ------
 
