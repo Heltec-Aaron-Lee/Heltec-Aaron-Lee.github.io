@@ -10,14 +10,14 @@
       {
           "category": "ESP32", 
           "name": "Heltec ESP32 Series Dev-boards", 
-          "url": "https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series/releases/download/1.0.2-rc1/esp32-1.0.2-rc1.zip", 
-          "checksum": "SHA-256:cac658fb8b55cf89a50a929d1a19c6e309d0e33d9a1b0a60285e76afda4d050a", 
+          "url": "https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series/releases/download/0.0.2-rc1/esp32-0.0.2-rc1.zip", 
+          "checksum": "SHA-256:966bdb2a51e03175de30896e0ae47d3376954ab1487b0bfa577b350800b1948f", 
           "help": {
             "online": ""
           }, 
-          "version": "1.0.2-rc1", 
+          "version": "0.0.2-rc1", 
           "architecture": "esp32", 
-          "archiveFileName": "esp32-1.0.2-rc1.zip", 
+          "archiveFileName": "esp32-0.0.2-rc1.zip", 
           "boards": [
             {"name": "WiFi Kit 32"}, 
             {"name": "WiFi LoRa 32"}, 
