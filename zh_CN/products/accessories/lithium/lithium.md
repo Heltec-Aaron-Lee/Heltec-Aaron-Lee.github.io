@@ -1,28 +1,28 @@
-# Lithium
+# 锂电池
 
 
 
- ![](http://heltec.cn/icon/list.png)**[Parameter](#parameter)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](http://heltec.cn/icon/shop.png)**[Purchase](https://item.taobao.com/item.htm?spm=2013.1.20141001.1.18545cc3k9jZcF&id=575306601114&scm=1007.12144.95220.42296_0&pvid=e65b35cd-abf8-4d33-b0b0-bc8517921844&utparam=%7B%22x_hestia_source%22%3A%2242296%22%2C%22x_object_type%22%3A%22item%22%2C%22x_mt%22%3A0%2C%22x_src%22%3A%2242296%22%2C%22x_pos%22%3A1%2C%22x_pvid%22%3A%22e65b35cd-abf8-4d33-b0b0-bc8517921844%22%2C%22x_object_id%22%3A575306601114%7D)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ ![](http://heltec.cn/icon/list.png)**[参数](#参数)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](http://heltec.cn/icon/shop.png)**[购买](https://item.taobao.com/item.htm?spm=2013.1.0.0.4d827a0e4EJYub&id=556025938259)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
 &nbsp;
 
 
 
-## Parameter
+## 参数
 
 
 
-| Source                        | Parameter               |
-| ----------------------------- | ----------------------- |
-| Product number                | 802540 852540           |
-| Standard Voltage              | 3.7V                    |
-| Rated Capacity                | 1000mAh                 |
-| Size                          | 25±0.5 X 41±1 X 8±0.5mm |
-| Working Voltage               | 1.5A                    |
-| Overcurrent protection        | 2～3A                   |
-| Overcharge limit              | 4.25±0.05V              |
-| Over-discharge pressure limit | 2.40±0.30V              |
-| Maximum charging current      | 0.5C                    |
-| Continuous discharge current  | 0.5C                    |
-| Maximum discharge current     | 1C                      |
+| 主控资源     | 参数                    |
+| ------------ | ----------------------- |
+| 产品型号     | 802540 852540           |
+| 标称电压     | 3.7V                    |
+| 额定容量     | 1000mAh                 |
+| 大小         | 25±0.5 X 41±1 X 8±0.5mm |
+| 工作电流     | 1.5A                    |
+| 过流保护     | 2～3A                   |
+| 过冲限压     | 4.25±0.05V              |
+| 过放限压     | 2.40±0.30V              |
+| 最大充电电流 | 0.5C                    |
+| 连续放电电流 | 0.5C                    |
+| 最大放电电流 | 1C                      |
 
