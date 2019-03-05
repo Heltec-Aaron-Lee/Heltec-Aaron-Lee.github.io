@@ -42,9 +42,9 @@
 
 
 
-## Other Accessories
+## Recommend Accessories
 
-- [Lithium](http://docs.heltec.cn/#/en/products/accessories/lithium/lithium)
+- [Battery socket connector](http://docs.heltec.cn/#/en/products/accessories/battery/battery)
 
 - [433~510 antenna](http://docs.heltec.cn/#/en/products/accessories/antenna/433_antenna/433_antenna)
 
