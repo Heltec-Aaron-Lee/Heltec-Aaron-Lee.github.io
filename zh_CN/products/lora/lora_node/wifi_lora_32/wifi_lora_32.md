@@ -46,6 +46,15 @@
 
 
 
+## 推荐配件
+
+- [锂电池](http://docs.heltec.cn/#/zn_CN/products/lithium/lithium)
+- [433~510 天线](http://docs.heltec.cn/#/zn_CN/products/accessories/antenna/433_antenna/433_antenna)
+- [868~915 天线](http://docs.heltec.cn/#/zn_CN/products/accessories/antenna/868_antenna/868_antenna)
+- [散热片](http://docs.heltec.cn/#/zn_CN/products/accessories/heat_sink/heat_sink)
+
+
+
 ## 相关链接
 
 - ![](http://heltec.cn/icon/left_hand.png)**[产品详情](http://www.heltec.cn/project/wifi-lora-32/)**  **+++包括一系列资源（持续更新中）+++**

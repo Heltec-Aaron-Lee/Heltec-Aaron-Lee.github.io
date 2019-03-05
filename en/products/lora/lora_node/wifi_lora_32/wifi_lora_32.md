@@ -45,10 +45,9 @@
 ## Recommend Accessories
 
 - [Battery socket connector](http://docs.heltec.cn/#/en/products/accessories/battery/battery)
-
 - [433~510 antenna](http://docs.heltec.cn/#/en/products/accessories/antenna/433_antenna/433_antenna)
-
 - [868~915 antenna](http://docs.heltec.cn/#/en/products/accessories/antenna/868_antenna/868_antenna)
+- [heat_sink](http://docs.heltec.cn/#/en/products/accessories/heat_sink/heat_sink)
 
 
 
