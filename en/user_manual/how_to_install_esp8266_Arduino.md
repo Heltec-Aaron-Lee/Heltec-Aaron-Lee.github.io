@@ -43,7 +43,7 @@ Search `Heltec ESP8266` and install it
 
 <img src="img/how_to_install_esp8266_Arduino/06.png">
 
-<img src="img/how_to_install_esp8266_Arduino/07.jpg">
+<img src="img/how_to_install_esp8266_Arduino/07.png">
 
 
 ## Example

@@ -41,6 +41,14 @@
 
 &nbsp;
 
+## Other Accessories
+
+- [Lithium](http://docs.heltec.cn/#/en/products/accessories/lithium/lithium)
+- [433~510 antenna](http://docs.heltec.cn/#/en/products/accessories/antenna/433_antenna/433_antenna)
+- [868~915 antenna](http://docs.heltec.cn/#/en/products/accessories/antenna/868_antenna/868_antenna)
+
+
+
 ## Other Links
 
 - ![](http://heltec.cn/icon/left_hand.png)**[Product page](http://www.heltec.cn/project/wireless-stick/?lang=en)**  *+ + + important + + +*
