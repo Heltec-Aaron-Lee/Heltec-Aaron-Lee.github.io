@@ -6,7 +6,7 @@
 
 **“Heltec ESP Arduino” product family already included follow options:**
 
-- WIFI Kit 32, WIFI Kit 8 optional;
+- 5V micro usb power and Power management circuit
 - Battery powered;
 
 &nbsp;

@@ -1,4 +1,4 @@
-# Heltec Automation(TM) Products Page
+# x`Heltec Automation(TM) Products Page
 
 ***
 &nbsp;***+++ This page is currently under construction! +++***
@@ -76,7 +76,7 @@
 
 **1.54" OLED Display**
 
-[![1.3_Inch.jpg](http://www.heltec.cn/img/1.54spd0301_white.jpg)](en/products/display/oled/1.54_Inch/1.54_Inch)&nbsp;&nbsp;&nbsp; [![1.3_Inch.jpg](http://www.heltec.cn/img/1.54spd0301_iic_white.jpg)](en/products/display/oled/1.54_Inch/1.54_Inch)
+ [![1.3_Inch.jpg](http://www.heltec.cn/img/1.54spd0301_iic_white.jpg)](en/products/display/oled/1.54_Inch/1.54_Inch)
 
 
 
@@ -92,15 +92,13 @@
 
 # Other Accessories
 
-#### Lithium
 
 
 
-[![lithium.png](http://www.heltec.cn/img/lithium.png)](en/products/accessories/lithium/lithium)&nbsp;[![433antenna.png](http://www.heltec.cn/img/433antenna.png)](en/products/accessories/antenna/433_antenna/433_antenna)&nbsp;[![868antenna.png](http://wwww.heltec.cn/img/868antenna.png)](en/products/accessories/antenna/868_antenna/868_antenna)[![heat_sink.png](http://www.heltec.cn/img/heat_sink.png)](en/products/accessories/heat_sink/heat_sink/heat_sink)1
 
-[![battery.png](www.heltec.cn/img/battery.png)](en/products/accessories/battery/battery)
+[![lithium.png](http://www.heltec.cn/img/lithium.png)](en/products/accessories/lithium/lithium)&nbsp;&nbsp;&nbsp;&nbsp;[![433antenna.png](http://www.heltec.cn/img/433antenna.png)](en/products/accessories/antenna/433_antenna/433_antenna)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![868antenna.png](http://wwww.heltec.cn/img/868antenna.png)](en/products/accessories/antenna/868_antenna/868_antenna)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![heat_sink.png](http://www.heltec.cn/img/heat_sink.png)](en/products/accessories/heat_sink/heat_sink)
 
-
+[![battery.png](www.heltec.cn/img/battery.png)](en/products/accessories/battery/battery)&nbsp;&nbsp;&nbsp;&nbsp;[![](www.heltec.cn/img/battery.png)](en/products/accessories/battery/battery)&nbsp;&nbsp;&nbsp;&nbsp;[![](www.heltec.cn/img/ch340g.png)](en/products/accessories/ch340g/ch340g)&nbsp;&nbsp;&nbsp;&nbsp;[![](www.heltec.cn/img/sd_card.png)](en/products/accessories/sd_card/sd_card)
 
 <!-- GitHub Buttons -->
 

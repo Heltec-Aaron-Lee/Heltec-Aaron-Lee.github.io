@@ -24,9 +24,9 @@ Open Arduino IDE, and click `File`->`Peferences`->`Settings`
 
 <img src="img/how_to_install_esp8266_Arduino/02.png">
 
-Input last esp32 board manager URL
+Input last esp8266 board manager URL
 
-*Now the last board manager URL: https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series/releases/download/0.0.1/package_heltec_esp8266_index.json*
+*Now the last board manager URL: [https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series/releases/download/0.0.1/package_heltec_esp8266_index.json](https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series/releases/download/0.0.1/package_heltec_esp8266_index.json)*
 
 <img src="img/how_to_install_esp8266_Arduino/03.png">
 
