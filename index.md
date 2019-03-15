@@ -15,7 +15,7 @@
 
 **LoRa Nodes**
 
-![link](http://www.heltec.cn/icon/link.png) **[Heltec LoRa Node Products Difference Table](en\products\lora\lora_node\heltec_lora_node_list_eu.md)** 
+![link](http://www.heltec.cn/icon/link.png) **[Heltec LoRa Node Products Difference Table](en/products/lora/lora_node/heltec_lora_node_list_eu.md)** 
 
 ***
 
@@ -33,7 +33,7 @@
 
 # Heltec ESP Arduino
 
-![](http://heltec.cn/icon/link.png) [Heltec ESP Arduino Product Difference Table](en\products\esp_arduino\heltec_esp_arduino_list_eu.md)
+![](http://heltec.cn/icon/link.png) [Heltec ESP Arduino Product Difference Table](en/products/esp_arduino/heltec_esp_arduino_list_eu.md)
 
 ***
 &nbsp;
@@ -46,7 +46,7 @@
 
 # Heltec OLED Display
 
-![](http://heltec.cn/icon/link.png) [Heltec OLED Display product Difference Table](en\products\display\oled\heltec_oled_display_list_eu.md)
+![](http://heltec.cn/icon/link.png) [Heltec OLED Display product Difference Table](en/products/display/oled/heltec_oled_display_list_eu.md)
 
 **0.96" OLED Display**
 
