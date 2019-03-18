@@ -50,7 +50,7 @@
 
 **0.96" OLED Display**
 
-[![0.96_Inch.jpg](http://www.heltec.cn/img/0.96ssd1306_blue.jpg)](en/products/display/oled/0.96_Inch/0.96_Inch)&nbsp;&nbsp;&nbsp; [![0.96_Inch.jpg](http://www.heltec.cn/img/0.96ssd1306.jpg)](en/products/display/oled/0.96_Inch/0.96_Inch)
+[![0.96_Inch.jpg](https://heltecdotcn.wpcomstaging.com/wp-content/uploads/2019/03/0.96ssd1306_blue.jpg)](en/products/display/oled/0.96_Inch/0.96_Inch)&nbsp;&nbsp;&nbsp; [![0.96_Inch.jpg](http://www.heltec.cn/img/0.96ssd1306.jpg)](en/products/display/oled/0.96_Inch/0.96_Inch)
 
 
 
