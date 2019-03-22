@@ -11,7 +11,7 @@
     -2. [ESP32开发板例程下载](#ESP32开发板例程下载)
     
 2. [示例](#示例)    
-    
+  
 ## 编译环境和例程下载
 
 *(只需两步即可获得ESP8266开发板编译环境和例程)*
@@ -26,7 +26,7 @@
 
 输入附加开发板管理器网址
 
-*现在最新的ESP32开发版网址: https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series/releases/download/0.0.1/package_heltec_esp32_index.json*
+现在最新的ESP32开发版网址: [https://docs.heltec.cn/download/package_heltec_esp32_index.json](https://docs.heltec.cn/download/package_heltec_esp32_index.json)
 
 <img src="img/how_to_install_esp32_Arduino/03.png">
 

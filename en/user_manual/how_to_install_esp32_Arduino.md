@@ -26,7 +26,7 @@ Open Arduino IDE, and click `File`->`Peferences`->`Settings`
 
 Input last esp32 board manager URL
 
-*Now the last board manager URL: [docs.heltec.cn/download/package_heltec_esp32_index.json](docs.heltec.cn/download/package_heltec_esp32_index.json)*
+*Now the last board manager URL: [https://docs.heltec.cn/download/package_heltec_esp32_index.json](https://docs.heltec.cn/download/package_heltec_esp32_index.json)*
 
 <img src="img/how_to_install_esp32_Arduino/03.png">
 
