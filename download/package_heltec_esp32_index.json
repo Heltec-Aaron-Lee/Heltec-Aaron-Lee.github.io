@@ -11,7 +11,7 @@
           "category": "ESP32", 
           "name": "Heltec ESP32 Series Dev-boards", 
           "url": "https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series/releases/download/0.0.2-rc1/esp32-0.0.2-rc1.zip", 
-          "checksum": "SHA-256:83ff72bf8fca20bd1f5a9b222806b393243374d7e49e1ba31d9b991a7ba61639", 
+          "checksum": "SHA-256:21cc7d6786b2bad59612f995d41b15a3bccf89351f639ec741f8582a695c349d", 
           "help": {
             "online": ""
           }, 
@@ -42,7 +42,7 @@
               "name": "mkspiffs"
             }
           ], 
-          "size": "32331455"
+          "size": "30380883"
         },
         {
           "category": "ESP32", 
