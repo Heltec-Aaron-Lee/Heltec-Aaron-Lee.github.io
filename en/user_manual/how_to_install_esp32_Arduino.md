@@ -34,9 +34,9 @@ Click `Tools`->`Board:`->`Boards Manager...`, search `Heltec ESP32` in the new p
 
 <img src="img/how_to_install_esp32_Arduino/04.png">
 
-<img src="img/how_to_install_esp32_Arduino/05.jpg">
+<img src="img/how_to_install_esp32_Arduino/05.png">
 
-The source code of Heltec ESP series (ESP32 & ESP8266) frame work available here: [https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series](https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series)
+The source code of Heltec ESP series (ESP32 & ESP8266) framework available here: [https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series](https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series)
 
 
 
@@ -47,7 +47,7 @@ Search `Heltec ESP32` and install it
 
 <img src="img/how_to_install_esp32_Arduino/06.png">
 
-<img src="img/how_to_install_esp32_Arduino/07.jpg">
+<img src="img/how_to_install_esp32_Arduino/07.png">
 
 The source code of `Heltec ESP32` library available here: [https://github.com/HelTecAutomation/Heltec_ESP32](https://github.com/HelTecAutomation/Heltec_ESP32)
 

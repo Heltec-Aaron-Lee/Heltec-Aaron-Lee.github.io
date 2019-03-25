@@ -34,7 +34,7 @@
 
 <img src="img/how_to_install_esp32_Arduino/04.png">
 
-<img src="img/how_to_install_esp32_Arduino/05.jpg">
+<img src="img/how_to_install_esp32_Arduino/05.png">
 
 Heltec ESP系列(ESP32和ESP8266)开发环境源码在这里：[https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series](https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series)
 
@@ -47,7 +47,7 @@ Heltec ESP系列(ESP32和ESP8266)开发环境源码在这里：[https://github.c
 
 <img src="img/how_to_install_esp32_Arduino/06.png">
 
-<img src="img/how_to_install_esp32_Arduino/07.jpg">
+<img src="img/how_to_install_esp32_Arduino/07.png">
 
 `Heltec ESP32`库的源码在这里: [https://github.com/HelTecAutomation/Heltec_ESP32](https://github.com/HelTecAutomation/Heltec_ESP32)
 
