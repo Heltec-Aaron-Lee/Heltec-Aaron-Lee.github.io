@@ -11,7 +11,7 @@
     -2. [ESP32开发板例程下载](#ESP32开发板例程下载)
     
 2. [示例](#示例)    
-  
+
 ## 编译环境和例程下载
 
 *(只需两步即可获得ESP8266开发板编译环境和例程)*
@@ -36,7 +36,11 @@
 
 <img src="img/how_to_install_esp32_Arduino/05.jpg">
 
-### ESP32开发板例程下载
+Heltec ESP系列(ESP32和ESP8266)开发环境源码在这里：[https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series](https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series)
+
+
+
+### ESP32开发板例程(库)下载
 
 打开 Arduino IDE, 选择 `Sketch`->`Include Library`->`Manage Libraries...`
 搜索 `Heltec ESP32` 并安装。
@@ -44,6 +48,8 @@
 <img src="img/how_to_install_esp32_Arduino/06.png">
 
 <img src="img/how_to_install_esp32_Arduino/07.jpg">
+
+`Heltec ESP32`库的源码在这里: [https://github.com/HelTecAutomation/Heltec_ESP32](https://github.com/HelTecAutomation/Heltec_ESP32)
 
 
 ## 示例
