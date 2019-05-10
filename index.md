@@ -9,6 +9,8 @@
 
 **LoRa Gateway**
 
+![link](http://www.heltec.cn/icon/link.png) **[Heltec LoRa Gateway Products Difference Table](en/products/lora/lora_node/heltec_lora_node_list_eu.md)** 
+
 [![HT-M01.jpg](http://heltec.cn/img/ht_m01.jpg)](en/products/lora/lora_gateway/ht-m01/ht-m01)
 
 &nbsp;
@@ -50,7 +52,7 @@
 
 **0.96" OLED Display**
 
-[![0.96_Inch.jpg](https://heltecdotcn.wpcomstaging.com/wp-content/uploads/2019/03/0.96ssd1306_blue.jpg)](en/products/display/oled/0.96_Inch/0.96_Inch)&nbsp;&nbsp;&nbsp; [![0.96_Inch.jpg](http://www.heltec.cn/img/0.96ssd1306.jpg)](en/products/display/oled/0.96_Inch/0.96_Inch)
+[![0.96_Inch.jpg](https://heltec.org/wp-content/uploads/2019/03/0.96ssd1306_blue.jpg)](en/products/display/oled/0.96_Inch/0.96_Inch)&nbsp;&nbsp;&nbsp; [![0.96_Inch.jpg](http://www.heltec.cn/img/0.96ssd1306.jpg)](en/products/display/oled/0.96_Inch/0.96_Inch)
 
 
 
@@ -83,6 +85,8 @@
 &nbsp;
 
 # Heltec E-Ink Display
+
+![](http://heltec.cn/icon/link.png) [Heltec E-Ink Display product Difference Table](<https://docs.heltec.cn/#/en/products/display/eink/heltec_eink_display_list_eu>)
 
 &nbsp;
 
