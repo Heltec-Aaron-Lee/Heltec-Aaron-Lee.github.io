@@ -11,19 +11,22 @@
 
   
 
+| Size (Inch) |        Color Option        | Driver IC |                 Interface                 | OLED Panel Charge Pump | Connector |   Assemble Method    |
+| :---------: | :------------------------: | :-------: | :---------------------------------------: | :--------------------: | :-------: | :------------------: |
+|    0.49     |           white            |  SSD1306  |                    IIC                    |        Internal        |  14P FPC  |      soldering       |
+|    0.91     |           white            |  SSD1306  |                    IIC                    |        Internal        |  14P FPC  |      soldering       |
+|    0.96     | white, blue, yellow & blue |  SSD1306  | 8-bit 68XX/80XX Parallel, 4-wire SPI, I2C |        Internal        |  30P FPC  |      soldering       |
+|     1.3     |        white, blue         |  SH1106   | 8-bit 68XX/80XX Parallel, 4-wire SPI, I2C |        Internal        |  30P FPC  |      soldering       |
+|    1.54     |           white            |  SPD0301  | 8-bit 68XX/80XX Parallel, 4-wire SPI, I2C |        External        |  24P FFC  | 0.5 x 24P FFC Socket |
+|     2.4     |           white            |  SPD0301  | 8-bit 68XX/80XX Parallel, 4-wire SPI, I2C |        External        |  24P FFC  | 0.5 x 24P FFC Socket |
 
 
-| Product                                                      |          Size           | Driver chip | Op.Temp.   | Communication | specification* |
-| ------------------------------------------------------------ | :---------------------: | ----------- | ---------- | :-----------: | :------------: |
-| [0.96_inch](http://www.heltec.cn/project/0-96-inch-oled-screen/?lang=en) |   27.0 X 27.0 X 4.1mm   | SSD1306     | -30°C~80°C |  SPI or IIC   |     three      |
-| [1.3_inch](http://www.heltec.cn/project/1-3-inch-oled-screen/?lang=en) |   35.5 X 27.0 X 4.1mm   | SH1106      | -30°C~80°C |  SPI or IIC   |      two       |
-| [1.54_inch](http://www.heltec.cn/project/1-3-inch-oled-screen/?lang=en) | 42.46 X 35.94 X 11.48mm | SPD0301     | -40°C~85°C |  SPI or IIC   |      one       |
 
 
 
 **Notes：**
 
 1. specification：
-   - threee-- white;Blue;Blue&Yellow
+   - threee-- white; Blue; Blue&Yellow
    - two -- Blue; White.
    - one —White.
