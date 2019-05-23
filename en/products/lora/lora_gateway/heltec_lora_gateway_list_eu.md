@@ -15,8 +15,8 @@
 
 |                    Product                     |    Type*    |      Protection level       |    Power supply     |
 | :--------------------------------------------: | :---------: | :-------------------------: | :-----------------: |
-| [HT-M01](<https://heltec.org/project/ht-m01/>) |  Pico cell  |     Basic RF Protection     |  PoE or 220/110VAC  |
-| [HT-M02](<https://heltec.org/project/ht-m02/>) | Independent | IP67 and full RF Protection | USB or Header 5V DC |
+| [HT-M01](<https://heltec.org/project/ht-m01/>) |  Pico cell  |     Basic RF Protection     | USB or Header 5V DC |
+| [HT-M02](<https://heltec.org/project/ht-m02/>) | Independent | IP67 and full RF Protection |  PoE or 220/110VAC  |
 
 &nbsp;
 
