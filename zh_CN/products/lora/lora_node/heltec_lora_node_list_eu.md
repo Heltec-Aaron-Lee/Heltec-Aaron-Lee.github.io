@@ -1,36 +1,36 @@
-# Heltec LoRa节点各型号差异对照表
+# Heltec LoRa Node Products Difference Table
 
 
 
 ------
 
-**“Heltec LoRa” 产品系列已包含以下选项**
+**“Heltec LoRa” product family already included follow options:**
 
-- LoRa扩频通信（节点）;
-- 电池供电;
-- 良好的RF电路设计和阻抗匹配。
-
-&nbsp;
-
-|                             产品                             |  类型  |                             MCU                              | FLASH |          电池           | 电池检测 | Vext* | 低功耗 |    显示屏     |
-| :----------------------------------------------------------: | :----: | :----------------------------------------------------------: | :---: | :---------------------: | :------: | :---: | :----: | :-----------: |
-| [WiFi LoRa 32](http://www.heltec.cn/project/wifi-lora-32/?lang=en) | 开发版 | [ESP32](https://www.espressif.com/en/products/hardware/esp32/resources) |  4MB  |         锂电池*         |    x     |   x   |   x    | OLED (128x64) |
-| [WiFi LoRa 32(V2)](http://www.heltec.cn/project/wifi-lora-32/?lang=en) | 开发版 | [ESP32](https://www.espressif.com/en/products/hardware/esp32/resources) |  8MB  |         锂电池*         |    √     |   √   | 800uA  | OLED (128x64) |
-| [Wireless Stick](https://docs.heltec.cn/#/en/products/lora/lora_node/wireless_stick/wireless_stick) | 开发版 | [ESP32](https://www.espressif.com/en/products/hardware/esp32/resources) |  8MB  |         锂电池*         |    √     |   √   | 800uA  | OLED (64x32)  |
-|                     Wireless Stick Lite                      | 开发版 | [ESP32-PICO](https://www.espressif.com/en/products/hardware/esp32/resources) |  4MB  |         锂电池*         |    √     |   √   |  35uA  |       x       |
-|                        Wireless Shell                        |  模块  | [ESP32-PICO](https://www.espressif.com/en/products/hardware/esp32/resources) |  4MB  |           --            |    √     |   x   |  35uA  |       x       |
-|                         LoRa Kit 151                         | 开发版 | [STM32L151CBU6](https://www.st.com/content/st_com/en/products/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus/stm32-ultra-low-power-mcus/stm32l1-series/stm32l151-152/stm32l151cb.html) | 128kB |         锂电池          |    x     |   x   |  7uA   |       x       |
-|                        LoRa Node 151                         | 开发版 | [STM32L151CCU6](https://www.st.com/content/st_com/en/products/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus/stm32-ultra-low-power-mcus/stm32l1-series/stm32l151-152/stm32l151cc.html) | 256kB | 1/2 AA 锂氯亚硫酸盐电池 |    √     |   √   | 1.8uA  |       x       |
-|                         Turtle Board                         | 开发版 | [STM32L432KC](https://www.st.com/content/st_com/en/products/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus/stm32-ultra-low-power-mcus/stm32l4-series/stm32l4x2/stm32l432kc.html) | 256kB |         AAA x 2         |    √     |   √   |  5uA   |       x       |
+- LoRa spread spectrum communication (node);
+- Battery powered;
+- Good RF circuit design and impedance matching.
 
 &nbsp;
 
-**注意：**
+|                           Product                            |   Type*   |                             MCU                              | FLASH |                 Battery                 | Battery Detect | Vext* | Low Power* |    Display    |
+| :----------------------------------------------------------: | :-------: | :----------------------------------------------------------: | :---: | :-------------------------------------: | :------------: | :---: | :--------: | :-----------: |
+|   [WiFi LoRa 32](https://heltec.org/project/wifi-lora-32)    | Dev-Board | [ESP32](https://www.espressif.com/en/products/hardware/esp32/resources) |  4MB  |                Lithium*                 |       x        |   x   |     x      | OLED (128x64) |
+| [WiFi LoRa 32(V2)](https://heltec.org/project/wifi-lora-32)  | Dev-Board | [ESP32](https://www.espressif.com/en/products/hardware/esp32/resources) |  8MB  |                Lithium*                 |       √        |   √   |   800uA    | OLED (128x64) |
+| [Wireless Stick](https://heltec.org/project/wireless-stick)  | Dev-Board | [ESP32](https://www.espressif.com/en/products/hardware/esp32/resources) |  8MB  |                Lithium*                 |       √        |   √   |   800uA    | OLED (64x32)  |
+| [Wireless Stick Lite](<https://heltec.org/project/wireless-stick-lite/>) | Dev-Board | [ESP32-PICO](https://www.espressif.com/en/products/hardware/esp32/resources) |  4MB  |                Lithium*                 |       √        |   √   |    35uA    |       x       |
+| [Wireless Shell](<https://heltec.org/project/wireless-shell/>) |  Module   | [ESP32-PICO](https://www.espressif.com/en/products/hardware/esp32/resources) |  4MB  |                   --                    |       √        |   x   |    35uA    |       x       |
+|   [LoRa Kit 151](https://heltec.org/project/lora-kit-151)    | Dev-Board | [STM32L151CBU6](https://www.st.com/content/st_com/en/products/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus/stm32-ultra-low-power-mcus/stm32l1-series/stm32l151-152/stm32l151cb.html) | 128kB |                 Lithium                 |       x        |   x   |    7uA     |       x       |
+|  [LoRa Node 151](https://heltec.org/project/lora-node-151)   | Dev-Board | [STM32L151CCU6](https://www.st.com/content/st_com/en/products/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus/stm32-ultra-low-power-mcus/stm32l1-series/stm32l151-152/stm32l151cc.html) | 256kB | 1/2 AA Lithium chlorine sulfite battery |       √        |   √   |   1.8uA    |       x       |
+|  [Turtle Board](<https://heltec.org/project/turtle-board/>)  | Dev-Board | [STM32L432KC](https://www.st.com/content/st_com/en/products/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus/stm32-ultra-low-power-mcus/stm32l4-series/stm32l4x2/stm32l432kc.html) | 256kB |                 AAA x 2                 |       √        |   √   |    5uA     |       x       |
 
-1. 类型：
-   - 开发版 -- 可直接使用;
-   - 模块 -- 只有核心功能，需要配合外部PCB或电路。
+&nbsp;
 
-2. 锂电池：Heltec电路板的所有锂电池插座均为SH1.25-2;
-3. Vext：3.3V（500mA）输出，对于外部设备（例如传感器）电源，在深度睡眠模式下，Vext可以通过软件关闭;
-4. 低功耗：产品的低功耗设计，整个电路，测量数据是深度睡眠期间系统的电流。
+**Notes：**
+
+1. Type：
+   - Dev-Board -- Can be used directly;
+   - Module -- Only core function, need to cooperate with external PCB or circuit.
+
+2. Lithium：All lithium battery socket for Heltec boards is SH1.25-2；
+3. Vext：3.3V(500mA) output, for external devices (e.g. sensors) power supply, in deep sleep mode, Vext can be shut down via software;
+4. Low Power：Products' low power design,  of Whole Circuit, the measured data are the current of the system during deep sleep.

@@ -9,7 +9,7 @@
 
 **LoRa Gateway**
 
-![link](http://119.23.153.38/icon/link.png) **[Heltec LoRa Gateway Products Difference Table](en/products/lora/lora_node/heltec_lora_node_list_eu.md)** 
+![link](http://119.23.153.38/icon/link.png) **[Heltec LoRa Gateway Products Difference Table](en/products/lora/lora_gateway/heltec_lora_gateway_list_eu.md)** 
 
 [![HT-M01.jpg](http://119.23.153.38/img/ht_m01.jpg)](https://heltec.org/project/ht-m01)
 
