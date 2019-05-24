@@ -11,7 +11,7 @@
 
 ## 2. 烧写树莓派镜像
 
-[![Disk_Imager](http://119.23.153.38/img/diskimager.png)]()
+[![](http://119.23.153.38/img/diskimager.png)]()
 
 ​	镜像烧写的速度取决于TF卡的性能。烧写完成后，可以在“我的电脑”中看到一个大约42.2MB的boot盘符，打开其中的config.txt文件，在末尾增加一行如下代码（开启串口打印日志）：
 
@@ -21,19 +21,21 @@
 
 按下图所示配置Putty，端口号(COM1)应该跟设备管理器里面的串口号对应，默认波特率是115200：
 
-[![Disk_Imager](http://119.23.153.38/img/puttyconfig.png)]()
+[![](http://119.23.153.38/img/puttyconfig.png)]()
 
 启动树莓派之前，先将树莓派上的串口引出，通过USB转串口模块连接到电脑上（若购买了[树莓派 -- HT-M01专用转接板](https://heltec.org/product/m01-converter)，则不用额外的USB转串口模块）。
 
-[![Disk_Imager](http://119.23.153.38/img/taocan2.png)]()
+[![](http://119.23.153.38/img/taocan2.png)]()
 
 若一切正常，可以看到Putty串口中会出现树莓派启动的日志信息。
 
 默认的用户名和密码：
 
-`pi`
+用户名：`pi`
 
-`raspberry`
+登陆密码：`raspberry` *（在Linux系统中，通过命令行输入密码的过程是看不到任何变化的）*
+
+[![Disk_Imager](https://heltec.org/wp-content/uploads/2018/04/raspberrypowerupdone.png)]()
 
 
 
@@ -52,9 +54,17 @@
 
 `ctrl + O`保存，`ctrl + X`退出。重启树莓派，如果一切正常，树莓派在重启之后将自动连接到相应的WiFi，并会在启动日志中打印IP地址。
 
+![](https://heltec.org/wp-content/uploads/2018/04/ifconfig.png)
+
 
 
 ## 5. 配置SSH实现局域网登陆
+
+`sudo raspi-config` 打开树莓派配置菜单；
+
+`Interfacing Options --> SSH --> YES` 激活SSH登陆选项。至此，我们就可以在局域网环境中，通过网络登陆到树莓派了：
+
+![](https://heltec.org/wp-content/uploads/2018/03/SSHlogin.jpg)
 
 
 
