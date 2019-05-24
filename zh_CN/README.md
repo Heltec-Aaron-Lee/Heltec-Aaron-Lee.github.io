@@ -12,7 +12,7 @@
 
 **LoRa 网关**
 
-![link](http://119.23.153.38/icon/link.png) **[Heltec LoRa 网关各型号差异对照表](products/lora/lora_gateway/heltec_lora_gateway_list_eu.md)** 
+![link](http://119.23.153.38/icon/link.png) **[Heltec LoRa 网关各型号差异对照表](zh_CN/products/lora/lora_gateway/heltec_lora_gateway_list_eu.md)** 
 
 [![HT-M01.jpg](http://119.23.153.38/img/ht_m01.jpg)](https://heltec.org/zh/project/ht-m01)
 
@@ -20,7 +20,7 @@
 
 **LoRa 节点**
 
-![link](http://119.23.153.38/icon/link.png) **[Heltec LoRa节点各型号差异对照表](products/lora/lora_node/heltec_lora_node_list_eu.md)** 
+![link](http://119.23.153.38/icon/link.png) **[Heltec LoRa节点各型号差异对照表](zh_CN/products/lora/lora_node/heltec_lora_node_list_eu.md)** 
 
 ------
 
@@ -38,7 +38,7 @@
 
 # Heltec ESP Arduino系列
 
-![](http://119.23.153.38/icon/link.png) **[Heltec ESP Arduino各型号差异对照表](products/esp_arduino/heltec_esp_arduino_list_eu.md)**
+![](http://119.23.153.38/icon/link.png) **[Heltec ESP Arduino各型号差异对照表](zh_CN/products/esp_arduino/heltec_esp_arduino_list_eu.md)**
 
 ------
 
@@ -52,7 +52,7 @@
 
 # OLED点阵屏
 
-![](http://119.23.153.38/icon/link.png) **[OLED点阵屏各型号差异对照表](products/display/oled/heltec_oled_display_list_eu.md)**
+![](http://119.23.153.38/icon/link.png) **[OLED点阵屏各型号差异对照表](zh_CN/products/display/oled/heltec_oled_display_list_eu.md)**
 
 ------
 
