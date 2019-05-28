@@ -26,6 +26,10 @@
 
 [![wireless_stick](http://119.23.153.38/img/wireless_stick_home.jpg)](https://heltec.org/zh/project/wireless-stick)&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![wifi_lora_32_v2](http://119.23.153.38/img/wifi_lora_32_home.jpg)](https://heltec.org/zh/project/wifi-lora-32)
 
+
+
+[![](http://119.23.153.38/img/wireless_stick_lite.jpg)](https://heltec.org/zh/project/wireless-stick-lite)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](http://119.23.153.38/img/wireless_shell.jpg)](https://heltec.org/zh/project/wireless-shell)
+
 &nbsp;
 
 &nbsp;
