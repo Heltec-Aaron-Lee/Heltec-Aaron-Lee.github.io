@@ -27,7 +27,9 @@
 
 [![](http://119.23.153.38/img/wireless_stick_lite.jpg)](https://heltec.org/project/wireless-stick-lite)&nbsp;&nbsp;&nbsp;[![](http://119.23.153.38/img/wireless_shell.jpg)](https://heltec.org/project/wireless-shell)
 
-[![](http://119.23.153.38/img/lora_node_151.jpg)](https://heltec.org/project/lora-node-151/)
+&nbsp;[![](http://119.23.153.38/img/lora_node_151.jpg)](https://heltec.org/project/lora-node-151/)&nbsp;[![](http://119.23.153.38/img/turtle.jpg)](https://heltec.org/project/turtle)
+
+[![](http://119.23.153.38/img/lora_kit_151.jpg)](https://heltec.org/project/lora-kit-151/)
 
 &nbsp;
 
@@ -92,8 +94,53 @@
 
 ![](http://119.23.153.38/icon/link.png) [Heltec E-Ink Display product Difference Table](<https://docs.heltec.cn/#/en/products/display/eink/heltec_eink_display_list_eu>)
 
+**1.54" E-ink Display**
+
+[![](http://119.23.153.38/img/e_ink/154bw.jpg)](https://heltec.org/project/154-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://119.23.153.38/img/e_ink/154bwr.jpg)](https://heltec.org/project/154-e-ink/)
+[![](http://119.23.153.38/img/e_ink/154bwy.jpg)](https://heltec.org/project/154-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://119.23.153.38/img/e_ink/154bwm.jpg)](https://heltec.org/project/154-e-ink/)
+&nbsp;
+**2.13" E-ink Display**
+
+[![](http://119.23.153.38/img/e_ink/213bw.jpg)](https://heltec.org/project/213-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://119.23.153.38/img/e_ink/213bwr.jpg)](https://heltec.org/project/213-e-ink/)
+[![](http://119.23.153.38/img/e_ink/213bwy.jpg)](https://heltec.org/project/213-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://119.23.153.38/img/e_ink/213bwf.jpg)](https://heltec.org/project/213-e-ink/)
+[![](http://119.23.153.38/img/e_ink/213bwrm.jpg)](https://heltec.org/project/213-e-ink/)
+
 &nbsp;
 
+**2.6" E-ink Display**
+
+[![](http://119.23.153.38/img/e_ink/26bw.jpg)](https://heltec.org/project/26-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://119.23.153.38/img/e_ink/26bwr.jpg)](https://heltec.org/project/26-e-ink/)
+&nbsp;
+
+**2.7" E-ink Display**
+
+[![](http://119.23.153.38/img/e_ink/27bw.jpg)](https://heltec.org/project/27-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://119.23.153.38/img/e_ink/27bwr.jpg)](https://heltec.org/project/27-e-ink/)
+&nbsp;
+
+**2.9" E-ink Display**
+
+[![](http://119.23.153.38/img/e_ink/29bw.jpg)](https://heltec.org/project/29-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://119.23.153.38/img/e_ink/29bwr.jpg)](https://heltec.org/project/29-e-ink/)
+[![](http://119.23.153.38/img/e_ink/29bwy.jpg)](https://heltec.org/project/29-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://119.23.153.38/img/e_ink/29bwf.jpg)](https://heltec.org/project/29-e-ink/)
+[![](http://119.23.153.38/img/e_ink/29bwrm.jpg)](https://heltec.org/project/29-e-ink/)
+&nbsp;
+
+**4.2" E-ink Display**
+
+[![](http://119.23.153.38/img/e_ink/42bw.jpg)](https://heltec.org/project/42-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://119.23.153.38/img/e_ink/42bwr.jpg)](https://heltec.org/project/42-e-ink/)
+[![](http://119.23.153.38/img/e_ink/42bwy.jpg)](https://heltec.org/project/42-e-ink/)
+&nbsp;
+
+**5.83" E-ink Display**
+
+[![](http://119.23.153.38/img/e_ink/583bw.jpg)](https://heltec.org/project/583-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://119.23.153.38/img/e_ink/583bwr.jpg)](https://heltec.org/project/583-e-ink/)
+[![](http://119.23.153.38/img/e_ink/583bwy.jpg)](https://heltec.org/project/583-e-ink/)
+&nbsp;
+
+**7.5" E-ink Display**
+
+[![](http://119.23.153.38/img/e_ink/75bw.jpg)](https://heltec.org/project/75-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://119.23.153.38/img/e_ink/75bwr.jpg)](https://heltec.org/project/75-e-ink/)
+[![](http://119.23.153.38/img/e_ink/75bwy.jpg)](https://heltec.org/project/75-e-ink/)
+&nbsp;
 # Heltec Touch module
 
 &nbsp;
