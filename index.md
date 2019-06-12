@@ -11,7 +11,7 @@
 
 ![link](http://119.23.153.38/icon/link.png) **[Heltec LoRa Gateway Products Difference Table](en/products/lora/lora_gateway/heltec_lora_gateway_list_eu.md)** 
 
-[![HT-M01.jpg](http://119.23.153.38/img/ht_m01.jpg)](https://heltec.org/project/ht-m01)
+[![HT-M01.jpg](http://119.23.153.38/img/ht_m01.jpg)](https://heltec.org/project/ht-m01)&nbsp;&nbsp;&nbsp;[![](http://119.23.153.38/img/ht_m02.jpg)](https://heltec.org/project/ht-m02)
 
 &nbsp;
 
@@ -21,11 +21,11 @@
 
 ***
 
-[![wireless_stick](http://119.23.153.38/img/wireless_stick_home.jpg)](https://heltec.org/project/wireless-stick/)&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![wifi_lora_32_v2](http://119.23.153.38/img/wifi_lora_32_home.jpg)](https://heltec.org/project/wifi-lora-32)
+[![wireless_stick](http://119.23.153.38/img/wireless_stick_home.jpg)](https://heltec.org/project/wireless-stick/)&nbsp;&nbsp;&nbsp; [![wifi_lora_32_v2](http://119.23.153.38/img/wifi_lora_32_home.jpg)](https://heltec.org/project/wifi-lora-32)
 
 
 
-[![](http://119.23.153.38/img/wireless_stick_lite.jpg)](https://heltec.org/project/wireless-stick-lite)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](http://119.23.153.38/img/wireless_shell.jpg)](https://heltec.org/project/wireless-shell)
+[![](http://119.23.153.38/img/wireless_stick_lite.jpg)](https://heltec.org/project/wireless-stick-lite)&nbsp;&nbsp;&nbsp;[![](http://119.23.153.38/img/wireless_shell.jpg)](https://heltec.org/project/wireless-shell)
 
 &nbsp;
 
