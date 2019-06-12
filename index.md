@@ -99,6 +99,7 @@
 [![](http://119.23.153.38/img/e_ink/154bw.jpg)](https://heltec.org/project/154-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://119.23.153.38/img/e_ink/154bwr.jpg)](https://heltec.org/project/154-e-ink/)
 [![](http://119.23.153.38/img/e_ink/154bwy.jpg)](https://heltec.org/project/154-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://119.23.153.38/img/e_ink/154bwm.jpg)](https://heltec.org/project/154-e-ink/)
 &nbsp;
+
 **2.13" E-ink Display**
 
 [![](http://119.23.153.38/img/e_ink/213bw.jpg)](https://heltec.org/project/213-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://119.23.153.38/img/e_ink/213bwr.jpg)](https://heltec.org/project/213-e-ink/)
@@ -119,9 +120,9 @@
 
 **2.9" E-ink Display**
 
-[![](http://119.23.153.38/img/e_ink/29bw.jpg)](https://heltec.org/project/29-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://119.23.153.38/img/e_ink/29bwr.jpg)](https://heltec.org/project/29-e-ink/)
-[![](http://119.23.153.38/img/e_ink/29bwy.jpg)](https://heltec.org/project/29-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://119.23.153.38/img/e_ink/29bwf.jpg)](https://heltec.org/project/29-e-ink/)
-[![](http://119.23.153.38/img/e_ink/29bwrm.jpg)](https://heltec.org/project/29-e-ink/)
+[![](http://119.23.153.38/img/e_ink/29bw.jpg)](https://heltec.org/project/290-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://119.23.153.38/img/e_ink/29bwr.jpg)](https://heltec.org/project/290-e-ink/)
+[![](http://119.23.153.38/img/e_ink/29bwy.jpg)](https://heltec.org/project/290-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://119.23.153.38/img/e_ink/29bwf.jpg)](https://heltec.org/project/290-e-ink/)
+[![](http://119.23.153.38/img/e_ink/29bwrm.jpg)](https://heltec.org/project/290-e-ink/)
 &nbsp;
 
 **4.2" E-ink Display**
