@@ -122,7 +122,7 @@
 
 [![](http://119.23.153.38/img/e_ink/29bw.jpg)](https://heltec.org/project/290-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://119.23.153.38/img/e_ink/29bwr.jpg)](https://heltec.org/project/290-e-ink/)
 [![](http://119.23.153.38/img/e_ink/29bwy.jpg)](https://heltec.org/project/290-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://119.23.153.38/img/e_ink/29bwf.jpg)](https://heltec.org/project/290-e-ink/)
-[![](http://119.23.153.38/img/e_ink/29bwrm.jpg)](https://heltec.org/project/290-e-ink/)
+[![](http://119.23.153.38/img/e_ink/29bwm.jpg)](https://heltec.org/project/290-e-ink/)
 &nbsp;
 
 **4.2" E-ink Display**
