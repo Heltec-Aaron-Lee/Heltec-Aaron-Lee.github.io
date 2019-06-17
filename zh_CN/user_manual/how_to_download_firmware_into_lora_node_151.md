@@ -4,11 +4,12 @@
 
 ## 目录
 
-- [编译环境和例程下载](#编译环境和例程下载)
-  - [ESP32开发版编译环境下载](#ESP32开发版编译环境下载)
-  - [ESP32开发板例程下载](#ESP32开发板例程下载)
+- [使用ST-LINK，通过SW方式烧写程序](#使用ST-LINK，通过SW方式烧写程序)
+- [使用Micro SB线，通过DUF模式烧写程序](#使用Micro SB线，通过DUF模式烧写程序)
+  - [如何进入DFU模式](#如何进入DFU模式)
+  - [烧写程序](#烧写程序)
 
-- [示例](#示例)    
+&nbsp;
 
 ## 使用ST-LINK，通过SW方式烧写程序
 
@@ -58,6 +59,8 @@ STM32L151CCU6芯片内部已经集成了DFU Bootloader，只需要通过一根Mi
 若成功进入DFU模式（在驱动程序安装正确的前提下），可以在设备管理器中看到名为“STM32 BOOTLOADER”的设备。在STM32CubeProg软件中，选择USB，点击“Connect”，可以读取到芯片信息。
 
 <img src="img/how_to_download_firmware_into_lora_node_151/03.png">
+
+&nbsp;
 
 #### 烧写程序
 
