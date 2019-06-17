@@ -14,7 +14,7 @@
 
 ![link](http://119.23.153.38/icon/link.png) **[Heltec LoRa 网关各型号差异对照表](zh_CN/products/lora/lora_gateway/heltec_lora_gateway_list_eu.md)** 
 
-[![HT-M01.jpg](http://119.23.153.38/img/ht_m01.jpg)](https://heltec.org/zh/project/ht-m01)
+[![HT-M01.jpg](http://119.23.153.38/img/ht_m01.jpg)](https://heltec.org/zh/project/ht-m01)&nbsp;&nbsp;&nbsp;[![](http://119.23.153.38/img/ht_m02.jpg)](https://heltec.org/zh/project/ht-m02)
 
 &nbsp;
 
@@ -24,12 +24,17 @@
 
 ------
 
-[![wireless_stick](http://119.23.153.38/img/wireless_stick_home.jpg)](https://heltec.org/zh/project/wireless-stick)&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![wifi_lora_32_v2](http://119.23.153.38/img/wifi_lora_32_home.jpg)](https://heltec.org/zh/project/wifi-lora-32)
+[![wireless_stick](http://119.23.153.38/img/wireless_stick_home.jpg)](https://heltec.org/zh/project/wireless-stick)&nbsp;&nbsp;&nbsp;[![wifi_lora_32_v2](http://119.23.153.38/img/wifi_lora_32_home.jpg)](https://heltec.org/zh/project/wifi-lora-32)
 
 
 
-[![](http://119.23.153.38/img/wireless_stick_lite.jpg)](https://heltec.org/zh/project/wireless-stick-lite)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](http://119.23.153.38/img/wireless_shell.jpg)](https://heltec.org/zh/project/wireless-shell)
+[![](http://119.23.153.38/img/wireless_stick_lite.jpg)](https://heltec.org/zh/project/wireless-stick-lite)&nbsp;&nbsp;&nbsp;[![](http://119.23.153.38/img/wireless_shell.jpg)](https://heltec.org/zh/project/wireless-shell)
 
+[![](http://119.23.153.38/img/lora_node_151.jpg)](https://heltec.org/zh/project/lora-node-151/)&nbsp;&nbsp;&nbsp;[![](http://119.23.153.38/img/turtle.jpg)](https://heltec.org/zh/project/turtle)
+
+[![](http://119.23.153.38/img/lora_kit_151.jpg)](https://heltec.org/zh/project/lora-kit-151/)
+
+&nbsp;
 &nbsp;
 
 &nbsp;
@@ -155,6 +160,12 @@
 &nbsp;
 
 # 其他附件
+
+[![](http://119.23.153.38/img/accessories/test_bottom_board.jpg)](https://heltec.org/zh/project/test-bottom-board/)&nbsp;&nbsp;&nbsp; [![](http://119.23.153.38/img/accessories/special_converter.jpg)](https://heltec.org/zh/project/special-converter/)
+
+[![](http://119.23.153.38/img/accessories/bread_board.jpg)](https://heltec.org/zh/project/bread-board/)&nbsp;&nbsp;&nbsp; [![](http://119.23.153.38/img/accessories/heat_sink.jpg)](https://heltec.org/zh/project/heat-sink/)
+
+[![](http://119.23.153.38/img/accessories/protect_surface.jpg)](https://heltec.org/zh/zh/project/protect-surface/)&nbsp;&nbsp;&nbsp;
 
 <!-- GitHub Buttons -->
 

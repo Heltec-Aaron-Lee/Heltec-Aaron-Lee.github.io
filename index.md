@@ -147,14 +147,12 @@
 &nbsp;
 
 # Other Accessories
+[![](http://119.23.153.38/img/accessories/test_bottom_board.jpg)](https://heltec.org/project/test-bottom-board/)&nbsp;&nbsp;&nbsp; [![](http://119.23.153.38/img/accessories/special_converter.jpg)](https://heltec.org/project/special-converter/)
 
+[![](http://119.23.153.38/img/accessories/bread_board.jpg)](https://heltec.org/project/bread-board/)&nbsp;&nbsp;&nbsp; [![](http://119.23.153.38/img/accessories/heat_sink.jpg)](https://heltec.org/project/heat-sink/)
 
+[![](http://119.23.153.38/img/accessories/protect_surface.jpg)](https://heltec.org/project/protect-surface/)&nbsp;&nbsp;&nbsp;
 
-
-
-[![lithium.png](http://119.23.153.38/img/lithium.png)](en/products/accessories/lithium/lithium)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![433antenna.png](http://119.23.153.38/img/433antenna.png)](en/products/accessories/antenna/433_antenna/433_antenna)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![868antenna.png](http://wwww.heltec.cn/img/868antenna.png)](en/products/accessories/antenna/868_antenna/868_antenna)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![heat_sink.png](http://119.23.153.38/img/heat_sink.png)](en/products/accessories/heat_sink/heat_sink)
-
-[![battery.png](www.heltec.cn/img/battery.png)](en/products/accessories/battery/battery)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](www.heltec.cn/img/solar_panel.png)](en/products/accessories/solar_panel/solar_panel)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](www.heltec.cn/img/ch340g.png)](en/products/accessories/ch340g/ch340g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](www.heltec.cn/img/sd_card.png)](en/products/accessories/sd_card/sd_card)
 
 <!-- GitHub Buttons -->
 
