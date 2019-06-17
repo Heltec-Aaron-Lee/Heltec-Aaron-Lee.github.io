@@ -5,7 +5,7 @@
 ## 目录
 
 - [使用ST-LINK，通过SW方式烧写程序](#使用ST-LINK，通过SW方式烧写程序)
-- [使用Micro SB线，通过DUF模式烧写程序](#使用Micro SB线，通过DUF模式烧写程序)
+- [使用Micro USB线，通过DUF模式烧写程序](#使用Micro-USB线，通过DUF模式烧写程序)
   - [如何进入DFU模式](#如何进入DFU模式)
   - [烧写程序](#烧写程序)
 
@@ -41,7 +41,7 @@
 
 
 
-## 使用Micro SB线，通过DUF模式烧写程序
+## 使用Micro USB线，通过DUF模式烧写程序
 
 STM32L151CCU6芯片内部已经集成了DFU Bootloader，只需要通过一根Micro USB连接线，通过USB协议，就能将编译好的.hex/.bin文件下载到开发板中。
 
