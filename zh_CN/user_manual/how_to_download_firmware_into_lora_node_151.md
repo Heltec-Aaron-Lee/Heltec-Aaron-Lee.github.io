@@ -21,7 +21,7 @@
 
 &nbsp;
 
-**注意：ST-LINK是具有供电功能的！如果LoRa Node 151已通过Micro USB接口连接到电脑，ST-LINK的3.3V就不用接到开发板的VDD上！否则可能导致开发板损坏！**
+**注意：ST-LINK是具有供电功能的！如果LoRa Node 151已通过Micro USB或电池供电，ST-LINK的3.3V就不用接到开发板的VDD上！否则可能导致开发板损坏！**
 
 下载并安装ST-LINK的[驱动程序](https://www.st.com/content/st_com/en/products/development-tools/software-development-tools/stm32-software-development-tools/stm32-programmers/stsw-link004.html)，点击如下图箭头1所指的图标，读取芯片信息，若可以看到红色方框内的信息，则表示一切正常。
 
