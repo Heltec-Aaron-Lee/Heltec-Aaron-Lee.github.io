@@ -27,7 +27,7 @@
 
 [![](http://119.23.153.38/img/wireless_stick_lite.jpg)](https://heltec.org/project/wireless-stick-lite)&nbsp;&nbsp;&nbsp;[![](http://119.23.153.38/img/wireless_shell.jpg)](https://heltec.org/project/wireless-shell)
 
-&nbsp;[![](http://119.23.153.38/img/lora_node_151.jpg)](https://heltec.org/project/lora-node-151/)&nbsp;[![](http://119.23.153.38/img/turtle.jpg)](https://heltec.org/project/turtle)
+&nbsp;[![](http://119.23.153.38/img/lora_node_151.jpg)](https://heltec.org/project/lora-node-151/)&nbsp;&nbsp;&nbsp;[![](http://119.23.153.38/img/turtle.jpg)](https://heltec.org/project/turtle)
 
 [![](http://119.23.153.38/img/lora_kit_151.jpg)](https://heltec.org/project/lora-kit-151/)
 
