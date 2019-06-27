@@ -1,13 +1,38 @@
 # Heltec OLED Display Products Difference Table
 
+## Contents
 
+- [OLED Module](#OLED-Module)
+- [OLED Display](#OLED-Display-(No-PCB))
 
 ------
 
+## OLED Module
+
 **“Heltec OLED Display” product family already included follow options:**
 
-- 3.3 ~ 6 V Power Supply
-- On-Board Power-on reset
+- On-board power-on auto reset circuit;
+- 2.54 x 4 socket for IIC interface;
+- 2.54 x 6 socket for SPI interface.
+
+&nbsp;
+
+|  Product  | Color | Driver IC | Resolution |      |      |
+| :-------: | :---: | :-------: | :--------: | :--: | :--: |
+| 0.49" IIC | White |  SSD1306  |            |      |      |
+|           |       |           |            |      |      |
+|           |       |           |            |      |      |
+
+&nbsp;
+
+## OLED Display (No PCB)
+
+**“Heltec OLED Display” product family already included follow options:**
+
+- 1.7 ~ 6 V power supply;
+- Internal driver chip;
+
+- -30 ~ 80 ℃ working temperature.
 
   
 
@@ -21,12 +46,3 @@
 |     2.4     |           white            |  SPD0301  | 8-bit 68XX/80XX Parallel, 4-wire SPI, I2C |        External        |  24P FFC  | 0.5 x 24P FFC Socket |
 
 
-
-
-
-**Notes：**
-
-1. specification：
-   - threee-- white; Blue; Blue&Yellow
-   - two -- Blue; White.
-   - one —White.
