@@ -37,7 +37,7 @@
 
 &nbsp;
 
-|                      Product                       |    Type     |                         Driver chip                          | Resolution |      Dimensions      | Display area  |
+|                Product<sup>①</sup>                 |    Type     |                         Driver chip                          | Resolution |      Dimensions      | Display area  |
 | :------------------------------------------------: | :---------: | :----------------------------------------------------------: | :--------: | :------------------: | :-----------: |
 |  [1.54 BW](https://heltec.org/project/154-e-ink/)  | HTEW0154T8  | [IL0373](https://docs.heltec.cn/download/e-ink/260/2.60b&w/IL0373.pdf) | 152 x 152  | 31.8 x 37.32 x 0.98  | 27.51 x 27.51 |
 | [1.54 BWR](https://heltec.org/project/154-e-ink/)  | HTEW0154Z17 | [IL0373](https://docs.heltec.cn/download/e-ink/260/2.60b&w/IL0373.pdf) | 152 x 152  | 31.8 x 37.32 x 0.98  | 27.51 x 27.51 |
@@ -68,8 +68,9 @@
 
 **Notes:**
 
-1.  Product
-   - BW    -- Black & White
-   - BW-F -- Black & White flexible display
-   - BWR  -- Black & White & Red
-   - BWY   -- Black & White & Yellow
+① -- Product
+- BW    -- Black & White
+- BW-F -- Black & White flexible display
+- BWR  -- Black & White & Red
+- BWY   -- Black & White & Yellow
+

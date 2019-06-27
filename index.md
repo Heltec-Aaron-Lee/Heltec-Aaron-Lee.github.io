@@ -147,11 +147,11 @@
 &nbsp;
 
 # Other Accessories
-[![](http://119.23.153.38/img/accessories/test_bottom_board.jpg)](https://heltec.org/project/test-bottom-board/)&nbsp;&nbsp;&nbsp; [![](http://119.23.153.38/img/accessories/special_converter.jpg)](https://heltec.org/project/special-converter/)
+[![](http://119.23.153.38/img/accessories/test_bottom_board.jpg)](https://heltec.org/product/shell-bottom/)&nbsp;&nbsp;&nbsp; [![](http://119.23.153.38/img/accessories/special_converter.jpg)](https://heltec.org/product/m01-converter/)
 
-[![](http://119.23.153.38/img/accessories/bread_board.jpg)](https://heltec.org/project/bread-board/)&nbsp;&nbsp;&nbsp; [![](http://119.23.153.38/img/accessories/heat_sink.jpg)](https://heltec.org/project/heat-sink/)
+[![](http://119.23.153.38/img/accessories/bread_board.jpg)](https://heltec.org/product/bread-board/)&nbsp;&nbsp;&nbsp; [![](http://119.23.153.38/img/accessories/heat_sink.jpg)](https://heltec.org/project/heat-sink/)
 
-[![](http://119.23.153.38/img/accessories/protect_surface.jpg)](https://heltec.org/project/protect-surface/)&nbsp;&nbsp;&nbsp;
+[![](http://119.23.153.38/img/accessories/protect_surface.jpg)](https://heltec.org/product/acrylic-surface/)&nbsp;&nbsp;&nbsp;
 
 
 <!-- GitHub Buttons -->
