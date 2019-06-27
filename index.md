@@ -41,10 +41,9 @@
 
 # Heltec ESP Arduino
 
-![](http://119.23.153.38/icon/link.png) [Heltec ESP Arduino Product Difference Table](en/products/esp_arduino/heltec_esp_arduino_list_eu.md)
-
-***
 &nbsp;
+
+![](http://119.23.153.38/icon/link.png) **[Heltec ESP Arduino Product Difference Table](en/products/esp_arduino/heltec_esp_arduino_list_eu.md)**
 
 **WiFi Kit Series**
 
@@ -54,7 +53,9 @@
 
 # Heltec OLED Display
 
-![](http://119.23.153.38/icon/link.png) [Heltec OLED Display product Difference Table](en/products/display/oled/heltec_oled_display_list_eu.md)
+&nbsp;
+
+![](http://119.23.153.38/icon/link.png) **[Heltec OLED Display product Difference Table](en/products/display/oled/heltec_oled_display_list_eu.md)**
 
 **0.96" OLED Display**
 
@@ -68,9 +69,7 @@
 
 [![0.96_Inch.jpg](http://119.23.153.38/img/0.96ssd1306_iic_white.jpg)](https://heltec.org/project/096-oled)&nbsp;&nbsp;&nbsp; [![0.96_Inch.jpg](http://119.23.153.38/img/0.96ssd1306_iic_blue.jpg)](https://heltec.org/project/096-oled)
 
-
-
-
+&nbsp;
 
 **1.3" OLED Display**
 
@@ -78,21 +77,19 @@
 
 [![1.3_Inch.jpg](http://119.23.153.38/img/1.3sh1106_iic_blue.jpg)](https://heltec.org/project/13-oled)&nbsp;&nbsp;&nbsp; [![1.3_Inch.jpg](http://119.23.153.38/img/1.3sh1106_iic_white.jpg)](https://heltec.org/project/13-oled)
 
-
-
-
+&nbsp;
 
 **1.54" OLED Display**
 
  [![1.3_Inch.jpg](http://119.23.153.38/img/1.54spd0301_iic_white.jpg)](https://heltec.org/project/154-oled)
 
-
-
 &nbsp;
 
 # Heltec E-Ink Display
 
-![](http://119.23.153.38/icon/link.png) [Heltec E-Ink Display product Difference Table](<https://docs.heltec.cn/#/en/products/display/eink/heltec_eink_display_list_eu>)
+&nbsp;
+
+![](http://119.23.153.38/icon/link.png) **[Heltec E-Ink Display product Difference Table](https://docs.heltec.cn/#/en/products/display/eink/heltec_eink_display_list_eu)**
 
 **1.54" E-ink Display**
 
@@ -111,6 +108,8 @@
 **2.6" E-ink Display**
 
 [![](http://119.23.153.38/img/e_ink/26bw.jpg)](https://heltec.org/project/26-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://119.23.153.38/img/e_ink/26bwr.jpg)](https://heltec.org/project/26-e-ink/)
+&nbsp;
+
 &nbsp;
 
 **2.7" E-ink Display**
@@ -142,6 +141,7 @@
 [![](http://119.23.153.38/img/e_ink/75bw.jpg)](https://heltec.org/project/75-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://119.23.153.38/img/e_ink/75bwr.jpg)](https://heltec.org/project/75-e-ink/)
 [![](http://119.23.153.38/img/e_ink/75bwy.jpg)](https://heltec.org/project/75-e-ink/)
 &nbsp;
+
 # Heltec Touch module
 
 &nbsp;
