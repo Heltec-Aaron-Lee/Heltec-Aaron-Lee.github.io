@@ -33,6 +33,12 @@
 
 &nbsp;
 
+**Note:**
+
+① -- Expump: The power supply of the OLED liquid crystal panel is powered by an external charge pump, it's the most stable version.
+
+&nbsp; 
+
 ## OLED Display (No PCB)
 
 **“Heltec OLED Display” product family already included follow options:**
