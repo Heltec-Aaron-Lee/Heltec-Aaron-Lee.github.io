@@ -2,8 +2,8 @@
 
 ## Contents
 
-- [E-Ink Module](#E-Ink-Module)
-- [E-Ink Display](#E-Ink-Display)
+- **[E-Ink Module](#E-Ink-Module)**
+- **[E-Ink Display](#E-Ink-Display)**
 
 ------
 
@@ -69,8 +69,8 @@
 **Notes:**
 
 ① -- Product
-- BW    -- Black & White
-- BW-F -- Black & White flexible display
-- BWR  -- Black & White & Red
-- BWY   -- Black & White & Yellow
+- BW    -- Black & White, **support both global refresh and partial refresh**
+- BW-F -- Black & White flexible display, **support both global refresh and partial refresh**
+- BWR  -- Black & White & Red, **partial refresh only**
+- BWY   -- Black & White & Yellow, **partial refresh only**
 
