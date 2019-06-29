@@ -66,6 +66,6 @@
 
 **Check the list of identified COM ports in the Windows Device Manager. Disconnect your board and connect it back, to verify which port disappears from the list and then shows back again.**
 
-**Figures below show serial port for M5Stack Core board**
+**Figures below show serial port for Heltec board**
 
 <img src="img/establish_serial_connection/windows_in_device_manager.png">

@@ -66,6 +66,6 @@
 
 **在Windows的设备管理器上查看COM串口号. 插上板子或者dongle之后，查看显示的COM口，再拔掉，此时消失的COM口就是该板子或dongle对应的COM口.**
 
-**下图显示了M5Core板子与PC通信的COM串口号**
+**下图显示了Heltec板子与PC通信的COM串口号**
 
 <img src="img/establish_serial_connection/windows_in_device_manager.png">
