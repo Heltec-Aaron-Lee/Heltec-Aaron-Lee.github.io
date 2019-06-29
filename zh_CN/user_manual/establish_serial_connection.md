@@ -52,7 +52,7 @@
 
 **根据你windows版本来下载对应版本的USB驱动(Windows7/8/10).**
 
-<img src="img/establish_serial_connection/windows_download_CP2104_USB_driver.</figure>
+<img src="img/establish_serial_connection/windows_download_CP2104_USB_driver.png">
 
 **选择正确的版本来安装，如果电脑系统是32位，则下载符合Windows版本的X86版本USB驱动，如果电脑系统是64位，则下载符合Windows版本的X64版本USB驱动, 然后安装驱动.**
 
@@ -68,4 +68,4 @@
 
 **下图显示了M5Core板子与PC通信的COM串口号**
 
-<img src="img/establish_serial_connection/windows_in_device_manager.</figure>
+<img src="img/establish_serial_connection/windows_in_device_manager.png">
