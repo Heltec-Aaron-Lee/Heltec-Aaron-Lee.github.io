@@ -11,21 +11,18 @@
 
 &nbsp;
 
-| Product                                                      |   Type    |                             MCU                              | FLASH | Battery  |       WIFI       | USB  to Uart Bridge |    Bluetooth     |    Display    |
-| ------------------------------------------------------------ | :-------: | :----------------------------------------------------------: | :---: | -------- | :--------------: | :-----------------: | :--------------: | :-----------: |
-| [WiFi Kit 32](http://www.heltec.cn/project/wifi-kit-32/?lang=en) | Dev-Board | [ESP32](https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf) |  4MB  | Lithium* | 802.11 b/g/n/e/i |       CP2102        | 4.2(support BLE) | OLED (128x64) |
-| [WiFi Kit 8](http://www.heltec.cn/project/wifi-kit-8/?lang=en) | Dev-Board | [ESP8266](https://www.espressif.com/sites/default/files/documentation/0a-esp8266ex_datasheet_en.pdf) |  4MB  | Lithium* |   802.11 b/g/n   |       CP2104        |        --        | OLED (128x32) |
-|                                                              |           |                                                              |       |          |                  |                     |                  |               |
-|                                                              |           |                                                              |       |          |                  |                     |                  |               |
+|                        Product                         | Type<sup>①</sup> |                             MCU                              | FLASH | Battery<sup>②</sup> |       WIFI       |
+| :----------------------------------------------------: | :--------------: | :----------------------------------------------------------: | :---: | :-----------------: | :--------------: |
+| [WiFi Kit 32](https://heltec.org/project/wifi-kit-32/) |    Dev-Board     | [ESP32](https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf) |  4MB  |       Lithium       | 802.11 b/g/n/e/i |
+|  [WiFi Kit 8](https://heltec.org/project/wifi-kit-8/)  |    Dev-Board     | [ESP8266](https://www.espressif.com/sites/default/files/documentation/0a-esp8266ex_datasheet_en.pdf) |  4MB  |       Lithium       |   802.11 b/g/n   |
 
 &nbsp;
 
 **Notes：**
 
-1. Type：
-   - Dev-Board -- Can be used directly;
-   - Module -- Only core function, need to cooperate with external PCB or circuit.
+① -- Type：
+- Dev-Board -- Can be used directly;
+- Module -- Only core function, need to cooperate with external PCB or circuit.
 
-2. Lithium：All lithium battery socket for Heltec boards is SH1.25-2；
+② -- Lithium: All lithium battery socket for Heltec boards is SH1.25-2；
 
-   
