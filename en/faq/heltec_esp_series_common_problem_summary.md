@@ -49,7 +49,7 @@ Annoying orange LED lights are always flashing? It's because the battery managem
 
 Change this capacitor to 220nF to temporarily correct this problem.
 
-<img src="en/faq/img/resetallthetime.png">
+<img src="en/faq/img/replcae.png">
 
 &nbsp;
 
