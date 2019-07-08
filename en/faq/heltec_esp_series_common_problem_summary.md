@@ -6,24 +6,24 @@ This page contains the most popular questions we had connection from user. if th
 
 ## CONTENT
 
-1. [Can't Download Firmware](#_1-can't-download-firmware)
-2. [Another Communication Bus Usage Example](#_2-another-communication-bus-usage-example)
+1. [Can't Download Firmware](#can't-download-firmware)
+2. [Another Communication Bus Usage Example](#another-communication-bus-usage-example)
    - [SPI0 / SPI1 / SPI2 / SPI3](#spi0-/-spi1-/-spi2-/-spi3)
    - [I2C0 / I2C1](#i2c0-/-i2c1)
    - [UART0 / UART1](#uart0-/-uart1)
-3. [Orange LED Blink Problem](#_3-orange-led-blink-problem)
-4. [System Reset All the Time](#_4-system-reset-all-the-time)
-5. [About WiFi LoRa 32(V2) sleep current test](#_5-About-WiFi-LoRa-32(V2)-sleep-current-test)
+3. [Orange LED Blink Problem](#orange-led-blink-problem)
+4. [System Reset All the Time](#system-reset-all-the-time)
+5. [About WiFi LoRa 32(V2) sleep current test](#about-wifi-lora-32(v2)-sleep-current-test)
 
 &nbsp;
 
-## 1. Can't Download Firmware
+## Can't Download Firmware
 
 - Use a better USB cable, or change a USB socket;
 - Check and make sure the CP210x drive had been correctly installed, users can refer to this document: [https://docs.heltec.cn/#/en/user_manual/establish_serial_connection](https://docs.heltec.cn/#/en/user_manual/establish_serial_connection)
 - Press "PRG" button before upload.
 
-## 2. Another Communication Bus Usage Example
+## Another Communication Bus Usage Example
 
 ### SPI0 / SPI1 / SPI2 / SPI3
 
@@ -39,7 +39,7 @@ This page contains the most popular questions we had connection from user. if th
 
 
 
-## 3. Orange LED Blink Problem
+## Orange LED Blink Problem
 
 Annoying orange LED lights are always flashing? It's because the battery management chip MCP73831. with the following control logic:
 
@@ -59,7 +59,7 @@ We had use the TP4054 to replace MCP73831, the orange LED have new control logic
 - Bight -- Charging
 - Turn OFF -- Battery filled
 
-## 4. System Reset All the Time
+## System Reset All the Time
 
 <img src="en/faq/img/resetallthetime.png">
 
@@ -71,7 +71,7 @@ According to the situation we have collected so far, the most likely to cause a 
 
 
 
-## 5. About WiFi LoRa 32(V2) sleep current test
+## About WiFi LoRa 32(V2) Sleep Current Test
 
 Use the battery to power the development board, and connect an ammeter to the positive pole of the battery. Download this example code:
 
