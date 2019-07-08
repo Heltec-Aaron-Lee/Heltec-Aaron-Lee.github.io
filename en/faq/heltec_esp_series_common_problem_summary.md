@@ -13,7 +13,7 @@ This page contains the most popular questions we had connection from user. if th
    - [UART0 / UART1](#uart0-/-uart1)
 3. [Orange LED Blink Problem](#orange-led-blink-problem)
 4. [System Reset All the Time](#system-reset-all-the-time)
-5. [About WiFi LoRa 32(V2) sleep current test](#about-wifi-lora-32(v2)-sleep-current-test)
+5. [About WiFi LoRa 32(V2) Sleep Current Test](#about-wifi-lora-32(V2)-sleep-current-test)
 
 &nbsp;
 
