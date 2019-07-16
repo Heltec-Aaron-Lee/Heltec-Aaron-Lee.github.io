@@ -36,7 +36,7 @@ The USB_CDC (virtual serial port) version is in debugging, so this problem will 
 
 ## How to Use and Config the LoRaWAN Example Code in MDK
 
-http://community.heltec.cn/t/how-to-use-the-the-lorawan-example-code-in-mdk/134
+[http://community.heltec.cn/t/how-to-use-the-the-lorawan-example-code-in-mdk/134](http://community.heltec.cn/t/how-to-use-the-the-lorawan-example-code-in-mdk/134)
 
 &nbsp;
 
