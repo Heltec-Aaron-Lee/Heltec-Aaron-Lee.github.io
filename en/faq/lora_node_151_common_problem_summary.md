@@ -10,7 +10,9 @@ This page contains the most popular questions we had connection from user. if th
 
 2. **[LoRa Node 151 debug log print problem](#lora-node-151-debug-log-print-problem)**
 
-3. **[How to use and config LoRa Node 151 LoRaWAN example code to connect to TTN](#how-to-use-and-config-lora-node-151-lorawan-example-code-to-connect-to-ttn)**
+3. **[How to Use and Config the LoRaWAN Example Code in MDK](#how-to-use-and-config-the-lorawan-example-code-in-mdk)**
+
+4. **[How to use and config LoRa Node 151 LoRaWAN example code to connect to TTN](#how-to-use-and-config-lora-node-151-lorawan-example-code-to-connect-to-ttn)**
 
    &nbsp;
 
@@ -30,7 +32,13 @@ Currently, the LoRa Node 151 LoRaWAN example still use UART to print debug log. 
 
 The USB_CDC (virtual serial port) version is in debugging, so this problem will not have in new version.
 
+&nbsp;
 
+## How to Use and Config the LoRaWAN Example Code in MDK
+
+http://community.heltec.cn/t/how-to-use-the-the-lorawan-example-code-in-mdk/134
+
+&nbsp;
 
 ## How to use and config LoRa Node 151 LoRaWAN example code to connect to TTN
 
