@@ -13,9 +13,9 @@ First of all, confirm the [Heltec ESP Development Framework](https://github.com/
 
   **Both Sender and Receiver should config to a same BAND.**
 
-- Enable 20dBm maximum LoRa output power in your sender (some country or location not allow 20dBm, please refer to local laws), add this code behind `Heltec.begin`:
+- Set 20dBm maximum LoRa output power in your sender (some country or location not allow 20dBm, please refer to local laws):
 
-  `LoRa.setTxPowerMax(20);`
+  `LoRa.setTxPower(20,RF_PACONFIG_PASELECT_PABOOST); //20dB output must via PABOOST`
 
   
 
