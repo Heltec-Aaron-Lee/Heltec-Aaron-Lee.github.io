@@ -12,6 +12,8 @@
 
 3. **[LoRaWAN例程配置和使用简要说明](#LoRaWAN例程配置和使用简要说明)**
 
+4. **[CubeIDE版本LoRaWAN例程配置和使用说明](#CubeIDE版本LoRaWAN例程配置和使用说明)**
+
    &nbsp;
 
 ## LoRa Node 151烧写程序的方法
@@ -28,7 +30,7 @@
 
 [http://community.heltec.cn/t/lora-node-151-debug-log-print-problem/100](http://community.heltec.cn/t/lora-node-151-debug-log-print-problem/100)
 
-USB_CDC (virtual serial port)的版本正在调试中，新版本的例程将不会存在此类问题了。
+此问题已经得到解决并在后文的连接中有说明。
 
 
 
