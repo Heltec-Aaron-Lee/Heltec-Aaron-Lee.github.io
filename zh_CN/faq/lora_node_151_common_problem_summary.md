@@ -32,7 +32,13 @@ USB_CDC (virtual serial port)的版本正在调试中，新版本的例程将不
 
 
 
-## LoRaWAN例程配置和使用简要说明
+## MDK版本LoRaWAN例程配置和使用简要说明
 
 [http://community.heltec.cn/t/how-to-use-the-the-lorawan-example-code-in-mdk/134](http://community.heltec.cn/t/how-to-use-the-the-lorawan-example-code-in-mdk/134)
+
+&nbsp;
+
+## CubeIDE版本LoRaWAN例程配置和使用说明
+
+[https://docs.heltec.cn/#/zh_CN/user_manual/lora_node_151_lorawan_example_usage](https://docs.heltec.cn/#/zh_CN/user_manual/lora_node_151_lorawan_example_usage)
 
