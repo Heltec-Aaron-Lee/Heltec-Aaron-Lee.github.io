@@ -9,4 +9,5 @@
 6. [PicoGW_UI软件无法选择China的解决办法](zh_CN/user_manual/pico_gw_china_config)
 7. [墨水屏/电子纸使用注意事项](zh_CN/user_manual/eink_display_usage_precautions)
 8. [LoRa Node 151烧写程序的方法](zh_CN/user_manual/how_to_download_firmware_into_lora_node_151)
+9. [LoRa Node 151 LoRaWAN例程配置方法](zh_CN/user_manual/how_to_download_firmware_into_lora_node_151)
 
