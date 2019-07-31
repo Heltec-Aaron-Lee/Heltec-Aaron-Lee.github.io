@@ -24,13 +24,13 @@ Please refer to this document:
 
 &nbsp;
 
-## LoRa Node 151 debug log print problem
+## LoRa Node 151 Debug Log Print Problem
 
 Currently, the LoRa Node 151 LoRaWAN example still use UART to print debug log. Here is method how to use it:
 
 [http://community.heltec.cn/t/lora-node-151-debug-log-print-problem/100](http://community.heltec.cn/t/lora-node-151-debug-log-print-problem/100)
 
-The USB_CDC (virtual serial port) version is in debugging, so this problem will not have in new version.
+This issue has been resolved.
 
 &nbsp;
 
@@ -40,11 +40,14 @@ The USB_CDC (virtual serial port) version is in debugging, so this problem will 
 
 &nbsp;
 
-## How to use and config LoRa Node 151 LoRaWAN example code to connect to TTN
+## How to Use and Config LoRa Node 151 LoRaWAN Example Code to Connect to TTN
 
 If you want to connect to other platforms, you can also refer to this part of the document.
 
 [http://community.heltec.cn/t/how-to-use-lora-node-151-and-send-data-to-ttn/124/9?u=hunter8801](http://community.heltec.cn/t/how-to-use-lora-node-151-and-send-data-to-ttn/124/9?u=hunter8801)
 
+&nbsp;
 
+## CubeIDE Version LoRaWAN Example Code Usage
 
+[https://docs.heltec.cn/#/en/user_manual/lora_node_151_lorawan_example_usage](https://docs.heltec.cn/#/en/user_manual/lora_node_151_lorawan_example_usage)
