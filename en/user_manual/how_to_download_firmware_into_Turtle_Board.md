@@ -43,7 +43,7 @@ Arrow 3 -- Begin Download.
 
 
 
-## Use Micro USB cable, via DUF Mode
+## Use Micro USB cable, via DFU Mode
 
 STM32L432KC had already included DFU Bootloader, it means just need a Micro USB cable, users can download .hex/.bin files into the board.
 

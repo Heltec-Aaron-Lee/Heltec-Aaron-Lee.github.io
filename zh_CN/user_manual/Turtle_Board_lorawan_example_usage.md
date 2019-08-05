@@ -23,7 +23,7 @@ LoRa Node 151的LoRaWAN协议例程是基于CubeIDE的工程，以下是配置�
 
 &nbsp;
 
-#### 3. 在宏定义中设置工作频率（Properties）
+#### 3. 在“board.h”中设置工作频率
 
 <img src="img/Turtle_Board_lorawan_example_usage/02.png">
 
@@ -45,7 +45,7 @@ LoRa Node 151的LoRaWAN协议例程是基于CubeIDE的工程，以下是配置�
 
 <img src="img/Turtle_Board_lorawan_example_usage/03.png">
 
-此时，将程序[下载到开发板](https://docs.heltec.cn/#/zh_CN/user_manual/how_to_download_firmware_into_lora_node_151)中，若一切正常，应该是可以运行的。
+此时，将程序[下载到开发板](https://docs.heltec.cn/#/zh_CN/user_manual/how_to_download_firmware_into_Turtle_Board)中，若一切正常，应该是可以运行的。
 
 &nbsp;
 
