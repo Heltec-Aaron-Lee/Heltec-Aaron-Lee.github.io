@@ -1,4 +1,4 @@
-# LoRa Node 151常见问题汇总
+# Turtle Board 常见问题汇总
 
 此页汇总了我们在日常工作中被最常问到的问题。如果这个页面的内容依然不能解决您的问题，您可以到我们的论坛上进一步讨论：[community.heltec.cn](http://community.heltec.cn/)
 
@@ -6,9 +6,9 @@
 
 ## 目录
 
-1. **[LoRa Node 151烧写程序的方法](#LoRa-Node-151烧写程序的方法)**
+1. **[Turtle Board烧写程序的方法](#Turtle-Board烧写程序的方法)**
 
-2. **[LoRa Node 151的LoRaWAN例程串口打印调试信息问题](#LoRa-Node-151的LoRaWAN例程串口打印调试信息问题)**
+2. **[Turtle Board的LoRaWAN例程串口打印调试信息问题](#Turtle-Board的LoRaWAN例程串口打印调试信息问题)**
 
 3. **[LoRaWAN例程配置和使用简要说明](#MDK版本LoRaWAN例程配置和使用简要说明)**
 
@@ -16,17 +16,17 @@
 
    &nbsp;
 
-## LoRa Node 151烧写程序的方法
+## Turtle Board烧写程序的方法
 
 请参考这篇文档:
 
-[https://docs.heltec.cn/#/zh_CN/user_manual/how_to_download_firmware_into_lora_node_151](https://docs.heltec.cn/#/zh_CN/user_manual/how_to_download_firmware_into_lora_node_151)
+[https://docs.heltec.cn/#/zh_CN/user_manual/how_to_download_firmware_into_Turtle_Board](https://docs.heltec.cn/#/zh_CN/user_manual/how_to_download_firmware_into_Turtle_Board)
 
 &nbsp;
 
-## LoRa Node 151的LoRaWAN例程串口打印调试信息问题
+## Turtle Board的LoRaWAN例程串口打印调试信息问题
 
-截至2016年6月26日，LoRa Node 151的LoRaWAN例程中，调试信息依然使用UART1输出：
+截至2016年6月26日，Turtle Board 的LoRaWAN例程中，调试信息依然使用UART1输出：
 
 [http://community.heltec.cn/t/lora-node-151-debug-log-print-problem/100](http://community.heltec.cn/t/lora-node-151-debug-log-print-problem/100)
 
@@ -42,5 +42,5 @@
 
 ## CubeIDE版本LoRaWAN例程配置和使用说明
 
-[https://docs.heltec.cn/#/zh_CN/user_manual/lora_node_151_lorawan_example_usage](https://docs.heltec.cn/#/zh_CN/user_manual/lora_node_151_lorawan_example_usage)
+[https://docs.heltec.cn/#/zh_CN/user_manual/Turtle_Board_lorawan_example_usage](https://docs.heltec.cn/#/zh_CN/user_manual/Turtle_Board_lorawan_example_usage)
 
