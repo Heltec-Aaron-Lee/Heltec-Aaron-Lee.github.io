@@ -9,18 +9,20 @@
 
 4. [怎样安装我司生产的ESP8266产品开发环境](zh_CN/user_manual/how_to_install_esp8266_Arduino)
 
-5. [如何烧写树莓派的TF卡镜像、配置WiFi上网、SSH连接](zh_CN/user_manual/how_to_config_raspberry_pi)
+5. [怎样安装我司生产的ASR650x产品开发环境](zh_CN/user_manual/how_to_install_esp32_Arduino)
 
-6. [PicoGW_UI软件无法选择China的解决办法](zh_CN/user_manual/pico_gw_china_config)
+6. [如何烧写树莓派的TF卡镜像、配置WiFi上网、SSH连接](zh_CN/user_manual/how_to_config_raspberry_pi)
 
-7. [墨水屏/电子纸使用注意事项](zh_CN/user_manual/eink_display_usage_precautions)
+7. [PicoGW_UI软件无法选择China的解决办法](zh_CN/user_manual/pico_gw_china_config)
 
-8. [LoRa Node 151烧写程序的方法](zh_CN/user_manual/how_to_download_firmware_into_lora_node_151)
+8. [墨水屏/电子纸使用注意事项](zh_CN/user_manual/eink_display_usage_precautions)
 
-9. [Turtle Board 烧写程序的方法](zh_CN/user_manual/how_to_download_firmware_into_Turtle_Board)
+9. [LoRa Node 151烧写程序的方法](zh_CN/user_manual/how_to_download_firmware_into_lora_node_151)
 
-10. [LoRa Node 151 LoRaWAN例程配置方法](zh_CN/user_manual/lora_node_151_lorawan_example_usage)
+10. [Turtle Board 烧写程序的方法](zh_CN/user_manual/how_to_download_firmware_into_Turtle_Board)
 
-11. [Turtle Board LoRaWAN例程配置方法](zh_CN/user_manual/Turtle_Board_lorawan_example_usage)
+11. [LoRa Node 151 LoRaWAN例程配置方法](zh_CN/user_manual/lora_node_151_lorawan_example_usage)
+
+12. [Turtle Board LoRaWAN例程配置方法](zh_CN/user_manual/Turtle_Board_lorawan_example_usage)
 
     
