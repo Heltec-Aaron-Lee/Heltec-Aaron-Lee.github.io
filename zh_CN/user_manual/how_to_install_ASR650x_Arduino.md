@@ -24,13 +24,13 @@
 
 * 现在最新的ASR650x CubeCell开发版网址: [https://github.com/HelTecAutomation/ASR650x-Arduino/releases/download/``releases``/package_CubeCell_index.json](https://github.com/HelTecAutomation/ASR650x-Arduino/releases/download/0.0.1/package_CubeCell_index.json)*
 
-  其中```release```请参考github中的最新版本(例如:0.0.1)
+  其中```release```请参考github中的最新版本(例如:0.0.2)
 
   [https://github.com/HelTecAutomation/ASR650x-Arduino/releases](https://github.com/HelTecAutomation/ASR650x-Arduino/releases)
 
 <img src="img/how_to_install_ASR650x_Arduino/03.png">
 
-点击 `Tools`->`Board:`->`Boards Manager...`, 在弹出框中搜索 `Heltec cubecell` , 点击 `install`
+点击 `Tools`->`Board:`->`Boards Manager...`, 在弹出框中搜索 `Heltec cubecell` , 选择希望下载的发布版本`releases`，点击 `install`
 
 <img src="img/how_to_install_ASR650x_Arduino/04.png">
 
@@ -64,8 +64,6 @@ Upload it 上传
 打开 Arduino IDE, 新建一个 `.ino` 程序, 复制以下代码。
 
 ```arduino
-#include <heltec.h>
-
 // the setup routine runs once when starts up
 void setup(){
 

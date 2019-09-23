@@ -2,7 +2,11 @@
 
 -------------------------------------------------------------------------------------------------------
 
-[TOC]
+## CONTENT
+
+1. [Overview](#overview)
+2. [Preparation](#preparation)
+3. [Connect to TTN](#connect-to-ttn)
 
 
 
@@ -20,11 +24,11 @@
 
 Select ```Gateway``` in the TTN's console.
 
-![](\img\how_to_connect_ht-m01_to_ttn-the-things-network\01.png)
+<img src="img\how_to_connect_ht-m01_to_ttn-the-things-network\01.png">
 
 Fill in the HT-M01 information as shown below and complete the addition.
 
-![](\img\how_to_connect_ht-m01_to_ttn-the-things-network\02.png)
+<img src="img\how_to_connect_ht-m01_to_ttn-the-things-network\02.png">
 
 - If you are using packet_forwarder_UI in Windows® and forwarding the message to the TTN, you need to:
 
@@ -32,7 +36,7 @@ Fill in the HT-M01 information as shown below and complete the addition.
 2. Check the box to the contents.
 3. Click OK to start forwarding.
 
-![](\img\how_to_connect_ht-m01_to_ttn-the-things-network\03.png)
+<img src="img\how_to_connect_ht-m01_to_ttn-the-things-network\03.png">
 
 - If you are using packet_forwarder forwarding in Raspberry Pi (Linux)
   The global_conf file needs a few changes. To edit it type:
@@ -56,7 +60,7 @@ Fill in the HT-M01 information as shown below and complete the addition.
 
   Going back to TTN, you will get this:
 
-  ![](img\how_to_connect_ht-m01_to_ttn-the-things-network\04.png)
+<img src="img\how_to_connect_ht-m01_to_ttn-the-things-network\04.png">
 
 
 

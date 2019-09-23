@@ -13,3 +13,4 @@
 10. [LoRa Node 151 LoRaWAN Example Usage](en/user_manual/lora_node_151_lorawan_example_usage)
 11. [Turtle Board LoRaWAN Example Usage](en/user_manual/Turtle_Board_lorawan_example_usage)
 12. [What's the Upgrade of WiFi LoRa 32 (V2) Compare with V1](en/user_manual/the_upgrade_of_wifi_lora_32_v2_compare_with_v1) 
+13. [How to connect HT-M01 to TTN(The-Things-Network)](en/user_manual/how_to_connect_ht-m01_to_ttn-the-things-network)

@@ -2,9 +2,11 @@
 
 -------------------------------------------------------------------------------------------------------
 
-[TOC]
+## 目录
 
-
+1. [总览](#总览)
+2. [事前准备](#事前准备)
+3. [连接到TTN](#连接到TTN)
 
 ## 总览
 
@@ -20,11 +22,11 @@
 
 在TTN的个人界面中选择Gateway。
 
-![](\img\how_to_connect_ht-m01_to_ttn-the-things-network\01.png)
+<img src="img\how_to_connect_ht-m01_to_ttn-the-things-network\01.png">
 
 如下所示填写HT-M01信息并完成添加。
 
-![](\img\how_to_connect_ht-m01_to_ttn-the-things-network\02.png)
+<img src="img\how_to_connect_ht-m01_to_ttn-the-things-network\02.png">
 
 - 如果您正在Windows®中使用packet_forwarder_UI并将消息转发到TTN，则需要：
 
@@ -34,7 +36,7 @@
 
 3. 单击确定开始转发。
 
-![](\img\how_to_connect_ht-m01_to_ttn-the-things-network\03.png)
+<img src="img\how_to_connect_ht-m01_to_ttn-the-things-network\03.png">
 
 - 如果您在Raspberry Pi（Linux）中使用packet_forwarder转发
   global_conf文件需要进行一些更改。 要编辑它，请输入：
@@ -58,7 +60,7 @@
   
   回到TTN，您将获得以下信息：
   
-  ![](img\how_to_connect_ht-m01_to_ttn-the-things-network\04.png)
+  <img src="img\how_to_connect_ht-m01_to_ttn-the-things-network\04.png">
   
   
 

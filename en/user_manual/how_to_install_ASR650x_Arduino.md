@@ -25,13 +25,13 @@ Input last ASR650x board manager URL
 
 *Now the last board manager URL: [https://github.com/HelTecAutomation/ASR650x-Arduino/releases/download/``releases``/package_CubeCell_index.json](https://github.com/HelTecAutomation/ASR650x-Arduino/releases/download/0.0.1/package_CubeCell_index.json)*
 
-The ```releases``` please refer to the latest version of github (for example: 0.0.1)
+The ```releases``` please refer to the latest version of github (for example: 0.0.2)
 
 [https://github.com/HelTecAutomation/ASR650x-Arduino/releases](https://github.com/HelTecAutomation/ASR650x-Arduino/releases)
 
 <img src="img/how_to_install_ASR650x_Arduino/03.png">
 
-Click `Tools`->`Board:`->`Boards Manager...`, search `Heltec cubecell`in the new pop-up dialog, then click `install`
+Click `Tools`->`Board:`->`Boards Manager...`, search `Heltec cubecell`in the new pop-up dialog, select the latest `releases` and  click `install`
 
 <img src="img/how_to_install_ASR650x_Arduino/04.png">
 
@@ -65,8 +65,6 @@ Upload it
 Open Arduino IDE, then new a `.ino` file, then copy the below code.
 
 ```arduino
-#include <heltec.h>
-
 // the setup routine runs once when starts up
 void setup(){
 
