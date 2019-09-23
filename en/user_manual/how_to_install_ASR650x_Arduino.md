@@ -6,7 +6,7 @@
 
 1. [Setting Environment](#1.-setting-environment)
 - [Step1. Download Heltec Arduino-ASR650x CubeCell Support](#step1-download-arduino-asr650x-cubecell-support)
-    
+  
 2. [Example](#example)
 
 ## 1. Setting Environment
@@ -23,7 +23,11 @@ Open Arduino IDE, and click `File`->`Peferences`->`Settings`
 
 Input last ASR650x board manager URL
 
-*Now the last board manager URL: [https://github.com/HelTecAutomation/ASR650x-Arduino/releases/download/0.0.1/package_CubeCell_index.json](https://github.com/HelTecAutomation/ASR650x-Arduino/releases/download/0.0.1/package_CubeCell_index.json)*
+*Now the last board manager URL: [https://github.com/HelTecAutomation/ASR650x-Arduino/releases/download/``releases``/package_CubeCell_index.json](https://github.com/HelTecAutomation/ASR650x-Arduino/releases/download/0.0.1/package_CubeCell_index.json)*
+
+The ```releases``` please refer to the latest version of github (for example: 0.0.1)
+
+[https://github.com/HelTecAutomation/ASR650x-Arduino/releases](https://github.com/HelTecAutomation/ASR650x-Arduino/releases)
 
 <img src="img/how_to_install_ASR650x_Arduino/03.png">
 
@@ -54,7 +58,7 @@ Then select an example likes `LoRaWan.ino`
 
 Upload it
 
-<img src="img/how_to_install_esp32_Arduino/8.png">
+<img src="img/how_to_install_esp32_Arduino/08.png">
 
 ### 2. New a Heltec ASR650x program
 

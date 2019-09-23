@@ -22,7 +22,11 @@
 
 输入ASR650x CubeCell开发板管理器网址
 
-* 现在最新的ASR650x CubeCell开发版网址: [https://github.com/HelTecAutomation/ASR650x-Arduino/releases/download/0.0.1/package_CubeCell_index.json](https://github.com/HelTecAutomation/ASR650x-Arduino/releases/download/0.0.1/package_CubeCell_index.json)
+* 现在最新的ASR650x CubeCell开发版网址: [https://github.com/HelTecAutomation/ASR650x-Arduino/releases/download/``releases``/package_CubeCell_index.json](https://github.com/HelTecAutomation/ASR650x-Arduino/releases/download/0.0.1/package_CubeCell_index.json)*
+
+  其中```release```请参考github中的最新版本(例如:0.0.1)
+
+  [https://github.com/HelTecAutomation/ASR650x-Arduino/releases](https://github.com/HelTecAutomation/ASR650x-Arduino/releases)
 
 <img src="img/how_to_install_ASR650x_Arduino/03.png">
 
@@ -53,7 +57,7 @@ Then select an example likes `LoRaWan.ino`
 
 Upload it 上传
 
-<img src="img/how_to_install_esp32_Arduino/8.png">
+<img src="img/how_to_install_esp32_Arduino/08.png">
 
 ### 2. 新建 Heltec ASR650x CubeCell系列的示例
 
