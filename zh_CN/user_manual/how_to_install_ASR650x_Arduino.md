@@ -57,7 +57,7 @@ Then select an example likes `LoRaWan.ino`
 
 Upload it 上传
 
-<img src="img/how_to_install_esp32_Arduino/08.png">
+<img src="img/how_to_install_ASR650x_Arduino/08.png">
 
 ### 2. 新建 Heltec ASR650x CubeCell系列的示例
 

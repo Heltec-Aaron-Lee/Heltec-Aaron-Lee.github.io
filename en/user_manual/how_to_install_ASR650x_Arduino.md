@@ -58,7 +58,7 @@ Then select an example likes `LoRaWan.ino`
 
 Upload it
 
-<img src="img/how_to_install_esp32_Arduino/08.png">
+<img src="img/how_to_install_ASR650x_Arduino/08.png">
 
 ### 2. New a Heltec ASR650x program
 
