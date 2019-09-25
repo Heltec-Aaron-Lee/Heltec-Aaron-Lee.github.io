@@ -7,6 +7,9 @@
 &nbsp;
 
 - **Links**
-- [![Github](https://icongram.jgog.in/simple/github.svg?color=808080&size=16)Github](https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series)
+- [![Github](http://119.23.153.38/img/github-logo.png)Github](https://github.com/HelTecAutomation)
 - [![Heltec](http://119.23.153.38/img/logo-16x16.png)Heltec Official Site](https://heltec.org)
+- [![community](http://119.23.153.38/img/conversation.png)Heltec Community](http://community.heltec.cn)
+- [![Facebook](http://119.23.153.38/img/facebook.png)Facebook](https://www.facebook.com/heltec.automation.5)
+- [![Twitter](http://119.23.153.38/img/twitter.png)Twitter](https://twitter.com/HeltecOrg)
 
