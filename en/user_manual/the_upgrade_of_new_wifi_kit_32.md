@@ -4,7 +4,7 @@
 
 ## How to distinguish between old and new versions
 
-<img src="img/the_upgrade_of_new_wifi_kit_32/01.png">
+<img src="img\the_upgrade_of_new_wifi_kit_32\01.png">
 
 &nbsp;
 

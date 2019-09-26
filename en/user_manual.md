@@ -4,8 +4,8 @@
 
 - **[Public Resource]()**
 - **[LoRa Node](#lora-node)**
-  - **[CubeCell Series (ASR650x)](#cubecell-series-(asr650x))**
-  - **[ESP32 + SX127x Series](#esp32-+-sx127x-series)**
+  - **[CubeCell Series (ASR650x)](#cubecell-series-asr650x)**
+  - **[ESP32 + SX127x Series](#esp32-sx127x-series)**
   - **[LoRa Node 151](#lora-node-151)**
   - **[Turtle Board](#Tturtle-board)**
 
