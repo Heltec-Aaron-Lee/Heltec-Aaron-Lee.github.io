@@ -4,12 +4,12 @@
 
 ## CONTENT
 
-1. [Setting Environment](#1.-setting-environment)
+1. [Setting Environment](#setting-environment)
 - [Step1. Download Heltec Arduino-ASR650x CubeCell Support](#step1-download-arduino-asr650x-cubecell-support)
-  
 2. [Example](#example)
+3. [The serial port cannot be connected in the Linux system](#the-serial-port-cannot-be-connected-in-the-linux-system)
 
-## 1. Setting Environment
+## Setting Environment
 
 *(Only one steps to complete setting)*
 
@@ -23,11 +23,13 @@ Open Arduino IDE, and click `File`->`Peferences`->`Settings`
 
 Input last ASR650x board manager URL
 
-*Now the last board manager URL: [https://github.com/HelTecAutomation/ASR650x-Arduino/releases/download/``releases``/package_CubeCell_index.json](https://github.com/HelTecAutomation/ASR650x-Arduino/releases/download/0.0.1/package_CubeCell_index.json)*
+https://docs.heltec.cn/download/package_CubeCell_index.json
 
-The ```releases``` please refer to the latest version of github (for example: 0.0.2)
+or
 
-[https://github.com/HelTecAutomation/ASR650x-Arduino/releases](https://github.com/HelTecAutomation/ASR650x-Arduino/releases)
+http://119.23.153.38/download/package_CubeCell_index.json
+
+
 
 <img src="img/how_to_install_ASR650x_Arduino/03.png">
 
@@ -78,6 +80,11 @@ void loop() {
 ```
 
 compile it and upload, the on board screen (if have) will show and Arduino's serial monitor will print something, it means Heltec ASR650x board is running successfully!
+## The serial port cannot be connected in the Linux system
+In the Linux system, I often encounter problems that the serial port cannot be connected.
+
+Please refer to:
+[https://playground.arduino.cc/Linux/All/#Permission](https://playground.arduino.cc/Linux/All/#Permission)
 
 Enjoy!
 
