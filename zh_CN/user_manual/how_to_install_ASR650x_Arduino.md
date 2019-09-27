@@ -6,7 +6,8 @@
 1. [编译环境和例程下载](#编译环境和例程下载)
 - [ASR650x CubeCell开发版编译环境下载](#ASR650x-CubeCell开发版编译环境下载)
 
-- [示例](#示例)  
+2. [示例](#示例)  
+3. [在Linux系统中串口无法连接](#在Linux系统中串口无法连接)
 
 ## 编译环境和例程下载
 
@@ -22,11 +23,13 @@
 
 输入ASR650x CubeCell开发板管理器网址
 
-* 现在最新的ASR650x CubeCell开发版网址: [https://github.com/HelTecAutomation/ASR650x-Arduino/releases/download/``releases``/package_CubeCell_index.json](https://github.com/HelTecAutomation/ASR650x-Arduino/releases/download/0.0.1/package_CubeCell_index.json)*
+* 现在最新的ASR650x CubeCell开发版网址:
 
-  其中```release```请参考github中的最新版本(例如:0.0.2)
+  https://docs.heltec.cn/download/package_CubeCell_index.json
 
-  [https://github.com/HelTecAutomation/ASR650x-Arduino/releases](https://github.com/HelTecAutomation/ASR650x-Arduino/releases)
+  或者
+  
+  http://119.23.153.38/download/package_CubeCell_index.json
 
 <img src="img/how_to_install_ASR650x_Arduino/03.png">
 
@@ -77,6 +80,13 @@ void loop() {
 ```
 
 编译，上传, the on board screen (if have) will show and Arduino's serial monitor will print something, it means Heltec ASR650x board is running successfully!
+## 在Linux系统中串口无法连接
+
+在Linux系统中，遇到无法连接串行端口的问题
+
+请参阅：
+
+[https://playground.arduino.cc/Linux/All/#Permission](https://playground.arduino.cc/Linux/All/#Permission)
 
 Enjoy!
 
