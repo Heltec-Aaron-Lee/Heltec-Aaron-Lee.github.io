@@ -14,7 +14,7 @@
 - **[ESP Arduino (ESP32, ESP8266 Arduino)](#esp-arduino-esp32-esp8266-arduino)**
 - **[E-Ink Display](#e-ink-display)**
 - **[OLED Display](#oled-display)**
-  - **[SSD1306 (0.49, 0.91, 0.96 Inch)](#ssd1306-0.49-0.91-0.96-inch)**
+  - **[SSD1306 (0.49, 0.91, 0.96 Inch)](#ssd1306-0-49-0-91-0-96-inch)**
 
 &nbsp;
 
