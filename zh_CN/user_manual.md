@@ -27,5 +27,5 @@
 
 13. [如何将HT-M01连接到TTN(The-Things-Network)](zh_CN/user_manual/how_to_connect_ht-m01_to_ttn-the-things-network)
 
-    
+14. [如何将CubeCell连接到TTN(The-Things-Network)](zh_CN/user_manual/how_to_connect_cubecell_to_ttn-the-things-network)
 
