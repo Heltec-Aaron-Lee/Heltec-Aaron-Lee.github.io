@@ -62,7 +62,7 @@ Open the serial port (COM4) and reset the CubeCell-Board. After the node is star
 
 <img src="img\how_to_connect_cubecell_to_ttn-the-things-network\05.png">
 
-```At the beginning we need to send arbitrary data to the COM to wake up the MCU.```
+#### At the beginning we need to send arbitrary data to the COM to wake up the MCU.
 
 <img src="img\how_to_connect_cubecell_to_ttn-the-things-network\06.png">
 
@@ -96,7 +96,7 @@ AT+DevEui=?
 
 <img src="img\how_to_connect_cubecell_to_ttn-the-things-network\08.png">
 
-```Please note that the configuration of the node's network access information must take effect only when the node is reset or the next time it enters the network. The parameters that have been configured by the node are printed after reset.```
+#### Please note that the configuration of the node's network access information must take effect only when the node is reset or the next time it enters the network. The parameters that have been configured by the node are printed after reset.
 
 The CubeCell-Board can be reset by sending ```AT+RESET=1```.
 

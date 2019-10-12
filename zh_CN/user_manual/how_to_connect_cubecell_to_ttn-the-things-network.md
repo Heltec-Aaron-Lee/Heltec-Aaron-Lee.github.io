@@ -67,7 +67,7 @@
 
 <img src="img\how_to_connect_cubecell_to_ttn-the-things-network\05.png">
 
-```开始我们需要向COM发送任意数据，用以唤醒MCU。```
+#### 开始我们需要向COM发送任意数据，用以唤醒MCU
 
 <img src="img\how_to_connect_cubecell_to_ttn-the-things-network\06.png">
 
@@ -101,7 +101,7 @@ AT+DevEui=?
 
 <img src="img\how_to_connect_cubecell_to_ttn-the-things-network\08.png">
 
-```请注意，节点入网信息的配置，必须在节点复位或者下一次入网时才会生效。复位之后会打印节点已配置的参数。```
+#### 请注意，节点入网信息的配置，必须在节点复位或者下一次入网时才会生效。复位之后会打印节点已配置的参数。
 
 通过发送```AT+RESET=1```可以让CubeCell-Board复位。
 
@@ -116,3 +116,7 @@ CubeCell-Board完成复位，开始入网。
 CubeCell-Board已成功连接到TTN！
 
 享受！
+
+```
+
+```
