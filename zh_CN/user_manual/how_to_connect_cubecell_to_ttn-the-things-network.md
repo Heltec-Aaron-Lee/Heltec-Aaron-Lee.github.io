@@ -22,6 +22,8 @@
 
 ​		本文旨在描述如何将[CubeCell系列(CubeCell-Board)](https://heltec.org/cubecell)通过LoRaWAN例程中的OTAA方式连接到TTN。
 
+<img src="img\how_to_connect_cubecell_to_ttn-the-things-network\01.png">
+
 ## 事前准备
 - Arduino IDE.
 
@@ -33,7 +35,6 @@
 
   本例程我使用[HT-M01网关](https://heltec.org/project/ht-m01/)并通过USB在Windows **®**中驱动，搭配CubeCell-Board完成快速连接到TTN。
 
-  <img src="img\how_to_connect_cubecell_to_ttn-the-things-network\01.jpg">
 
 ## 配置节点入网信息
 
@@ -66,7 +67,7 @@
 
 <img src="img\how_to_connect_cubecell_to_ttn-the-things-network\05.png">
 
-###### 开始我们需要向COM发送任意数据，用以唤醒MCU。
+```开始我们需要向COM发送任意数据，用以唤醒MCU。```
 
 <img src="img\how_to_connect_cubecell_to_ttn-the-things-network\06.png">
 
@@ -100,7 +101,7 @@ AT+DevEui=?
 
 <img src="img\how_to_connect_cubecell_to_ttn-the-things-network\08.png">
 
-###### 请注意，节点入网信息的配置，必须在节点复位或者下一次入网时才会生效。复位之后会打印节点已配置的参数。
+```请注意，节点入网信息的配置，必须在节点复位或者下一次入网时才会生效。复位之后会打印节点已配置的参数。```
 
 通过发送```AT+RESET=1```可以让CubeCell-Board复位。
 

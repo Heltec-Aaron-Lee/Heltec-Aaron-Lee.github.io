@@ -21,7 +21,7 @@ The installation environment can be automatically installed by one-click downloa
 
 ​		This article aims to describe how to connect the [CubeCell Series (CubeCell-Board)](https://heltec.org/cubecell) to the TTN via the OTAA method in the LoRaWAN example.
 
-
+<img src="img\how_to_connect_cubecell_to_ttn-the-things-network\01.png">
 
 ## Preparation
 - Arduino IDE.
@@ -32,7 +32,6 @@ The installation environment can be automatically installed by one-click downloa
 
 - In this example, I use [HT-M01 Gateway](https://heltec.org/project/ht-m01/) and drive it through Windows **®** via USB, and use CubeCell-Board to quickly connect to TTN.
 
-  <img src="img\how_to_connect_cubecell_to_ttn-the-things-network\01.jpg">
 
 ## Configure node information
 
@@ -40,7 +39,7 @@ First we have to create a new CubeCell-Board node in the TTN.
 
 <img src="img\how_to_connect_cubecell_to_ttn-the-things-network\02.png">
 
-After installing the CubeCell Arduino IDE development environment, select CubeCell-Board in the Arduino, and the working frequency band, and select LoRaWAN example.
+- After installing the CubeCell Arduino IDE development environment, select CubeCell-Board in the Arduino, and the working frequency band, and select LoRaWAN example.
 
 - I need the CubeCell-Board to work in the EU 868 band in Class A mode, which requires:
 
@@ -52,12 +51,10 @@ After installing the CubeCell Arduino IDE development environment, select CubeCe
 ```
 #define  AT_SUPPORT  1
 ```
-
 For example, turn on the RGB light.
 ```
 #define LoraWan_RGB 1
 ```
-
 - 2. Click to download.
 - 3. The node access information is configured through the AT command.
 
@@ -65,7 +62,7 @@ Open the serial port (COM4) and reset the CubeCell-Board. After the node is star
 
 <img src="img\how_to_connect_cubecell_to_ttn-the-things-network\05.png">
 
-###### At the beginning we need to send arbitrary data to the COM to wake up the MCU.
+```At the beginning we need to send arbitrary data to the COM to wake up the MCU.```
 
 <img src="img\how_to_connect_cubecell_to_ttn-the-things-network\06.png">
 
@@ -99,7 +96,7 @@ AT+DevEui=?
 
 <img src="img\how_to_connect_cubecell_to_ttn-the-things-network\08.png">
 
-###### Please note that the configuration of the node's network access information must take effect only when the node is reset or the next time it enters the network. The parameters that have been configured by the node are printed after reset.
+```Please note that the configuration of the node's network access information must take effect only when the node is reset or the next time it enters the network. The parameters that have been configured by the node are printed after reset.```
 
 The CubeCell-Board can be reset by sending ```AT+RESET=1```.
 
