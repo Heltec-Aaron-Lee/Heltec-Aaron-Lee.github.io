@@ -18,7 +18,7 @@ product : LoRa_Node_151
 
 2) open inc -> OLED.h
 
-<img src="img/stm32_oled_picture/.PNG">
+<img src="img/stm32_oled_picture/2.PNG">
 
 3) choose your OLED display
 
