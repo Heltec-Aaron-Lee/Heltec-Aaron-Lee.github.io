@@ -21,9 +21,9 @@
 
 ***
 
-[![](http://119.23.153.38/img/cubecell/htcc-ab01.jpg)](https://heltec.org/zh/project/htcc-ab01/)&nbsp;&nbsp;&nbsp;[![](http://119.23.153.38/img/cubecell/htcc-ac01.jpg)](https://heltec.org/zh/project/htcc-ac01)
+[![](http://119.23.153.38/img/cubecell/htcc-ab01.jpg)](https://heltec.org/project/htcc-ab01/)&nbsp;&nbsp;&nbsp;[![](http://119.23.153.38/img/cubecell/htcc-ac01.jpg)](https://heltec.org/project/htcc-ac01)
 
-[![](http://119.23.153.38/img/cubecell/htcc-am01.jpg)](https://heltec.org/zh/project/htcc-am01/)&nbsp;&nbsp;&nbsp;
+[![](http://119.23.153.38/img/cubecell/htcc-am01.jpg)](https://heltec.org/project/htcc-am01/)&nbsp;&nbsp;&nbsp;
 
 [![wireless_stick](http://119.23.153.38/img/wireless_stick_home.jpg)](https://heltec.org/project/wireless-stick/)&nbsp;&nbsp;&nbsp; [![wifi_lora_32_v2](http://119.23.153.38/img/wifi_lora_32_home.jpg)](https://heltec.org/project/wifi-lora-32)
 
