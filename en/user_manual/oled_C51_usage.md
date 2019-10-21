@@ -12,18 +12,18 @@
 
 1) Please open a file with ".uvproj" suffix with [keil5](https://www.keil.com/download/product/)
 
-<img src="img/C51_oled_picture/1.PNG">
+<img src="img/c51_oled_picture/1.PNG">
 
 2) Open Config -> Config.h
 
 3) Choose your OLED display
 
-<img src="img/C51_oled_picture/2.PNG">
+<img src="img/c51_oled_picture/2.PNG">
 
 4) Build
 
-<img src="img/C51_oled_picture/3.PNG">
+<img src="img/c51_oled_picture/3.PNG">
 
 5)Final Effect
 
-<img src="img/C51_oled_picture/final.PNG">
+<img src="img/c51_oled_picture/final.PNG">
