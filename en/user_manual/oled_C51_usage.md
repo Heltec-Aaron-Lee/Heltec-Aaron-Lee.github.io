@@ -2,11 +2,11 @@
 
 ####  If you want to modify code to became other models, you must have make sure already installed [keil5](https://www.keil.com/download/product/) software on your computer.
 
-software download link :[keil5](https://www.keil.com/download/product/)
+* Software Download Link :[keil5](https://www.keil.com/download/product/)
 
-download code: [ssd1306_spi_0.96 inch](https://github.com/15883893721/C51_OLED.git)
+* Download Code: [ssd1306_spi_0.96 inch](https://github.com/15883893721/C51_OLED.git)
 
-51 model : STC89C52RC
+* MCU(51) : STC89C52RC
 
 ####  	How to modify the code?
 
@@ -14,13 +14,16 @@ download code: [ssd1306_spi_0.96 inch](https://github.com/15883893721/C51_OLED.g
 
 <img src="img/C51_oled_picture/1.PNG">
 
-2) open Config -> Config.h
+2) Open Config -> Config.h
 
-3) choose your OLED display
+3) Choose your OLED display
 
 <img src="img/C51_oled_picture/2.PNG">
 
-4) build
+4) Build
 
 <img src="img/C51_oled_picture/3.PNG">
 
+5)Final Effect
+
+<img src="img/C51_oled_picture/final.PNG">
