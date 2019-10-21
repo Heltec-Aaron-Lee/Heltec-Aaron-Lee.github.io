@@ -16,7 +16,7 @@
 
 ​	*Since the dot matrix on the screen is 128x64, the dot matrix of the register is four columns larger than the dot matrix of the OLED (two columns on the left and the right). If the screen is operated, the data is written from the first column as usual... The problem of incomplete screen display.  Refer to the figure below.  1_1*
 
-<img src="img/oled_questions/1.PNG">
+<img src="img/oled_questions/1.png">
 
 
 
@@ -24,7 +24,7 @@
 
   *When writing data to the screen, the X-axis direction is written to the right from 2 (3rd point).Sample code as shown.  1_2*
 
-<img src="img/oled_questions/102.PNG">
+<img src="img/oled_questions/102.png">
 
 #### 2. There is a vertical bright line or spot on the right side
 
@@ -32,7 +32,7 @@
 
 ​      *The same reason 1 ,the data written to the first column and the second column of the register is garbled by the driver chip and displayed in the last column of the display.  2_1*
 
-<img src="img/oled_questions/201.PNG">
+<img src="img/oled_questions/201.png">
 
 
 
@@ -40,7 +40,7 @@
 
 *Change the value of the "All X" axis in the program to 132, as defined in the figure below for the X and Y axes. 2_2*
 
-<img src="img/oled_questions/202.PNG">
+<img src="img/oled_questions/202.png">
 
 #### 3. How to set the screen brightness?
 
@@ -48,7 +48,7 @@
 
 ​     *Brightness adjustment needs to set the contrast register 0x81, which has 256 (0x00~0xFF) brightness positions can be adjusted.The meaning is: first write the 0x81 command to the screen, and then write the brightness value you need to the screen, the specific method is shown in Figure 3_1.*
 
-<img src="img/oled_questions/301.PNG">
+<img src="img/oled_questions/301.png">
 
 #### 4. How does the screen show upside down?
 
@@ -58,9 +58,9 @@
 
 ​		*As shown in Figure 4_1, the 0xa1/0xa0 command can control the order display on the left and right of the screen. 0xc8/0xc0 can control the upper and lower order display of the screen. The default display effect is shown in Figure 4_2.*
 
-<img src="img/oled_questions/401.PNG">
+<img src="img/oled_questions/401.png">
 
-<img src="img/oled_questions/402.PNG">
+<img src="img/oled_questions/402.png">
 
 **(1) Reverse left and right (see Figure 4_3):**
 
@@ -68,7 +68,7 @@
 
 ​					OLED_WrCmd(0xC8);
 
-<img src="img/oled_questions/403.PNG">
+<img src="img/oled_questions/403.png">
 
 **(2) Upside down (see Figure 4_4):**
 
@@ -76,7 +76,7 @@
 
 ​					OLED_WrCmd(0xC0);
 
-<img src="img/oled_questions/404.PNG">
+<img src="img/oled_questions/404.png">
 
 **(3) Completely inverted (Figure 4_5):**
 
@@ -84,7 +84,7 @@
 
 ​					OLED_WrCmd(0xC0);
 
-<img src="img/oled_questions/405.PNG">
+<img src="img/oled_questions/405.png">
 
 #### 5. Can the screen reverse the settings?
 
@@ -96,7 +96,7 @@
 
 ***OLED_WrCmd(0xa7);//Full screen reverse display***
 
-<img src="img/oled_questions/501.PNG">
+<img src="img/oled_questions/501.png">
 
 #### 6. How to make the screen sleep?
 
@@ -108,17 +108,17 @@
 
   * **Sleep**
 
-    <img src="img/oled_questions/602.PNG">
+    <img src="img/oled_questions/602.png">
 
   * **wake**
 
-    <img src="img/oled_questions/603.PNG">
+    <img src="img/oled_questions/603.png">
 
 
 
 ​     *The OLED module in hibernation is shown in Figure 6_1, which is the same effect as no lighting, but it should be noted that the module still has a certain power consumption, about 15uA.*
 
-<img src="img/oled_questions/601.PNG">
+<img src="img/oled_questions/601.png">
 
 * ***Buy this OLED display:[check](http://heltec.taobao.com/category-777108260-713176956.htm?spm=a1z10.1-c.w4010-5582706673.7.dv4yUO&search=y&catName=OLED#bd)***
 
@@ -156,13 +156,13 @@
 
   由于屏幕上的点阵是128x64的，这样寄存器的点阵就比OLED的点阵多了四列（左右各两列），如果操作屏幕时按照常规的从第一列开始写数据……就出现了屏幕显示不全的问题。情况参考下图1.1
 
-<img src="img/oled_questions/1.PNG">
+<img src="img/oled_questions/1.png">
 
 * 解决方法
 
 向屏幕写数据时，X轴方向从2（第3个点）开始向右写。示例代码如图1.2
 
-<img src="img/oled_questions/102.PNG">
+<img src="img/oled_questions/102.png">
 
 #### 2.     右侧有一条竖着的亮线或斑点
 
@@ -170,13 +170,13 @@
 
 ​      原因同问题1，写到寄存器第一列和第二列的数据被驱动芯片当做乱码并在显示屏的最后一列显示出来。参考图2.1
 
-<img src="img/oled_questions/201.PNG">
+<img src="img/oled_questions/201.png">
 
 * 解决方法
 
 ​     把程序中“所有X”轴的值改成132，如下图定义的是X轴与Y轴。
 
-<img src="img/oled_questions/202.PNG">
+<img src="img/oled_questions/202.png">
 
 #### 3.     屏幕亮度怎么设置？
 
@@ -184,7 +184,7 @@
 
 ​       亮度调节需要设置对比度寄存器0x81,它有256（0x00~0xFF）个亮度档位可以调节。意思就是：先向屏幕写0x81这个命令，再向屏幕写您需要的亮度值，具体方法如图3.1
 
-<img src="img/oled_questions/301.PNG">
+<img src="img/oled_questions/301.png">
 
 #### 4.     屏幕怎么倒过来显示？
 
@@ -192,9 +192,9 @@
 
 ​       只要把左右反置一下，再上下反置一下就可以把屏幕倒过来显示，这样可以方便设备的灵活布线和安装。如图4.1所示，0xa1/0xa0命令可以控制屏幕左右的顺序显示，0xc8/0xc0可以控制屏幕的上下顺序显示，默认的显示效果见图4.2。
 
-<img src="img/oled_questions/401.PNG">
+<img src="img/oled_questions/401.png">
 
-<img src="img/oled_questions/402.PNG">
+<img src="img/oled_questions/402.png">
 
 * 左右反置（见图4.3）：
 
@@ -202,7 +202,7 @@ OLED_WrCmd(0xa0);
 
 OLED_WrCmd(0xC8);
 
-<img src="img/oled_questions/403.PNG">
+<img src="img/oled_questions/403.png">
 
 
 
@@ -212,7 +212,7 @@ OLED_WrCmd(0xa1);
 
 OLED_WrCmd(0xC0);
 
-<img src="img/oled_questions/404.PNG">
+<img src="img/oled_questions/404.png">
 
 
 
@@ -222,7 +222,7 @@ OLED_WrCmd(0xa0);
 
 OLED_WrCmd(0xC0);
 
-<img src="img/oled_questions/405.PNG">
+<img src="img/oled_questions/405.png">
 
 #### 5.  屏幕能够反显设置吗？
 
@@ -234,7 +234,7 @@ OLED_WrCmd(0xa6);//全屏正显
 
 OLED_WrCmd(0xa7);//全屏反显
 
-<img src="img/oled_questions/501.PNG">
+<img src="img/oled_questions/501.png">
 
 
 
@@ -246,17 +246,17 @@ OLED_WrCmd(0xa7);//全屏反显
 
 * 休眠
 
-<img src="img/oled_questions/602.PNG">
+<img src="img/oled_questions/602.png">
 
 * 唤醒
 
-<img src="img/oled_questions/603.PNG">
+<img src="img/oled_questions/603.png">
 
 
 
 休眠中的OLED模块如图6.1，跟没有点亮是一样的效果，但是要注意哦，此时的模块还是有一定的功耗的，大约15uA左右。
 
-<img src="img/oled_questions/601.PNG">
+<img src="img/oled_questions/601.png">
 
 更多问题，欢迎发送邮件到support@heltec.cn补充。
 

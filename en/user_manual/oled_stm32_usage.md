@@ -14,21 +14,21 @@
 
 1) Please open a file with ".CPROJECT" suffix with [STM32CubeIED](https://www.stmcu.com.cn/Index/search?search_keywords=ide).
 
-<img src="img/stm32_oled_picture/1.PNG">
+<img src="img/stm32_oled_picture/1.png">
 
 2) open inc -> OLED.h
 
-<img src="img/stm32_oled_picture/2.PNG">
+<img src="img/stm32_oled_picture/2.png">
 
 3) choose your OLED display
 
-<img src="img/stm32_oled_picture/3.PNG">
+<img src="img/stm32_oled_picture/3.png">
 
 4) build
 
 
 
-<img src="/img/stm32_oled_picture/4.PNG">
+<img src="/img/stm32_oled_picture/4.png">
 
 #### 2. OLED Display with STM32 Board
 
@@ -38,7 +38,7 @@
 
 PA1 is CS line，PA2 is D/C line
 
-<img src="img/stm32_oled_picture/10.PNG">
+<img src="img/stm32_oled_picture/10.png">
 
 
 
@@ -50,4 +50,4 @@ PA1 is CS line，PA2 is D/C line
 
 
 
-5）<img src="img/stm32_oled_picture/final2.PNG">
+5）<img src="img/stm32_oled_picture/final2.png">
