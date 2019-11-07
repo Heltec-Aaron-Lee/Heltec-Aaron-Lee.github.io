@@ -1,15 +1,14 @@
 # Heltec ESP8266 Based Dev-baords Develop Environment
 
-?> We suggest you confirm whether the `USB driver`, `Git` and `Arduino IDE` has installed first. If not, please view this two articles [establish serial connection](/en/user_manual/establish_serial_connection) and [Install Git and Arduino IDE](/en/user_manual/how_to_install_git_and_arduino).
+We suggest you confirm whether the `USB driver`, `Git` and `Arduino IDE` has installed first. If not, please view this two articles [establish serial connection](/en/user_manual/establish_serial_connection) and [Install Git and Arduino IDE](/en/user_manual/how_to_install_git_and_arduino).
 
 ## CONTENT
 
 1. [Setting Environment](#setting-environment)
-
-    - [Step1. Download Heltec Arduino-ESP8266 Support](#step1-download-arduino-esp8266-support)
-
-    - [Step2. Download the Heltec ESP8266 Library](#step2-download-the-heltec-esp8266-library)
-
+- [Step1. Download Heltec Arduino-ESP8266 Support](#step1-download-arduino-esp8266-support)
+    
+- [Step2. Download the Heltec ESP8266 Library](#step2-download-the-heltec-esp8266-library)
+    
 2. [Example](#example)
 
 ## 1. Setting Environment
