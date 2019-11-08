@@ -5,10 +5,11 @@ We suggest you confirm whether the `USB driver`, `Git` and `Arduino IDE` has ins
 ## CONTENT
 
 1. [Setting Environment](#setting-environment)
-- [Step1. Download Heltec Arduino-ESP8266 Support](#step1-download-arduino-esp8266-support)
-  
-- [Step2. Download the Heltec ESP8266 Library](#step2-download-the-heltec-esp8266-library)
-  
+
+   - [Step1. Download Heltec Arduino-ESP8266 Support](#step1-download-arduino-esp8266-support)
+
+   - [Step2. Download the Heltec ESP8266 Library](#step2-download-the-heltec-esp8266-library)
+
 2. [Example](#example)
 
 ## 1. Setting Environment
@@ -25,7 +26,7 @@ Open Arduino IDE, and click `File`->`Peferences`->`Settings`
 
 Input last esp8266 board manager URL
 
-*Now the last board manager URL:  *[https://docs.heltec.cn/download/package_heltec_esp8266_index.json](https://docs.heltec.cn/download/package_heltec_esp8266_index.json)* 
+*Now the last board manager URL:  *[https://docs.heltec.cn/download/package_heltec_esp8266_index.json](https://docs.heltec.cn/download/package_heltec_esp8266_index.json)*
 
 <img src="img/how_to_install_esp8266_Arduino/03.png">
 
