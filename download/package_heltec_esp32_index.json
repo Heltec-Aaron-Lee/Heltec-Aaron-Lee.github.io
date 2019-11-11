@@ -3,21 +3,21 @@
     {
       "maintainer": "Heltec Automation(TM)", 
       "help": {
-        "online": "http://heltec.cn"
+        "online": "https://heltec.org"
       }, 
       "websiteURL": "https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series", 
       "platforms": [
       {
           "category": "ESP32", 
           "name": "Heltec ESP32 Series Dev-boards", 
-          "url": "https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series/releases/download/0.0.4-rc1/esp32-0.0.4-rc1.zip", 
-          "checksum": "SHA-256:19f456e5761d971686124318ad8078d599df3326ed3114380be157367416ffab", 
+          "url": "https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series/releases/download/0.0.4/esp32-0.0.4.zip", 
+          "checksum": "SHA-256:252324bdd073d94083dfb1351d0bb796005c3760349d510382e4566f3b0b9b6f", 
           "help": {
             "online": ""
           }, 
-          "version": "0.0.4-rc1", 
+          "version": "0.0.4", 
           "architecture": "esp32", 
-          "archiveFileName": "esp32-0.0.4-rc1.zip", 
+          "archiveFileName": "esp32-0.0.4.zip", 
           "boards": [
             {"name": "WiFi Kit 32"}, 
             {"name": "WiFi LoRa 32"}, 
@@ -42,16 +42,9 @@
               "name": "mkspiffs"
             }
           ], 
-          "size": "36691754"
+          "size": "36319098"
         },
-    {
-      "maintainer": "Heltec Automation(TM)", 
-      "help": {
-        "online": "http://heltec.cn"
-      }, 
-      "websiteURL": "https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series", 
-      "platforms": [
-      {
+        {
           "category": "ESP32", 
           "name": "Heltec ESP32 Series Dev-boards", 
           "url": "https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series/releases/download/0.0.2-rc1/esp32-0.0.2-rc1.zip", 
