@@ -28,7 +28,7 @@
 
 
 
-<img src="/img/stm32_oled_picture/f4.png">
+<img src="img/stm32_oled_picture/f4.png">
 
 #### 2. OLED Display with STM32 Board
 
