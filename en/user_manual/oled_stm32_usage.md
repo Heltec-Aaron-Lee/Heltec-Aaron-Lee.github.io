@@ -22,7 +22,7 @@
 
 3) choose your OLED display
 
-<img src="img/stm32_oled_picture/f3.png">f
+<img src="img/stm32_oled_picture/f3.png">
 
 4) build
 
