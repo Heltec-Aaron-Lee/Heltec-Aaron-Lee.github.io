@@ -3,11 +3,48 @@
     {
       "maintainer": "Heltec Automation(TM)", 
       "help": {
-        "online": "http://heltec.cn"
+        "online": "https://heltec.org"
       }, 
       "websiteURL": "https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series", 
       "platforms": [
       {
+          "category": "ESP32", 
+          "name": "Heltec ESP32 Series Dev-boards", 
+          "url": "https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series/releases/download/0.0.4/esp32-0.0.4.zip", 
+          "checksum": "SHA-256:252324bdd073d94083dfb1351d0bb796005c3760349d510382e4566f3b0b9b6f", 
+          "help": {
+            "online": ""
+          }, 
+          "version": "0.0.4", 
+          "architecture": "esp32", 
+          "archiveFileName": "esp32-0.0.4.zip", 
+          "boards": [
+            {"name": "WiFi Kit 32"}, 
+            {"name": "WiFi LoRa 32"}, 
+            {"name": "WiFi LoRa 32(V2)"},
+            {"name": "Wirreless Stick Lite"}, 
+            {"name": "Wireless Stick"}
+          ], 
+          "toolsDependencies": [
+            {
+              "packager": "Heltec-esp32", 
+              "version": "1.22.0-80-g6c4433a-5.2.0", 
+              "name": "xtensa-esp32-elf-gcc"
+            }, 
+            {
+              "packager": "Heltec-esp32", 
+              "version": "2.6.1", 
+              "name": "esptool_py"
+            }, 
+            {
+              "packager": "Heltec-esp32", 
+              "version": "0.2.3", 
+              "name": "mkspiffs"
+            }
+          ], 
+          "size": "36319098"
+        },
+        {
           "category": "ESP32", 
           "name": "Heltec ESP32 Series Dev-boards", 
           "url": "https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series/releases/download/0.0.2-rc1/esp32-0.0.2-rc1.zip", 

@@ -1,11 +1,11 @@
 # Heltec ASR650x Based Dev-baords Develop Environment
 
-- We suggest you confirm whether the `USB driver`, `Git` and `Arduino IDE` has installed first. If not, please view this two articles [establish serial connection](/en/related_documents/establish_serial_connection) and [Install Git and Arduino IDE](/en/related_documents/how_to_install_git_and_arduino).
+- We suggest you confirm whether the `USB driver`, `Git` and `Arduino IDE` has installed first. If not, please view this two articles [establish serial connection](/en/user_manual/establish_serial_connection) and [Install Git and Arduino IDE](/en/user_manual/how_to_install_git_and_arduino).
 
 ## CONTENT
 
 1. [Setting Environment](#setting-environment)
-- [Step1. Download Heltec Arduino-ASR650x CubeCell Support](#step1-download-arduino-asr650x-cubecell-support)
+   - [Step1. Download Heltec Arduino-ASR650x CubeCell Support](#step1-download-arduino-asr650x-cubecell-support)
 2. [Example](#example)
 3. [The serial port cannot be connected in the Linux system](#the-serial-port-cannot-be-connected-in-the-linux-system)
 

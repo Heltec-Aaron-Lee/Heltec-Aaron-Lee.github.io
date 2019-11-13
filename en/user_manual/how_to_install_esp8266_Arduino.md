@@ -1,14 +1,14 @@
 # Heltec ESP8266 Based Dev-baords Develop Environment
 
-?> We suggest you confirm whether the `USB driver`, `Git` and `Arduino IDE` has installed first. If not, please view this two articles [establish serial connection](/en/user_manual/establish_serial_connection) and [Install Git and Arduino IDE](/en/user_manual/how_to_install_git_and_arduino).
+We suggest you confirm whether the `USB driver`, `Git` and `Arduino IDE` has installed first. If not, please view this two articles [establish serial connection](/en/user_manual/establish_serial_connection) and [Install Git and Arduino IDE](/en/user_manual/how_to_install_git_and_arduino).
 
 ## CONTENT
 
 1. [Setting Environment](#setting-environment)
 
-    - [Step1. Download Heltec Arduino-ESP8266 Support](#step1-download-arduino-esp8266-support)
+   - [Step1. Download Heltec Arduino-ESP8266 Support](#step1-download-arduino-esp8266-support)
 
-    - [Step2. Download the Heltec ESP8266 Library](#step2-download-the-heltec-esp8266-library)
+   - [Step2. Download the Heltec ESP8266 Library](#step2-download-the-heltec-esp8266-library)
 
 2. [Example](#example)
 
@@ -26,7 +26,7 @@ Open Arduino IDE, and click `File`->`Peferences`->`Settings`
 
 Input last esp8266 board manager URL
 
-*Now the last board manager URL: [https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series/releases/download/0.0.1/package_heltec_esp8266_index.json](https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series/releases/download/0.0.1/package_heltec_esp8266_index.json)*
+*Now the last board manager URL:  *[https://docs.heltec.cn/download/package_heltec_esp8266_index.json](https://docs.heltec.cn/download/package_heltec_esp8266_index.json)*
 
 <img src="img/how_to_install_esp8266_Arduino/03.png">
 
