@@ -14,21 +14,21 @@
 
 1) Please open a file with ".CPROJECT" suffix with [STM32CubeIED](https://www.stmcu.com.cn/Index/search?search_keywords=ide).
 
-<img src="img/stm32_oled_picture/f1.png">
+<img src="https://github.com/Heltec-Aaron-Lee/Heltec-Aaron-Lee.github.io/blob/master/img/stm32_oled_picture/f1.PNG">
 
 2) open inc -> OLED.h
 
-<img src="img/stm32_oled_picture/f2.png">
+<img src="https://github.com/Heltec-Aaron-Lee/Heltec-Aaron-Lee.github.io/blob/master/img/stm32_oled_picture/f2.PNG">
 
 3) choose your OLED display
 
-<img src="img/stm32_oled_picture/f3.png">
+<img src="https://github.com/Heltec-Aaron-Lee/Heltec-Aaron-Lee.github.io/blob/master/img/stm32_oled_picture/f3.PNG">
 
 4) build
 
 
 
-<img src="img/stm32_oled_picture/f4.png">
+<img src="https://github.com/Heltec-Aaron-Lee/Heltec-Aaron-Lee.github.io/blob/master/img/stm32_oled_picture/f4.PNG">
 
 #### 2. OLED Display with STM32 Board
 
@@ -38,7 +38,7 @@
 
 PA1 is CS line，PA2 is D/C line
 
-<img src="img/stm32_oled_picture/f10.png">
+<img src="https://github.com/Heltec-Aaron-Lee/Heltec-Aaron-Lee.github.io/blob/master/img/stm32_oled_picture/f10.PNG">
 
 
 

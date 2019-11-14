@@ -12,18 +12,19 @@
 
 1) Please open a file with ".uvproj" suffix with [keil5](https://www.keil.com/download/product/)
 
-<img src="img/c51_oled_picture/f1.png">
+<img src="https://github.com/Heltec-Aaron-Lee/Heltec-Aaron-Lee.github.io/blob/master/img/C51_oled_picture/f1.png">
 
 2) Open Config -> Config.h
 
 3) Choose your OLED display
 
-<img src="img/c51_oled_picture/f2.png">
+<img src="https://github.com/Heltec-Aaron-Lee/Heltec-Aaron-Lee.github.io/blob/master/img/C51_oled_picture/f2.png">
 
 4) Build
 
-<img src="img/c51_oled_picture/f3.png">
+<img src="https://github.com/Heltec-Aaron-Lee/Heltec-Aaron-Lee.github.io/blob/master/img/C51_oled_picture/f3.png">
 
 5)Final Effect
 
-<img src="img/c51_oled_picture/final.png">
+<img src="https://github.com/Heltec-Aaron-Lee/Heltec-Aaron-Lee.github.io/blob/master/img/C51_oled_picture/final.png">
+
