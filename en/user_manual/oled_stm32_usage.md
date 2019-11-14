@@ -50,4 +50,4 @@ PA1 is CS line，PA2 is D/C line
 
 
 
-5）<img src="img/stm32_oled_picture/final2.png">
+5）<img src="https://github.com/Heltec-Aaron-Lee/Heltec-Aaron-Lee.github.io/blob/master/img/stm32_oled_picture/final2.png">
