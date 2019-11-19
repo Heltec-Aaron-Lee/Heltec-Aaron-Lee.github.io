@@ -115,7 +115,7 @@
         {
           "category": "CubeCell", 
           "name": "CubeCell Development Framework", 
-          "url": "https://github.com/HelTecAutomation/ASR650x-Arduino/archive/ASR650x-Arduino-0.0.4-BoardManager.zip", 
+          "url": "https://github.com/HelTecAutomation/ASR650x-Arduino/releases/download/0.0.4/ASR650x-Arduino-0.0.4-BoardManager.zip", 
           "checksum": "SHA-256:e855471f641085d0c8bb04c6c4e25f448c8ef1bc42cd98c110f95d2fdd3aae02", 
           "help": {
             "online": ""
