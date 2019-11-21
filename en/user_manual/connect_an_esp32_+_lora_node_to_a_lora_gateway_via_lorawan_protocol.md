@@ -27,7 +27,9 @@
 <img src="img\connect_an_esp32_+_lora_node_to_a_lora_gateway_via_lorawan_ protocol\01.png">
 <img src="img\connect_an_esp32_+_lora_node_to_a_lora_gateway_via_lorawan_ protocol\08.png">
 
+----------
 ## Preparation
+----------
 - Arduino IDE.  How to install please click [here](https://docs.heltec.cn/#/en/user_manual/how_to_install_git_and_arduino).
 
 - To use this library, you need to install the WiFi_Kit_series Arduino development environment first.How to install please click [here](https://docs.heltec.cn/#/en/user_manual/how_to_install_esp32_Arduino).
