@@ -25,7 +25,7 @@
 **[Heltec LoRa Node Family](https://docs.heltec.cn/#/en/products/lora/lora_node/heltec_lora_node_list_eu).**
 
 <img src="img\connect_an_esp32_+_lora_node_to_a_lora_gateway_via_lorawan_ protocol\01.png">
-
+<img src="img\connect_an_esp32_+_lora_node_to_a_lora_gateway_via_lorawan_ protocol\08.png">
 ## Preparation
 - Arduino IDE.  How to install please click [here](https://docs.heltec.cn/#/en/user_manual/how_to_install_git_and_arduino).
 
@@ -93,9 +93,10 @@ Next we need to modify the node's access parameters.(Like fqz、DevEui、APPKEY)
 
 Click upload, reset the node after the download is complete.
 
+<img src="img\connect_an_esp32_+_lora_node_to_a_lora_gateway_via_lorawan_ protocol\09.png">
 Return to TTN to view:
 
-<img src="img\connect_an_esp32_+_lora_node_to_a_lora_gateway_via_lorawan_ protocol\08.png">
+<img src="img\connect_an_esp32_+_lora_node_to_a_lora_gateway_via_lorawan_ protocol\10.png">
 
 WiFi_Kit_series-Board has successfully connected to TTN!
 
