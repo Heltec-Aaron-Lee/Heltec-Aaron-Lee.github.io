@@ -12,7 +12,7 @@
   
 - **[LoRa Gateway](#lora-gateway)**
   - **[HT-M01 Mini LoRa Gateway](#ht-m01-mini-lora-gateway)**
-  - **[HT-M02 Edgy LoRa Gateway](#ht-m02-edgy-lora-gateway)**
+  - **[HT-M02 Edge LoRa Gateway](#ht-m02-edge-lora-gateway)**
   
 - **[ESP Arduino (ESP32, ESP8266 Arduino)](#esp-arduino-esp32-esp8266-arduino)**
 
@@ -45,7 +45,7 @@
 - **[How to Install Heltec ESP8266 Based Dev-baords Develop Environment](en/user_manual/how_to_install_esp8266_Arduino)**
 - **[What's the Upgrade of WiFi LoRa 32 (V2) Compare with V1](en/user_manual/the_upgrade_of_wifi_lora_32_v2_compare_with_v1)** 
 - **[How to test maximum LoRa communication distance](en/user_manual/lora_maximum_communication_distance_test)**
-- Connect an "ESP32 + LoRa" node to a LoRa Gateway via LoRaWAN protocol
+- **[Connect an "ESP32 + LoRa" node to a LoRa Gateway via LoRaWAN protocol](en/user_manual/connect_an_"esp32_+_lora"_node_to_a_lora_gateway_via_lorawan_protocol)**
 
 #### LoRa Node 151
 
@@ -65,7 +65,7 @@
 
 - **[How to connect HT-M01 to TTN (The-Things-Network)](en/user_manual/how_to_connect_ht-m01_to_ttn-the-things-network)**
 
-#### HT-M02 Edgy LoRa Gateway
+#### HT-M02 Edge LoRa Gateway
 
 - How to connect HT-M02 to TTN (The-Things-Network)
 
