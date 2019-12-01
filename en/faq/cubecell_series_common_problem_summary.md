@@ -1,4 +1,4 @@
-# Heltec CubeCell Series Products Common Problems Summary
+# Heltec<sup>TM</sup> CubeCell<sup>TM</sup> Series Products Common Problems Summary
 
 This page contains the most popular questions we had connection from user. if this page's detail can't solve your problem, you can also talk in our forum: [community.heltec.cn](http://community.heltec.cn/)
 
@@ -15,7 +15,7 @@ This page contains the most popular questions we had connection from user. if th
 
 The bootloader of CubeCell<sup>TM</sup> is preprogrammed software for burning and verification firmware. In FLASH row 0~33, rewrite this part will break the bootloader and can't download firmware anymore.
 
-Entering the bootloader mode needs to meet the following timing:
+Entering the bootloader mode needs to meet the following timing (T<sub>RST</sub>≥10mS):
 
 <img src="en/faq/img/bootloader01.png">
 
@@ -24,7 +24,7 @@ Here are two method access bootloader manually:
 - CubeCell not connect to a computer -- Press the “USER” button of the CubeCell while plugging it to any USB port of a computer.
 - CubeCell already connected to a computer -- Keep the "USER" button pressed → Press the RESET button → Release the RESET button → release the USER button.
 
-USER Pin map
+#### USER Pin map
 
 | Board                                                        | Pin    |
 | ------------------------------------------------------------ | ------ |
