@@ -117,6 +117,3 @@ CubeCell-Board已成功连接到TTN！
 
 享受！
 
-```
-
-```
