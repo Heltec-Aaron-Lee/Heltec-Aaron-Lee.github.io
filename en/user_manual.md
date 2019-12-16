@@ -37,6 +37,7 @@
 - How to config CubeCell LoRa Node's Device EUI, APPKEY, etc.
 - How to connect CubeCell to a LoRa Gateway via LoRaWAN protocol
 - **[How to connect CubeCell to TTN (The-Things-Network)](en/user_manual/how_to_connect_cubecell_to_ttn-the-things-network)**
+- **[How to program a CubeCell module](en/user_manual/programming_cubecell)**
 
 #### ESP32 + SX127x Series
 
