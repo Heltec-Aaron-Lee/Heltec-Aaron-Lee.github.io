@@ -28,7 +28,7 @@ There are two recommend schematics:
 - Connect your redesigned board to a computer, make sure useing a high qulity Micro USB cable;
 - Access bootloader mode, success accessed the bootloader, following log will be print via serial port:
 
-<img src="img/program_cubecell_module/01.png">
+<img src="img/program_cubecell_module/01.PNG">
 
 *If use the Arduino compatible circute, and system into bootloader mode automatically, will not see this log. Log printed by CubeCell normally, but the com port used by IDE for programming purpose,  there is no place to show.* 
 
