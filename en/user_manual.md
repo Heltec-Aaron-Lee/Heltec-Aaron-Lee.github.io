@@ -81,6 +81,7 @@
 ## E-Ink Display
 
 - **[E-Ink Display Usage Precautions](en/user_manual/eink_display_usage_precautions)**
+- **[how_to_use_the_library_for_E_ink](en/user_manual/how_to_use_the_library_for_E_ink.md)**
 
 &nbsp;
 
