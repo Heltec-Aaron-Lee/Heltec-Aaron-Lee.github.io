@@ -8,7 +8,7 @@
 
 #### If you just want to show the default picture
 
-* Just modify the macro definition in the "e_ink.h" file.
+* Just modify the macro definition in the **"e_ink.h"** file.
 
   * **Such as displaying a 2.9-inch black-and-white screen picture**
 
