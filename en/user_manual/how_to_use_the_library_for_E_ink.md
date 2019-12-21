@@ -22,13 +22,21 @@
 
 * First, you need to take the image as a model, and put the data in the **"imagedata. h"** and **"imagedata. cpp"** files (**following the format in the example**), and remember the array name of the data you take.
 
-  <img src="img/how_to_use_the_library_for_E_ink/2.png">
+  * step1
 
-  <img src="img/how_to_use_the_library_for_E_ink/3.png">
+    <img src="img/how_to_use_the_library_for_E_ink/2.png">
 
-  <img src="img/how_to_use_the_library_for_E_ink/4.png">
+  * step2
 
-  <img src="img/how_to_use_the_library_for_E_ink/5.png">
+    <img src="img/how_to_use_the_library_for_E_ink/3.png">
+
+  * step3
+
+    <img src="img/how_to_use_the_library_for_E_ink/4.png">
+
+  * step4
+
+    <img src="img/how_to_use_the_library_for_E_ink/5.png">
 
   ------
 
