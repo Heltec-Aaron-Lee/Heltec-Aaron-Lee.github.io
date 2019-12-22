@@ -33,7 +33,7 @@
 #### CubeCell Series (ASR650x)
 
 - **[How to Install Heltec CubeCell Series Develop Environment](en/user_manual/how_to_install_ASR650x_Arduino)**
-- **[CubeCell Series AT command list](en/download/cubecell/CubeCell_Series_AT_Command_User_Manual_V0.2.pdf)**
+- **[CubeCell Series AT command list](https://docs.heltec.cn/download/cubecell/CubeCell_Series_AT_Command_User_Manual_V0.2.pdf)**
 - How to config CubeCell LoRa Node's Device EUI, APPKEY, etc.
 - **[How to connect CubeCell to a LoRa Gateway via LoRaWAN protocol (TTN)](en/user_manual/how_to_connect_cubecell_to_ttn-the-things-network)**
 - **[How to program a CubeCell module](en/user_manual/programming_cubecell)**
