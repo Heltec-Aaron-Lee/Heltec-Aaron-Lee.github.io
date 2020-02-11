@@ -146,6 +146,41 @@
             }
           ], 
           "size": "8248990"
+        },
+        {
+          "category": "CubeCell", 
+          "name": "CubeCell Development Framework", 
+          "url": "https://github.com/HelTecAutomation/ASR650x-Arduino/releases/download/0.0.5/ASR650x-Arduino-0.0.5-BoardManager.zip", 
+          "checksum": "SHA-256:ab47560508ebac9ee169fa7335b49c776a68e1435732c799c85b98fed76fc1a6", 
+          "help": {
+            "online": ""
+          }, 
+          "version": "0.0.5", 
+          "architecture": "CubeCell", 
+          "archiveFileName": "CubeCell-0.0.5.zip", 
+          "boards": [
+            {"name": "CubeCell-Board"}, 
+            {"name": "CubeCell-Cupsule"}, 
+            {"name": "CubeCell-Module"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "CubeCell", 
+              "version": "8-2019-q3", 
+              "name": "gcc-arm-none-eabi"
+            }, 
+            {
+              "packager": "CubeCell", 
+              "version": "0.0.1", 
+              "name": "CubeCellelftool"
+            }, 
+            {
+              "packager": "CubeCell", 
+              "version": "0.0.1", 
+              "name": "CubeCellflash"
+            }
+          ], 
+          "size": "2413998"
         }
       ],
       "tools": [
