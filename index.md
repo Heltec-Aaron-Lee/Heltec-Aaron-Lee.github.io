@@ -3,15 +3,15 @@
 ***
 &nbsp;***+++ This page is currently under construction! +++***
 
-# Heltec LoRa Family
+## Heltec LoRa Family
 ***
 &nbsp;
 
 **LoRa Gateway**
 
-![link](http://119.23.153.38/icon/link.png) **[Heltec LoRa Gateway Products Difference Table](en/products/lora/lora_gateway/heltec_lora_gateway_list_eu.md)** 
+![](http://119.23.153.38/icon/link.png) **[Heltec LoRa Gateway Products Difference Table](en/products/lora/lora_gateway/heltec_lora_gateway_list_eu.md)** 
 
-[![HT-M01.jpg](http://119.23.153.38/img/ht_m01.jpg)](https://heltec.org/project/ht-m01)&nbsp;&nbsp;&nbsp;[![](http://119.23.153.38/img/ht_m02.jpg)](https://heltec.org/project/ht-m02)
+[![](img/index/ht_m01.jpg)](https://heltec.org/project/ht-m01)&nbsp;&nbsp;&nbsp;[![](img/index/ht_m02.jpg)](https://heltec.org/project/ht-m02)
 
 &nbsp;
 
@@ -159,4 +159,3 @@
 <!-- GitHub Buttons -->
 
 <script async defer src="https://buttons.github.io/buttons.js"></script>
-
