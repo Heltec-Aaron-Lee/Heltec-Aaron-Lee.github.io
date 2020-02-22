@@ -14,7 +14,7 @@
 
 ![link](http://119.23.153.38/icon/link.png) **[Heltec LoRa 网关各型号差异对照表](zh_CN/products/lora/lora_gateway/heltec_lora_gateway_list_eu.md)** 
 
-[![HT-M01.jpg](http://119.23.153.38/img/ht_m01.jpg)](https://heltec.org/zh/project/ht-m01)&nbsp;&nbsp;&nbsp;[![](http://119.23.153.38/img/ht_m02.jpg)](https://heltec.org/zh/project/ht-m02)
+[![HT-M01.jpg](http://resource.heltec.cn/img/docs/ht_m01.jpg)](https://heltec.org/zh/project/ht-m01)&nbsp;&nbsp;&nbsp;[![](http://resource.heltec.cn/img/docs/ht_m02.jpg)](https://heltec.org/zh/project/ht-m02)
 
 &nbsp;
 
@@ -24,28 +24,20 @@
 
 ------
 
-[![](http://119.23.153.38/img/cubecell/htcc-ab01.jpg)](https://heltec.org/zh/project/htcc-ab01/)&nbsp;&nbsp;&nbsp;[![](http://119.23.153.38/img/cubecell/htcc-ac01.jpg)](https://heltec.org/zh/project/htcc-ac01)
+[![](http://resource.heltec.cn/img/docs/cubecell/htcc-ab01.jpg)](https://heltec.org/zh/project/htcc-ab01/)&nbsp;&nbsp;&nbsp;[![](http://resource.heltec.cn/img/docs/cubecell/htcc-ac01.jpg)](https://heltec.org/zh/project/htcc-ac01)
 
-[![](http://119.23.153.38/img/cubecell/htcc-am01.jpg)](https://heltec.org/zh/project/htcc-am01/)&nbsp;&nbsp;&nbsp;
+[![](http://resource.heltec.cn/img/docs/cubecell/htcc-am01.jpg)](https://heltec.org/zh/project/htcc-am01/)&nbsp;&nbsp;&nbsp;
 
-[![wireless_stick](http://119.23.153.38/img/wireless_stick_home.jpg)](https://heltec.org/zh/project/wireless-stick)&nbsp;&nbsp;&nbsp;[![wifi_lora_32_v2](http://119.23.153.38/img/wifi_lora_32_home.jpg)](https://heltec.org/zh/project/wifi-lora-32)
+[![wireless_stick](http://resource.heltec.cn/img/docs/wireless_stick_home.jpg)](https://heltec.org/zh/project/wireless-stick)&nbsp;&nbsp;&nbsp;[![wifi_lora_32_v2](http://resource.heltec.cn/img/docs/wifi_lora_32_home.jpg)](https://heltec.org/zh/project/wifi-lora-32)
 
-[![](http://119.23.153.38/img/wireless_stick_lite.jpg)](https://heltec.org/zh/project/wireless-stick-lite)&nbsp;&nbsp;&nbsp;[![](http://119.23.153.38/img/wireless_shell.jpg)](https://heltec.org/zh/project/wireless-shell)
+[![](http://resource.heltec.cn/img/docs/wireless_stick_lite.jpg)](https://heltec.org/zh/project/wireless-stick-lite)&nbsp;&nbsp;&nbsp;[![](http://resource.heltec.cn/img/docs/wireless_shell.jpg)](https://heltec.org/zh/project/wireless-shell)
 
-[![](http://119.23.153.38/img/lora_node_151.jpg)](https://heltec.org/zh/project/lora-node-151/)&nbsp;&nbsp;&nbsp;[![](http://119.23.153.38/img/turtle.jpg)](https://heltec.org/zh/project/turtle)
+[![](http://resource.heltec.cn/img/docs/lora_node_151.jpg)](https://heltec.org/zh/project/lora-node-151/)&nbsp;&nbsp;&nbsp;[![](http://resource.heltec.cn/img/docs/turtle.jpg)](https://heltec.org/zh/project/turtle)
 
-[![](http://119.23.153.38/img/lora_kit_151.jpg)](https://heltec.org/zh/project/lora-kit-151/)
-
-&nbsp;
-&nbsp;
+[![](http://resource.heltec.cn/img/docs/lora_kit_151.jpg)](https://heltec.org/zh/project/lora-kit-151/)
 
 &nbsp;
-
-**LoRa 天线**
-
 &nbsp;
-
-
 
 # Heltec ESP Arduino系列
 
@@ -57,7 +49,7 @@
 
 **WiFi Kit 系列**
 
-[![wifi_kit_32.jpg](http://119.23.153.38/img/wifi_kit_32.jpg)](https://heltec.org/zh/project/wifi-kit-32)&nbsp;&nbsp;&nbsp; [![wifi_kit_8.jpg](http://119.23.153.38/img/wifi_kit_8.jpg)](https://heltec.org/zh/project/wifi-kit-8)
+[![wifi_kit_32.jpg](http://resource.heltec.cn/img/docs/wifi_kit_32.jpg)](https://heltec.org/zh/project/wifi-kit-32)&nbsp;&nbsp;&nbsp; [![wifi_kit_8.jpg](http://resource.heltec.cn/img/docs/wifi_kit_8.jpg)](https://heltec.org/zh/project/wifi-kit-8)
 
 &nbsp;
 
@@ -71,15 +63,15 @@
 
 **0.96" 寸OLED**
 
-[![0.96_Inch.jpg](http://119.23.153.38/img/0.96ssd1306_blue.jpg)](https://heltec.org/zh/project/096-oled)&nbsp;&nbsp;&nbsp; [![0.96_Inch.jpg](http://119.23.153.38/img/0.96ssd1306.jpg)](https://heltec.org/zh/project/096-oled)
+[![0.96_Inch.jpg](http://resource.heltec.cn/img/docs/0.96ssd1306_blue.jpg)](https://heltec.org/zh/project/096-oled)&nbsp;&nbsp;&nbsp; [![0.96_Inch.jpg](http://resource.heltec.cn/img/docs/0.96ssd1306.jpg)](https://heltec.org/zh/project/096-oled)
 
 
 
-[![0.96_Inch.jpg](http://119.23.153.38/img/0.96ssd1306_white.jpg)](https://heltec.org/zh/project/096-oled)&nbsp;&nbsp;&nbsp; [![0.96_Inch.jpg](http://119.23.153.38/img/0.96ssd1306_iic_yellow.jpg)](https://heltec.org/zh/project/096-oled)&nbsp;&nbsp;&nbsp; 
+[![0.96_Inch.jpg](http://resource.heltec.cn/img/docs/0.96ssd1306_white.jpg)](https://heltec.org/zh/project/096-oled)&nbsp;&nbsp;&nbsp; [![0.96_Inch.jpg](http://resource.heltec.cn/img/docs/0.96ssd1306_iic_yellow.jpg)](https://heltec.org/zh/project/096-oled)&nbsp;&nbsp;&nbsp; 
 
 
 
-[![0.96_Inch.jpg](http://119.23.153.38/img/0.96ssd1306_iic_white.jpg)](https://heltec.org/zh/project/096-oled)&nbsp;&nbsp;&nbsp; [![0.96_Inch.jpg](http://119.23.153.38/img/0.96ssd1306_iic_blue.jpg)](https://heltec.org/zh/project/096-oled)
+[![0.96_Inch.jpg](http://resource.heltec.cn/img/docs/0.96ssd1306_iic_white.jpg)](https://heltec.org/zh/project/096-oled)&nbsp;&nbsp;&nbsp; [![0.96_Inch.jpg](http://resource.heltec.cn/img/docs/0.96ssd1306_iic_blue.jpg)](https://heltec.org/zh/project/096-oled)
 
 
 
@@ -87,9 +79,9 @@
 
 **1.3"寸OLED**
 
-[![1.3_Inch.jpg](http://119.23.153.38/img/1.3sh1106_blue.jpg)](https://heltec.org/zh/project/13-oled)&nbsp;&nbsp;&nbsp; [![1.3_Inch.jpg](http://119.23.153.38/img/1.3sh1106_white.jpg)](https://heltec.org/zh/project/13-oled)
+[![1.3_Inch.jpg](http://resource.heltec.cn/img/docs/1.3sh1106_blue.jpg)](https://heltec.org/zh/project/13-oled)&nbsp;&nbsp;&nbsp; [![1.3_Inch.jpg](http://resource.heltec.cn/img/docs/1.3sh1106_white.jpg)](https://heltec.org/zh/project/13-oled)
 
-[![1.3_Inch.jpg](http://119.23.153.38/img/1.3sh1106_iic_blue.jpg)](https://heltec.org/zh/project/13-oled)&nbsp;&nbsp;&nbsp; [![1.3_Inch.jpg](http://119.23.153.38/img/1.3sh1106_iic_white.jpg)](https://heltec.org/zh/project/13-oled)
+[![1.3_Inch.jpg](http://resource.heltec.cn/img/docs/1.3sh1106_iic_blue.jpg)](https://heltec.org/zh/project/13-oled)&nbsp;&nbsp;&nbsp; [![1.3_Inch.jpg](http://resource.heltec.cn/img/docs/1.3sh1106_iic_white.jpg)](https://heltec.org/zh/project/13-oled)
 
 
 
@@ -97,7 +89,7 @@
 
 **1.54"寸OLED**
 
-[![1.54_Inch.jpg](http://119.23.153.38/img/1.54spd0301_white.jpg)](https://heltec.org/zh/project/154-oled)&nbsp;&nbsp;&nbsp; [![1.3_Inch.jpg](http://119.23.153.38/img/1.54spd0301_iic_white.jpg)](https://heltec.org/zh/project/154-oled)
+[![1.54_Inch.jpg](http://resource.heltec.cn/img/docs/1.54spd0301_white.jpg)](https://heltec.org/zh/project/154-oled)&nbsp;&nbsp;&nbsp; [![1.3_Inch.jpg](http://resource.heltec.cn/img/docs/1.54spd0301_iic_white.jpg)](https://heltec.org/zh/project/154-oled)
 
 
 
@@ -109,51 +101,51 @@
 
 **1.54" 电纸屏**
 
-[![](http://119.23.153.38/img/e_ink/154bw.jpg)](https://heltec.org/zh/project/154-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://119.23.153.38/img/e_ink/154bwr.jpg)](https://heltec.org/zh/project/154-e-ink/)
-[![](http://119.23.153.38/img/e_ink/154bwy.jpg)](https://heltec.org/zh/project/154-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://119.23.153.38/img/e_ink/154bwm.jpg)](https://heltec.org/zh/project/154-e-ink/)
+[![](http://resource.heltec.cn/img/docs/e_ink/154bw.jpg)](https://heltec.org/zh/project/154-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://resource.heltec.cn/img/docs/e_ink/154bwr.jpg)](https://heltec.org/zh/project/154-e-ink/)
+[![](http://resource.heltec.cn/img/docs/e_ink/154bwy.jpg)](https://heltec.org/zh/project/154-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://resource.heltec.cn/img/docs/e_ink/154bwm.jpg)](https://heltec.org/zh/project/154-e-ink/)
 &nbsp;
 
 **2.13" 电纸屏**
 
-[![](http://119.23.153.38/img/e_ink/213bw.jpg)](https://heltec.org/zh/project/213-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://119.23.153.38/img/e_ink/213bwr.jpg)](https://heltec.org/zh/project/213-e-ink/)
-[![](http://119.23.153.38/img/e_ink/213bwy.jpg)](https://heltec.org/zh/project/213-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://119.23.153.38/img/e_ink/213bwf.jpg)](https://heltec.org/zh/project/213-e-ink/)
-[![](http://119.23.153.38/img/e_ink/213bwrm.jpg)](https://heltec.org/zh/project/213-e-ink/)
+[![](http://resource.heltec.cn/img/docs/e_ink/213bw.jpg)](https://heltec.org/zh/project/213-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://resource.heltec.cn/img/docs/e_ink/213bwr.jpg)](https://heltec.org/zh/project/213-e-ink/)
+[![](http://resource.heltec.cn/img/docs/e_ink/213bwy.jpg)](https://heltec.org/zh/project/213-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://resource.heltec.cn/img/docs/e_ink/213bwf.jpg)](https://heltec.org/zh/project/213-e-ink/)
+[![](http://resource.heltec.cn/img/docs/e_ink/213bwrm.jpg)](https://heltec.org/zh/project/213-e-ink/)
 
 &nbsp;
 
 **2.6" 电纸屏**
 
-[![](http://119.23.153.38/img/e_ink/26bw.jpg)](https://heltec.org/zh/project/26-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://119.23.153.38/img/e_ink/26bwr.jpg)](https://heltec.org/zh/project/26-e-ink/)
+[![](http://resource.heltec.cn/img/docs/e_ink/26bw.jpg)](https://heltec.org/zh/project/26-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://resource.heltec.cn/img/docs/e_ink/26bwr.jpg)](https://heltec.org/zh/project/26-e-ink/)
 &nbsp;
 
 **2.7" 电纸屏**
 
-[![](http://119.23.153.38/img/e_ink/27bw.jpg)](https://heltec.org/zh/project/27-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://119.23.153.38/img/e_ink/27bwr.jpg)](https://heltec.org/zh/project/27-e-ink/)
+[![](http://resource.heltec.cn/img/docs/e_ink/27bw.jpg)](https://heltec.org/zh/project/27-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://resource.heltec.cn/img/docs/e_ink/27bwr.jpg)](https://heltec.org/zh/project/27-e-ink/)
 &nbsp;
 
 **2.9" 电纸屏**
 
-[![](http://119.23.153.38/img/e_ink/29bw.jpg)](https://heltec.org/zh/project/290-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://119.23.153.38/img/e_ink/29bwr.jpg)](https://heltec.org/zh/project/290-e-ink/)
-[![](http://119.23.153.38/img/e_ink/29bwy.jpg)](https://heltec.org/zh/project/290-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://119.23.153.38/img/e_ink/29bwf.jpg)](https://heltec.org/zh/project/290-e-ink/)
-[![](http://119.23.153.38/img/e_ink/29bwm.jpg)](https://heltec.org/zh/project/290-e-ink/)
+[![](http://resource.heltec.cn/img/docs/e_ink/29bw.jpg)](https://heltec.org/zh/project/290-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://resource.heltec.cn/img/docs/e_ink/29bwr.jpg)](https://heltec.org/zh/project/290-e-ink/)
+[![](http://resource.heltec.cn/img/docs/e_ink/29bwy.jpg)](https://heltec.org/zh/project/290-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://resource.heltec.cn/img/docs/e_ink/29bwf.jpg)](https://heltec.org/zh/project/290-e-ink/)
+[![](http://resource.heltec.cn/img/docs/e_ink/29bwm.jpg)](https://heltec.org/zh/project/290-e-ink/)
 &nbsp;
 
 **4.2" 电纸屏**
 
-[![](http://119.23.153.38/img/e_ink/42bw.jpg)](https://heltec.org/zh/project/42-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://119.23.153.38/img/e_ink/42bwr.jpg)](https://heltec.org/zh/project/42-e-ink/)
-[![](http://119.23.153.38/img/e_ink/42bwy.jpg)](https://heltec.org/zh/project/42-e-ink/)
+[![](http://resource.heltec.cn/img/docs/e_ink/42bw.jpg)](https://heltec.org/zh/project/42-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://resource.heltec.cn/img/docs/e_ink/42bwr.jpg)](https://heltec.org/zh/project/42-e-ink/)
+[![](http://resource.heltec.cn/img/docs/e_ink/42bwy.jpg)](https://heltec.org/zh/project/42-e-ink/)
 &nbsp;
 
 **5.83" 电纸屏**
 
-[![](http://119.23.153.38/img/e_ink/583bw.jpg)](https://heltec.org/zh/project/583-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://119.23.153.38/img/e_ink/583bwr.jpg)](https://heltec.org/zh/project/583-e-ink/)
-[![](http://119.23.153.38/img/e_ink/583bwy.jpg)](https://heltec.org/zh/project/583-e-ink/)
+[![](http://resource.heltec.cn/img/docs/e_ink/583bw.jpg)](https://heltec.org/zh/project/583-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://resource.heltec.cn/img/docs/e_ink/583bwr.jpg)](https://heltec.org/zh/project/583-e-ink/)
+[![](http://resource.heltec.cn/img/docs/e_ink/583bwy.jpg)](https://heltec.org/zh/project/583-e-ink/)
 &nbsp;
 
 **7.5" 电纸屏**
 
-[![](http://119.23.153.38/img/e_ink/75bw.jpg)](https://heltec.org/zh/project/75-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://119.23.153.38/img/e_ink/75bwr.jpg)](https://heltec.org/zh/project/75-e-ink/)
-[![](http://119.23.153.38/img/e_ink/75bwy.jpg)](https://heltec.org/zh/project/75-e-ink/)
+[![](http://resource.heltec.cn/img/docs/e_ink/75bw.jpg)](https://heltec.org/zh/project/75-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://resource.heltec.cn/img/docs/e_ink/75bwr.jpg)](https://heltec.org/zh/project/75-e-ink/)
+[![](http://resource.heltec.cn/img/docs/e_ink/75bwy.jpg)](https://heltec.org/zh/project/75-e-ink/)
 &nbsp;
 &nbsp;
 
@@ -163,11 +155,11 @@
 
 # 其他附件
 
-[![](http://119.23.153.38/img/accessories/test_bottom_board.jpg)](https://heltec.org/zh/project/test-bottom-board/)&nbsp;&nbsp;&nbsp; [![](http://119.23.153.38/img/accessories/special_converter.jpg)](https://heltec.org/zh/project/special-converter/)
+[![](http://resource.heltec.cn/img/docs/accessories/test_bottom_board.jpg)](https://heltec.org/zh/project/test-bottom-board/)&nbsp;&nbsp;&nbsp; [![](http://resource.heltec.cn/img/docs/accessories/special_converter.jpg)](https://heltec.org/zh/project/special-converter/)
 
-[![](http://119.23.153.38/img/accessories/bread_board.jpg)](https://heltec.org/zh/project/bread-board/)&nbsp;&nbsp;&nbsp; [![](http://119.23.153.38/img/accessories/heat_sink.jpg)](https://heltec.org/zh/project/heat-sink/)
+[![](http://resource.heltec.cn/img/docs/accessories/bread_board.jpg)](https://heltec.org/zh/project/bread-board/)&nbsp;&nbsp;&nbsp; [![](http://resource.heltec.cn/img/docs/accessories/heat_sink.jpg)](https://heltec.org/zh/project/heat-sink/)
 
-[![](http://119.23.153.38/img/accessories/protect_surface.jpg)](https://heltec.org/zh/zh/project/protect-surface/)&nbsp;&nbsp;&nbsp;
+[![](http://resource.heltec.cn/img/docs/accessories/protect_surface.jpg)](https://heltec.org/zh/zh/project/protect-surface/)&nbsp;&nbsp;&nbsp;
 
 <!-- GitHub Buttons -->
 
