@@ -1,166 +1,223 @@
-# Heltec产品列表
-
-------
-
-&nbsp;***+++ 本页面正在建设中！+++***
-
-# Heltec LoRa 系列
-
-------
-
-&nbsp;
-
-**LoRa 网关**
-
-![link](http://119.23.153.38/icon/link.png) **[Heltec LoRa 网关各型号差异对照表](zh_CN/products/lora/lora_gateway/heltec_lora_gateway_list_eu.md)** 
-
-[![HT-M01.jpg](http://resource.heltec.cn/img/docs/ht_m01.jpg)](https://heltec.org/zh/project/ht-m01)&nbsp;&nbsp;&nbsp;[![](http://resource.heltec.cn/img/docs/ht_m02.jpg)](https://heltec.org/zh/project/ht-m02)
-
-&nbsp;
-
-**LoRa 节点**
-
-![link](http://119.23.153.38/icon/link.png) **[Heltec LoRa节点各型号差异对照表](zh_CN/products/lora/lora_node/heltec_lora_node_list_eu.md)** 
-
-------
-
-[![](http://resource.heltec.cn/img/docs/cubecell/htcc-ab01.jpg)](https://heltec.org/zh/project/htcc-ab01/)&nbsp;&nbsp;&nbsp;[![](http://resource.heltec.cn/img/docs/cubecell/htcc-ac01.jpg)](https://heltec.org/zh/project/htcc-ac01)
-
-[![](http://resource.heltec.cn/img/docs/cubecell/htcc-am01.jpg)](https://heltec.org/zh/project/htcc-am01/)&nbsp;&nbsp;&nbsp;
-
-[![wireless_stick](http://resource.heltec.cn/img/docs/wireless_stick_home.jpg)](https://heltec.org/zh/project/wireless-stick)&nbsp;&nbsp;&nbsp;[![wifi_lora_32_v2](http://resource.heltec.cn/img/docs/wifi_lora_32_home.jpg)](https://heltec.org/zh/project/wifi-lora-32)
-
-[![](http://resource.heltec.cn/img/docs/wireless_stick_lite.jpg)](https://heltec.org/zh/project/wireless-stick-lite)&nbsp;&nbsp;&nbsp;[![](http://resource.heltec.cn/img/docs/wireless_shell.jpg)](https://heltec.org/zh/project/wireless-shell)
-
-[![](http://resource.heltec.cn/img/docs/lora_node_151.jpg)](https://heltec.org/zh/project/lora-node-151/)&nbsp;&nbsp;&nbsp;[![](http://resource.heltec.cn/img/docs/turtle.jpg)](https://heltec.org/zh/project/turtle)
-
-[![](http://resource.heltec.cn/img/docs/lora_kit_151.jpg)](https://heltec.org/zh/project/lora-kit-151/)
-
-&nbsp;
-&nbsp;
-
-# Heltec ESP Arduino系列
-
-![](http://119.23.153.38/icon/link.png) **[Heltec ESP Arduino各型号差异对照表](zh_CN/products/esp_arduino/heltec_esp_arduino_list_eu.md)**
-
-------
-
-
-
-**WiFi Kit 系列**
-
-[![wifi_kit_32.jpg](http://resource.heltec.cn/img/docs/wifi_kit_32.jpg)](https://heltec.org/zh/project/wifi-kit-32)&nbsp;&nbsp;&nbsp; [![wifi_kit_8.jpg](http://resource.heltec.cn/img/docs/wifi_kit_8.jpg)](https://heltec.org/zh/project/wifi-kit-8)
-
-&nbsp;
-
-# OLED点阵屏
-
-![](http://119.23.153.38/icon/link.png) **[OLED点阵屏各型号差异对照表](zh_CN/products/display/oled/heltec_oled_display_list_eu.md)**
-
-------
-
-
-
-**0.96" 寸OLED**
-
-[![0.96_Inch.jpg](http://resource.heltec.cn/img/docs/0.96ssd1306_blue.jpg)](https://heltec.org/zh/project/096-oled)&nbsp;&nbsp;&nbsp; [![0.96_Inch.jpg](http://resource.heltec.cn/img/docs/0.96ssd1306.jpg)](https://heltec.org/zh/project/096-oled)
-
-
-
-[![0.96_Inch.jpg](http://resource.heltec.cn/img/docs/0.96ssd1306_white.jpg)](https://heltec.org/zh/project/096-oled)&nbsp;&nbsp;&nbsp; [![0.96_Inch.jpg](http://resource.heltec.cn/img/docs/0.96ssd1306_iic_yellow.jpg)](https://heltec.org/zh/project/096-oled)&nbsp;&nbsp;&nbsp; 
-
-
-
-[![0.96_Inch.jpg](http://resource.heltec.cn/img/docs/0.96ssd1306_iic_white.jpg)](https://heltec.org/zh/project/096-oled)&nbsp;&nbsp;&nbsp; [![0.96_Inch.jpg](http://resource.heltec.cn/img/docs/0.96ssd1306_iic_blue.jpg)](https://heltec.org/zh/project/096-oled)
-
-
-
-
-
-**1.3"寸OLED**
-
-[![1.3_Inch.jpg](http://resource.heltec.cn/img/docs/1.3sh1106_blue.jpg)](https://heltec.org/zh/project/13-oled)&nbsp;&nbsp;&nbsp; [![1.3_Inch.jpg](http://resource.heltec.cn/img/docs/1.3sh1106_white.jpg)](https://heltec.org/zh/project/13-oled)
-
-[![1.3_Inch.jpg](http://resource.heltec.cn/img/docs/1.3sh1106_iic_blue.jpg)](https://heltec.org/zh/project/13-oled)&nbsp;&nbsp;&nbsp; [![1.3_Inch.jpg](http://resource.heltec.cn/img/docs/1.3sh1106_iic_white.jpg)](https://heltec.org/zh/project/13-oled)
-
-
-
-
-
-**1.54"寸OLED**
-
-[![1.54_Inch.jpg](http://resource.heltec.cn/img/docs/1.54spd0301_white.jpg)](https://heltec.org/zh/project/154-oled)&nbsp;&nbsp;&nbsp; [![1.3_Inch.jpg](http://resource.heltec.cn/img/docs/1.54spd0301_iic_white.jpg)](https://heltec.org/zh/project/154-oled)
-
-
-
-&nbsp;
-
-# Heltec电子墨水屏
-
-![](http://119.23.153.38/icon/link.png) [Heltec 电纸屏各型号差异对照表](<https://docs.heltec.cn/#/en/products/display/eink/heltec_eink_display_list_eu>)
-
-**1.54" 电纸屏**
-
-[![](http://resource.heltec.cn/img/docs/e_ink/154bw.jpg)](https://heltec.org/zh/project/154-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://resource.heltec.cn/img/docs/e_ink/154bwr.jpg)](https://heltec.org/zh/project/154-e-ink/)
-[![](http://resource.heltec.cn/img/docs/e_ink/154bwy.jpg)](https://heltec.org/zh/project/154-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://resource.heltec.cn/img/docs/e_ink/154bwm.jpg)](https://heltec.org/zh/project/154-e-ink/)
-&nbsp;
-
-**2.13" 电纸屏**
-
-[![](http://resource.heltec.cn/img/docs/e_ink/213bw.jpg)](https://heltec.org/zh/project/213-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://resource.heltec.cn/img/docs/e_ink/213bwr.jpg)](https://heltec.org/zh/project/213-e-ink/)
-[![](http://resource.heltec.cn/img/docs/e_ink/213bwy.jpg)](https://heltec.org/zh/project/213-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://resource.heltec.cn/img/docs/e_ink/213bwf.jpg)](https://heltec.org/zh/project/213-e-ink/)
-[![](http://resource.heltec.cn/img/docs/e_ink/213bwrm.jpg)](https://heltec.org/zh/project/213-e-ink/)
-
-&nbsp;
-
-**2.6" 电纸屏**
-
-[![](http://resource.heltec.cn/img/docs/e_ink/26bw.jpg)](https://heltec.org/zh/project/26-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://resource.heltec.cn/img/docs/e_ink/26bwr.jpg)](https://heltec.org/zh/project/26-e-ink/)
-&nbsp;
-
-**2.7" 电纸屏**
-
-[![](http://resource.heltec.cn/img/docs/e_ink/27bw.jpg)](https://heltec.org/zh/project/27-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://resource.heltec.cn/img/docs/e_ink/27bwr.jpg)](https://heltec.org/zh/project/27-e-ink/)
-&nbsp;
-
-**2.9" 电纸屏**
-
-[![](http://resource.heltec.cn/img/docs/e_ink/29bw.jpg)](https://heltec.org/zh/project/290-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://resource.heltec.cn/img/docs/e_ink/29bwr.jpg)](https://heltec.org/zh/project/290-e-ink/)
-[![](http://resource.heltec.cn/img/docs/e_ink/29bwy.jpg)](https://heltec.org/zh/project/290-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://resource.heltec.cn/img/docs/e_ink/29bwf.jpg)](https://heltec.org/zh/project/290-e-ink/)
-[![](http://resource.heltec.cn/img/docs/e_ink/29bwm.jpg)](https://heltec.org/zh/project/290-e-ink/)
-&nbsp;
-
-**4.2" 电纸屏**
-
-[![](http://resource.heltec.cn/img/docs/e_ink/42bw.jpg)](https://heltec.org/zh/project/42-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://resource.heltec.cn/img/docs/e_ink/42bwr.jpg)](https://heltec.org/zh/project/42-e-ink/)
-[![](http://resource.heltec.cn/img/docs/e_ink/42bwy.jpg)](https://heltec.org/zh/project/42-e-ink/)
-&nbsp;
-
-**5.83" 电纸屏**
-
-[![](http://resource.heltec.cn/img/docs/e_ink/583bw.jpg)](https://heltec.org/zh/project/583-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://resource.heltec.cn/img/docs/e_ink/583bwr.jpg)](https://heltec.org/zh/project/583-e-ink/)
-[![](http://resource.heltec.cn/img/docs/e_ink/583bwy.jpg)](https://heltec.org/zh/project/583-e-ink/)
-&nbsp;
-
-**7.5" 电纸屏**
-
-[![](http://resource.heltec.cn/img/docs/e_ink/75bw.jpg)](https://heltec.org/zh/project/75-e-ink/)&nbsp;&nbsp;&nbsp; [![](http://resource.heltec.cn/img/docs/e_ink/75bwr.jpg)](https://heltec.org/zh/project/75-e-ink/)
-[![](http://resource.heltec.cn/img/docs/e_ink/75bwy.jpg)](https://heltec.org/zh/project/75-e-ink/)
-&nbsp;
-&nbsp;
-
-# Heltec触摸模块
-
-&nbsp;
-
-# 其他附件
-
-[![](http://resource.heltec.cn/img/docs/accessories/test_bottom_board.jpg)](https://heltec.org/zh/project/test-bottom-board/)&nbsp;&nbsp;&nbsp; [![](http://resource.heltec.cn/img/docs/accessories/special_converter.jpg)](https://heltec.org/zh/project/special-converter/)
-
-[![](http://resource.heltec.cn/img/docs/accessories/bread_board.jpg)](https://heltec.org/zh/project/bread-board/)&nbsp;&nbsp;&nbsp; [![](http://resource.heltec.cn/img/docs/accessories/heat_sink.jpg)](https://heltec.org/zh/project/heat-sink/)
-
-[![](http://resource.heltec.cn/img/docs/accessories/protect_surface.jpg)](https://heltec.org/zh/zh/project/protect-surface/)&nbsp;&nbsp;&nbsp;
-
-<!-- GitHub Buttons -->
-
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+<div class="product_page">
+<div id="search_note" style="display:none;position:fixed;top:30%">
+  <h3>没有搜索到相关信息，请输入产品首字母，重新进行搜索.</h3>
+</div>
+</div>
+
+<script>
+    var gateway_list = [
+      //Core
+      {a:"https://heltec.org/zh/project/ht-m01", img:"http://resource.heltec.cn/img/docs/ht_m01.jpg", p:"HT-M01"},
+      {a:"https://heltec.org/zh/project/ht-m02", img:"http://resource.heltec.cn/img/docs/ht_m02.jpg", p:"HT-M02"},
+    ];
+    
+    var cubecell_list = [
+      //CubeCell
+      {a:"https://heltec.org/zh/project/htcc-ab01", img:"http://resource.heltec.cn/img/docs/cubecell/htcc-ab01.jpg", p:"CubeCell Dev-Board"},
+      {a:"https://heltec.org/zh/project/htcc-ac01", img:"http://resource.heltec.cn/img/docs/cubecell/htcc-ac01.jpg", p:"CubeCell Capsule Sensor"},
+      {a:"https://heltec.org/zh/project/htcc-am01", img:"http://resource.heltec.cn/img/docs/cubecell/htcc-am01.jpg", p:"CubeCell Module"},
+    ];
+    
+    var esp32_lora_list = [
+      //esp32 lora node
+      {a:"https://heltec.org/zh/project/wireless-stick", img:"http://resource.heltec.cn/img/docs/wireless_stick_home.jpg",p:"Wireless Stick"},
+      {a:"https://heltec.org/zh/project/wifi-lora-32", img:"http://resource.heltec.cn/img/docs/wifi_lora_32_home.jpg",p:"WiFi LoRa 32"},
+      {a:"https://heltec.org/zh/project/wireless-stick-lite", img:"http://resource.heltec.cn/img/docs/wireless_stick_lite.jpg",p:"WirelessStick lite"},
+      {a:"https://heltec.org/zh/project/wireless-shell", img:"http://resource.heltec.cn/img/docs/wireless_shell.jpg",p:"Wireless Shell"},
+    ];
+    
+    var stm32_lora_list = [
+      //stm32 lora node
+      {a:"https://heltec.org/zh/project/lora-node-151/", img:"http://resource.heltec.cn/img/docs/lora_node_151.jpg",p:"LoRa Node 151"},
+      {a:"https://heltec.org/zh/project/turtle", img:"http://resource.heltec.cn/img/docs/turtle.jpg",p:"Turtle"},
+      {a:"https://heltec.org/zh/project/lora-kit-151/", img:"http://resource.heltec.cn/img/docs/lora_kit_151.jpg",p:"LoRa kit 151"},
+    ];
+
+
+   var esp32_arduino_list = [
+      //esp32 
+      {a:"https://heltec.org/zh/project/wifi-kit-32", img:"http://resource.heltec.cn/img/docs/wifi_kit_32.jpg",p:"WiFi Kit 32"}
+   ];
+
+
+    var esp8266_arduino_list = [
+      //esp8266
+      {a:"https://heltec.org/zh/project/wifi-kit-8", img:"http://resource.heltec.cn/img/docs/wifi_kit_8.jpg",p:"WiFi Kit 8"}
+    ];
+
+
+
+   var oled_list = [
+      //oled screen
+      //0.96"
+      {a:"https://heltec.org/zh/project/096-oled", img:"http://resource.heltec.cn/img/docs/0.96ssd1306_blue.jpg",p:'0.96" Blue'},  
+      {a:"https://heltec.org/zh/project/096-oled", img:"http://resource.heltec.cn/img/docs/0.96ssd1306.jpg",p:'0.96" Blue&Yellow'},
+      {a:"https://heltec.org/zh/project/096-oled", img:"http://resource.heltec.cn/img/docs/0.96ssd1306_white.jpg",p:'0.96" White'},
+      {a:"https://heltec.org/zh/project/096-oled", img:"http://resource.heltec.cn/img/docs/0.96ssd1306_iic_yellow.jpg",p:'0.96" Blue&Yellow'}, 
+      {a:"https://heltec.org/zh/project/096-oled", img:"http://resource.heltec.cn/img/docs/0.96ssd1306_iic_white.jpg",p:'0.96" White'}, 
+      {a:"https://heltec.org/zh/project/096-oled", img:"http://resource.heltec.cn/img/docs/0.96ssd1306_iic_blue.jpg",p:'0.96" Blue'}, 
+      // 1.3"
+      {a:"https://heltec.org/zh/project/13-oled", img:"http://resource.heltec.cn/img/docs/1.3sh1106_blue.jpg",p:'1.3" Blue'},  
+      {a:"https://heltec.org/zh/project/13-oled", img:"http://resource.heltec.cn/img/docs/1.3sh1106_white.jpg",p:'1.3" White'},
+      {a:"https://heltec.org/zh/project/13-oled", img:"http://resource.heltec.cn/img/docs/1.3sh1106_iic_blue.jpg",p:'1.3" Blue'},
+      {a:"https://heltec.org/zh/project/13-oled", img:"http://resource.heltec.cn/img/docs/1.3sh1106_iic_white.jpg",p:'1.3" White'},
+      //1.54"
+      {a:"https://heltec.org/zh/project/154-oled", img:"http://resource.heltec.cn/img/docs/1.54spd0301_iic_white.jpg",p:'1.54" White'} 
+    ];
+
+   var e_ink_list = [
+      //e-ink screen
+      //1.54"
+      {a:"https://heltec.org/zh/project/154-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/154bw.jpg",p:'1.54" E-ink Display(B&W)'},
+      {a:"https://heltec.org/zh/project/154-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/154bwr.jpg",p:'1.54" E-ink Display(B&W&R)'},
+      {a:"https://heltec.org/zh/project/154-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/154bwy.jpg",p:'1.54" E-ink Display(B&W&Y)'},
+      {a:"https://heltec.org/zh/project/154-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/154bwm.jpg",p:'1.54" E-ink Module(B&W)'},
+      // 2.13"
+      {a:"https://heltec.org/zh/project/213-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/213bw.jpg",p:'2.13" E-ink Display(B&W)'},
+      {a:"https://heltec.org/zh/project/213-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/213bwr.jpg",p:'2.13" E-ink Display(B&W&R)'},
+      {a:"https://heltec.org/zh/project/213-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/213bwy.jpg",p:'2.13" E-ink Display(B&W&Y)'},
+      {a:"https://heltec.org/zh/project/213-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/213bwf.jpg",p:'2.13" E-ink Display(B&W)'},
+      {a:"https://heltec.org/zh/project/213-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/213bwrm.jpg",p:'2.13" E-ink Module(B&W)'},
+      //2.6"
+      {a:"https://heltec.org/zh/project/26-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/26bw.jpg",p:'2.6" E-ink Display(B&W)'},
+      {a:"https://heltec.org/zh/project/26-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/26bwr.jpg",p:'2.6" E-ink Display(B&W&R)'},
+      //2.7"
+      {a:"https://heltec.org/zh/project/27-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/27bw.jpg",p:'2.7" E-ink Display(B&W)'},
+      {a:"https://heltec.org/zh/project/27-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/27bwr.jpg",p:'2.7" E-ink Display(B&W&R)'},
+      //2.9"
+      {a:"https://heltec.org/zh/project/290-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/29bw.jpg",p:'2.9" E-ink Display(B&W)'},
+      {a:"https://heltec.org/zh/project/290-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/29bwr.jpg",p:'2.9" E-ink Display(B&W&R)'},
+      {a:"https://heltec.org/zh/project/290-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/29bwy.jpg",p:'2.9" E-ink Display(B&W&Y)'},
+      {a:"https://heltec.org/zh/project/290-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/29bwf.jpg",p:'2.9" E-ink Display(B&W)'},
+      {a:"https://heltec.org/zh/project/290-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/29bwm.jpg",p:'2.9" E-ink Module(B&W)'},
+      //4.2"
+      {a:"https://heltec.org/zh/project/42-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/42bw.jpg",p:'4.2" E-ink Display(B&W)'},
+      {a:"https://heltec.org/zh/project/42-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/42bwr.jpg",p:'4.2" E-ink Display(B&W&R)'},
+      {a:"https://heltec.org/zh/project/42-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/42bwy.jpg",p:'4.2" E-ink Display(B&W&Y)'},
+      //5.83"
+      {a:"https://heltec.org/zh/project/583-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/583bw.jpg",p:'5.83" E-ink Display(B&W)'},
+      {a:"https://heltec.org/zh/project/583-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/583bwr.jpg",p:'5.83" E-ink Display(B&W&R)'},
+      {a:"https://heltec.org/zh/project/583-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/583bwy.jpg",p:'5.83" E-ink Display(B&W&Y)'},
+      //7.5"
+      {a:"https://heltec.org/zh/project/75-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/75bw.jpg",p:'7.5" E-ink Display(B&W)'},
+      {a:"https://heltec.org/zh/project/75-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/75bwr.jpg",p:'7.5" E-ink Display(B&W&R)'},
+      {a:"https://heltec.org/zh/project/75-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/75bwy.jpg",p:'7.5" E-ink Display(B&W&Y)'}
+    ];
+
+
+    // var product = [core,module,unit,base,application,accessory,aluminium];
+    var product_class = [gateway_list,cubecell_list,esp32_lora_list,stm32_lora_list,esp32_arduino_list,esp8266_arduino_list,oled_list,e_ink_list];
+    var product_class_name = ["gateway","cubecell","esp32_lora","stm32_lora","esp32_arduino","esp8266_arduino","oled","e_ink"];
+    
+    for (var i=0; i<product_class_name.length; i++){
+      $(".product_page").append("<div></div>");
+      $(".product_page div:last-child").attr("id",product_class_name[i]);
+    }
+    
+    for (var class_num=0; class_num<product_class.length; class_num++ ){
+      for (var i=0; i<product_class[class_num].length; i++ ) {
+         //append的内容将显示在product_class.p名称的上方，并作为一行的开始
+         /*lora gateway*/
+        if(product_class[class_num][i].p == "HT-M01"){
+           $("#"+product_class_name[class_num]).append('<p> <a href="#/en/products/lora/lora_gateway/heltec_lora_gateway_list_eu"> <strong>LoRa 网关</strong> </a> </p>');
+        }
+        /*cubecell*/
+        if(product_class[class_num][i].p == "CubeCell Dev-Board"){
+           $("#"+product_class_name[class_num]).append('<p> <a href="#/en/products/lora/lora_node/heltec_lora_node_list_eu"> <strong>CubeCell 系列</strong> </a> </p>');
+        }
+        /*esp32 lora*/
+        if(product_class[class_num][i].a == "https://heltec.org/zh/project/wireless-stick"){
+           $("#"+product_class_name[class_num]).append('<p> <a href="#/en/products/lora/lora_node/heltec_lora_node_list_eu"> <strong>ESP32 LoRa 节点</strong> </a> </p>');
+        }
+        /*stm32 lora node*/
+        if(product_class[class_num][i].a == "https://heltec.org/zh/project/lora-node-151/"){
+           $("#"+product_class_name[class_num]).append('<p> <a href="#/en/products/lora/lora_node/heltec_lora_node_list_eu"> <strong>STM32 LoRa 节点</strong> </a> </p>');
+        }
+        /*esp32 arduino*/
+        if(product_class[class_num][i].a == "https://heltec.org/zh/project/wifi-kit-32"){
+           $("#"+product_class_name[class_num]).append('<p> <a href="#/en/products/esp_arduino/heltec_esp_arduino_list_eu"> <strong>WiFi Kit 32</strong> </a> </p>');
+        }
+        /*esp8266 arduino*/
+        if(product_class[class_num][i].a == "https://heltec.org/zh/project/wifi-kit-8"){
+           $("#"+product_class_name[class_num]).append('<p> <a href="#/en/products/esp_arduino/heltec_esp_arduino_list_eu"> <strong>WiFi Kit 8</strong> </a> </p>');
+        }
+        /*oled screen*/
+        /*0.96"*/
+        if(product_class[class_num][i].img == "http://resource.heltec.cn/img/docs/0.96ssd1306_blue.jpg"){
+            $("#"+product_class_name[class_num]).append('<p> <a href="#/en/products/display/oled/heltec_oled_display_list_eu"> <strong>OLED显示屏</strong> </a> </p> <p>0.96" OLED Display</p>');
+        }
+        /*1.3"*/
+        if (product_class[class_num][i].img == "http://resource.heltec.cn/img/docs/1.3sh1106_blue.jpg") {
+            $("#"+product_class_name[class_num]).append('<p>1.3" OLED Display</p>');
+        }
+        /*1.54"*/
+        if (product_class[class_num][i].a == "https://heltec.org/zh/project/154-oled") {
+            $("#"+product_class_name[class_num]).append('<p>1.54" OLED Display</p>');
+        }
+        /* e-ink screen*/
+        /*1.54" */
+        if(product_class[class_num][i].img == "http://resource.heltec.cn/img/docs/e_ink/154bw.jpg"){
+           $("#"+product_class_name[class_num]).append('<p> <a href="#/en/products/display/eink/heltec_eink_display_list_eu"> <strong>墨水屏/电子纸</strong> </a> </p> <p>1.54" E-ink Display</p> ');
+        } 
+        /*2.13" */
+        if(product_class[class_num][i].img == "http://resource.heltec.cn/img/docs/e_ink/213bw.jpg"){
+           $("#"+product_class_name[class_num]).append('<p>2.13" E-ink Display</p>');
+        } 
+        /*2.6" */
+        if(product_class[class_num][i].img == "http://resource.heltec.cn/img/docs/e_ink/26bw.jpg"){
+           $("#"+product_class_name[class_num]).append('<p>2.6" E-ink Display</p>');
+        } 
+        /*2.7" */
+        if(product_class[class_num][i].img == "http://resource.heltec.cn/img/docs/e_ink/27bw.jpg"){
+           $("#"+product_class_name[class_num]).append('<p>2.7" E-ink Display</p>');
+        } 
+        /*2.9" */
+        if(product_class[class_num][i].img == "http://resource.heltec.cn/img/docs/e_ink/29bw.jpg"){
+           $("#"+product_class_name[class_num]).append('<p>2.9" E-ink Display</p>');
+        } 
+        /*4.2" */
+        if(product_class[class_num][i].img == "http://resource.heltec.cn/img/docs/e_ink/42bw.jpg"){
+           $("#"+product_class_name[class_num]).append('<p>4.2" E-ink Display</p>');
+        } 
+        /*5.83" */
+        if(product_class[class_num][i].img == "http://resource.heltec.cn/img/docs/e_ink/583bw.jpg"){
+           $("#"+product_class_name[class_num]).append('<p>5.83" E-ink Display</p>');
+        } 
+        /*7.5" */
+        if(product_class[class_num][i].img == "http://resource.heltec.cn/img/docs/e_ink/75bw.jpg"){
+           $("#"+product_class_name[class_num]).append('<p>7.5" E-ink Display</p>');
+        } 
+
+        $("#"+product_class_name[class_num]).append("<div class='item'><a><img><p class='item-title'></p></a></div> ");
+        $("#"+product_class_name[class_num]+" .item:last-child a").attr("href", product_class[class_num][i].a);//允许图片链接
+        $("#"+product_class_name[class_num]+" .item:last-child img").attr("src", product_class[class_num][i].img);//产品的图片
+        $("#"+product_class_name[class_num]+" .item:last-child p").text(product_class[class_num][i].p);//具体产品小格子下面的名字
+      }
+    }
+    $(document).ready(function(){
+        var mask_html = `<div class="mask"><a href="#" style="color:white;text-decoration:none" ><button type="button" class="btn-sm btn-primary mask-btn1">快速上手 »</button></a><button type="button" class="btn-sm btn-primary mask-btn2">产品信息 »</button></div>`
+        $("#gateway div.item a:lt(2)").append(mask_html);//lt后面括号内的数字代表该类中需要添加掩盖页的数量
+        $("#gateway .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/index.html");
+        $("#cubecell div.item a:lt(3)").append(mask_html);//lt后面括号内的数字代表该类中需要添加掩盖页的数量
+        $("#cubecell .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/cubecell/quick_start.html");
+        $("#esp32_lora div.item a:lt(4)").append(mask_html);//lt后面括号内的数字代表该类中需要添加掩盖页的数量
+        $("#esp32_lora .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/esp32+arduino/quick_start.html");
+        $("#stm32_lora div.item a:lt(4)").append(mask_html);//lt后面括号内的数字代表该类中需要添加掩盖页的数量
+        $("#stm32_lora .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/stm32/quick_start.html");
+
+        $("#esp32_arduino div.item a:lt(4)").append(mask_html);//lt后面括号内的数字代表该类中需要添加掩盖页的数量
+        $("#esp32_arduino .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/esp32+arduino/quick_start.html");
+
+        $("#esp8266_arduino div.item a:lt(4)").append(mask_html);//lt后面括号内的数字代表该类中需要添加掩盖页的数量
+        $("#esp8266_arduino .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/esp8266+arduino/quick_start.html#");
+
+        $("#oled div.item a:lt(11)").append(mask_html);//lt后面括号内的数字代表该类中需要添加掩盖页的数量
+        $("#oled .mask a").attr("href", "https://docs.heltec.cn/#/en/products/display/oled/heltec_oled_display_list_eu");
+
+        $("#e_ink div.item a:lt(27)").append(mask_html);//lt后面括号内的数字代表该类中需要添加掩盖页的数量
+        $("#e_ink .mask a").attr("href", "https://docs.heltec.cn/#/en/products/display/eink/heltec_eink_display_list_eu");
+        anchor_search();
+        scrollFunc();
+     });
+    
+</script>
