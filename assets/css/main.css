@@ -177,6 +177,7 @@ body[data-page="en/arduino/arduino_home_page.md"] article.markdown-section {
 /*项目名称*/
 .item-title {
     text-align: center;
+    height:40px;
     margin-top: 10px;
     margin-bottom: 10px;
 }
@@ -264,14 +265,18 @@ body[data-page="en/arduino/arduino_home_page.md"] article.markdown-section {
 /*掩盖器里面的链接*/
 .mask-btn1 {
     position:relative;
+    width:90px;
+    height:32px;
     top:68px;
-    left:10px;
+    left:15px;
 }
 
 .mask-btn2 {
     position:relative;
+    width:90px;
+    height:32px;
     top:68px;
-    left:20px;
+    left:27px;
 }
 
 
@@ -945,8 +950,8 @@ mark {
 /*左边导航菜单*/
 .anchor-box {
     position: fixed;
-    top: 30%;
-    left: 5px;
+    top: 28%;
+    left: 25px;
     /* right:70%; */
     display: -webkit-flex;
     display: flex;
@@ -1039,8 +1044,12 @@ mark {
 } */
 
 .anchor-box a:nth-child(8) {
-    border-bottom-right-radius: 5px;
+    /* border-bottom-right-radius: 5px; */
     background-color: rgb(15, 194, 237) ;
+}
+.anchor-box a:nth-child(9) {
+    border-bottom-right-radius: 5px;
+    background-color: rgb(15, 194, 255) ;
 }
 
 #gateway strong:hover {
@@ -1072,6 +1081,9 @@ mark {
 }
 
 #e_ink strong:hover {
+    background-color: rgba(15, 194, 237,0.3);
+}
+#accessories strong:hover {
     background-color: rgba(15, 194, 237,0.3);
 }
 
