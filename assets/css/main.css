@@ -951,7 +951,7 @@ mark {
 .anchor-box {
     position: fixed;
     top: 28%;
-    left: 25px;
+    left: 5px;
     /* right:70%; */
     display: -webkit-flex;
     display: flex;

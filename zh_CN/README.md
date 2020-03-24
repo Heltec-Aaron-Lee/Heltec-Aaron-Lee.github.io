@@ -7,8 +7,8 @@
 <script>
     var gateway_list = [
       //Core
-      {a:"https://heltec.org/zh/project/ht-m01", img:"http://resource.heltec.cn/img/docs/ht_m01.jpg", p:"HT-M01"},
-      {a:"https://heltec.org/zh/project/ht-m02", img:"http://resource.heltec.cn/img/docs/ht_m02.jpg", p:"HT-M02"},
+      {a:"https://heltec.org/zh/project/ht-m01", img:"http://resource.heltec.cn/img/docs/ht_m01.jpg", p:"HT-M01通信验证LoRa网关"},
+      {a:"https://heltec.org/zh/project/ht-m02", img:"http://resource.heltec.cn/img/docs/ht_m02.jpg", p:"HT-M02边缘计算LoRa网关"},
     ];
     
     var cubecell_list = [

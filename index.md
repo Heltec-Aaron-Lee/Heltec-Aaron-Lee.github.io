@@ -7,8 +7,8 @@
 <script>
     const gateway_list = [
       //Core
-      {a:"https://heltec.org/project/ht-m01", img:"http://resource.heltec.cn/img/docs/ht_m01.jpg", p:"HT-M01"},
-      {a:"https://heltec.org/project/ht-m02", img:"http://resource.heltec.cn/img/docs/ht_m02.jpg", p:"HT-M02"},
+      {a:"https://heltec.org/project/ht-m01", img:"http://resource.heltec.cn/img/docs/ht_m01.jpg", p:"HT-M01 PicoCell LoRa Gateway"},
+      {a:"https://heltec.org/project/ht-m02", img:"http://resource.heltec.cn/img/docs/ht_m02.jpg", p:"HT-M02 Edge LoRa Gateway"},
     ];
     
     const cubecell_list = [
