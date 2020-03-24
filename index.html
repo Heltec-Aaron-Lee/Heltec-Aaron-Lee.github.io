@@ -428,34 +428,37 @@
             //     $(".anchor-box").append(Part_A+easyloader_icon+Part_B);
             // }
             // else 
-            if(anchor_name == "GATEWAY"){//这里的名字，必须与index.md里面的文字相对于
+            if(anchor_name === "GATEWAY"){//这里的名字，必须与index.md里面的文字相对于
                 $(".anchor-box").append(Part_A+Part_B);
             }
-            else if(anchor_name == "CUBECELL"){
+            else if(anchor_name === "CUBECELL"){
                 $(".anchor-box").append(Part_A+Part_B);
             }
-            else if(anchor_name == "ESP32_LORA"){
+            else if(anchor_name === "ESP32_LORA"){
                 $(".anchor-box").append(Part_A+Part_B);
             }
-            else if(anchor_name == "STM32_LORA"){
+            else if(anchor_name === "STM32_LORA"){
                 $(".anchor-box").append(Part_A+Part_B);
             }
-            else if(anchor_name == "ESP32_ARDUINO"){
+            else if(anchor_name === "ESP32_ARDUINO"){
                 $(".anchor-box").append(Part_A+Part_B);
             }
-            else if(anchor_name == "ESP8266_ARDUINO"){
+            else if(anchor_name === "ESP8266_ARDUINO"){
                 $(".anchor-box").append(Part_A+Part_B);
             }
-            else if(anchor_name == "OLED"){
+            else if(anchor_name === "OLED"){
                 $(".anchor-box").append(Part_A+Part_B);
             }
-            else if(anchor_name == "E_INK"){
+            else if(anchor_name === "E_INK"){
+                $(".anchor-box").append(Part_A+Part_B);
+            }
+            else if(anchor_name === "ACCESSORIES") {
                 $(".anchor-box").append(Part_A+Part_B);
             }
         }
         function anchor_search(purchase_link="none",quickstart_link="none"){
             var page_url = window.location.href;
-            if((page_url.slice(-4) == "/en/")||(page_url.slice(-7)== "/zh_CN/")||(page_url.slice(-3)== "/#/")){
+            if((page_url.slice(-4) === "/en/")||(page_url.slice(-7)=== "/zh_CN/")||(page_url.slice(-3)=== "/#/")){
                 $("#search_note").eq(0).after("<div class='anchor-box'></div>");
                 var anchor_list= $(".product_page > div:gt(1)");
                 for (var i=0; i< anchor_list.length ; i++){
@@ -467,7 +470,7 @@
                 var anchor_list= $("#main h2");
                 for (var i=0; i< anchor_list.length ; i++){
                     anchor_create(anchor_list[i].id.toUpperCase(), anchor_list[i].id);
-                    if(page_url.indexOf(/zh_CN/) != -1) {
+                    if(page_url.indexOf(/zh_CN/) !== -1) {
                         var purchase_name = "购买链接" 
                         var quickstart_name = "快速上手"
                     }
@@ -476,10 +479,10 @@
                         var quickstart_name = "Quick Start"
                     }
                 }
-                if(purchase_link!="none"){
+                if(purchase_link!=="none"){
                     $(".anchor-box").append('<a href='+purchase_link+' onclick="select(this)" target="view_window">'+purchase_icon+'<span style="padding: 4px 0px;">'+purchase_name+'</span>'+'</a>');
                 }
-                if(quickstart_link!="none"){
+                if(quickstart_link!=="none"){
                     $(".anchor-box").append('<a href='+quickstart_link+' onclick="select(this)" target="view_window">'+quickstart_icon+'<span style="padding: 4px 0px;">'+quickstart_name+'</span>'+'</a>');
                 }
             }            
@@ -489,7 +492,7 @@
             var offset = $("#"+anchor_id).offset().top + $("#"+anchor_id).height() - $(window).scrollTop();
             if((offset > 100)&&(offset < ($("#"+anchor_id).height()+600))){
                 for (var i= 0; i< anchor_length; i++){
-                    if( anchor_name == $(".anchor-box span").eq(i).html()){
+                    if( anchor_name === $(".anchor-box span").eq(i).html()){
                         $(".anchor-box a").addClass("anchor-quiet");
                         $(".anchor-box a").eq(i).removeClass("anchor-quiet");
                         $(".anchor-box a").eq(i).addClass("anchor-active");
@@ -503,7 +506,7 @@
         e = e || window.event;  
 // if (e.wheelDelta) {  //判断浏览器IE，谷歌滑轮事件    
         var page_url = window.location.href;
-        if((page_url.slice(-4) == "/en/")||(page_url.slice(-7)== "/zh_CN/")||(page_url.slice(-3)== "/#/")){
+        if((page_url.slice(-4) === "/en/")||(page_url.slice(-7)=== "/zh_CN/")||(page_url.slice(-3)=== "/#/")){
             var anchor_list= $(".product_page > div:gt(1)");
         }
         else{
