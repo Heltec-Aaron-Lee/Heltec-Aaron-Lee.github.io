@@ -243,9 +243,9 @@ body[data-page="en/arduino/arduino_home_page.md"] article.markdown-section {
 .dropdown div a:active{
     background-color:#cccccc !important;
 }
-/* .dropdown-item {
-    text-align: left;
-} */
+.dropdown-item {
+    cursor: pointer;
+}
 
 /*内容掩盖的尺寸*/
 .mask {
