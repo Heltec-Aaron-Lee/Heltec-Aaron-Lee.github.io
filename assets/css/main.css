@@ -112,7 +112,9 @@ body[data-page="en/arduino/arduino_home_page.md"] article.markdown-section {
     transition:all .25s ease;
     float: right;
 }
-
+.related_links div img {
+    cursor: pointer;
+}
 
 .related_links a:first-child {
     border-top-left-radius: 5px;/*倒角*/
@@ -198,7 +200,9 @@ body[data-page="en/arduino/arduino_home_page.md"] article.markdown-section {
     transition:all .25s ease;
     color: #343a40;
 }
-
+.dropdown span {
+    cursor: pointer;
+}
 .dropdown div{
     position: absolute;
     overflow: hidden;
@@ -969,6 +973,7 @@ mark {
     padding: 6px 0px;/*字的位置*/
     text-decoration: none;
     outline: none;
+    cursor: pointer;
     border: none;
     /* border-top-right-radius: 5px;
     border-bottom-right-radius: 5px; */
@@ -1083,9 +1088,9 @@ mark {
 #e_ink strong:hover {
     background-color: rgba(15, 194, 237,0.3);
 }
-#accessories strong:hover {
+/* #accessories strong:hover {
     background-color: rgba(15, 194, 237,0.3);
-}
+} */
 
 /* .anchor-active{
     background-color: rgb(15, 93, 237) !important;
