@@ -148,7 +148,7 @@
       for (var i=0; i<product_class[class_num].length; i++ ) {
          //append的内容将显示在product_class.p名称的上方，并作为一行的开始
          /*lora gateway*/
-        if(product_class[class_num][i].p === "HT-M01"){
+        if(product_class[class_num][i].p === "HT-M01 PicoCell LoRa Gateway"){
            $("#"+product_class_name[class_num]).append('<br><p> <a href="#/en/products/lora/lora_gateway/heltec_lora_gateway_list_eu"> <strong>LoRa Gateway</strong> </a> </p>');
         }
         /*cubecell*/
@@ -236,10 +236,27 @@
         $("#"+product_class_name[class_num]+" .item:last-child p").text(product_class[class_num][i].p);//具体产品小格子下面的名字
       }
     }
+    //给lora gateway添加属性
+    function appendAttr(e) {
+        let 
+            nodeName = '',
+            htm_01 = document.querySelector('#gateway')
+        nodeName = htm_01.childNodes
+        nodeName[2].setAttribute('id', 'htm-01')
+        nodeName[4].setAttribute('id', 'htm-02')
+        }
+    appendAttr()
+    
+   // let 
+     //   htm_01_Id = document.querySelector('#htm-01'),
+       // htm_02_Id = document.querySelector('#htm-02')
+
+
     $(document).ready(function(){
         var mask_html = `<div class="mask"><a href="#" style="color:white;text-decoration:none" ><button type="button" class="btn-sm btn-primary mask-btn1">Docs Pages</button></a><button type="button" class="btn-sm btn-primary mask-btn2">Product Info</button></div>`
         $("#gateway div.item a:lt(2)").append(mask_html);//lt后面括号内的数字代表该类中需要添加掩盖页的数量
-        $("#gateway .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/index.html");
+        $("#gateway div#htm-01 .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/gateway/ht-m01/index.html");
+        $("#gateway div#htm-02 .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/gateway/ht-m02/index.html");
         $("#cubecell div.item a:lt(3)").append(mask_html);//lt后面括号内的数字代表该类中需要添加掩盖页的数量
         $("#cubecell .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/cubecell/quick_start.html");
         $("#esp32_lora div.item a:lt(4)").append(mask_html);//lt后面括号内的数字代表该类中需要添加掩盖页的数量
@@ -261,15 +278,6 @@
 
         $("#accessories div.item a:lt(13)").append(mask_html);//lt后面括号内的数字代表该类中需要添加掩盖页的数量
         $("#accessories .mask a").attr("href", "#");
-      //   $("#gateway div.item a:lt(9)").append(mask_html);
-      //   $("#unit div.item a:lt(5)").append(mask_html);
-      //   $("#gateway .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/cubecell/quick_start.html");
-      //   $("#gateway .mask a").eq(6).attr("href", "http://www.baidu.com");
-      //   $("#gateway .mask a").eq(7).attr("href", "#en/quick_start/m5stickc/m5stickc_quick_start");
-      //   $("#gateway .mask a").eq(8).attr("href", "#en/quick_start/m5stickv/m5stickv_quick_start");
-      //   $("#unit .mask a").attr("href", "#en/quick_start/m5camera/m5camera_quick_start");
-      //   $("#unit .mask a").eq(4).attr("href", "#en/quick_start/unitv/unitv_quick_start");
-      //   $(".product_page strong").parent('p').css("margin-bottom","0px");
         anchor_search();
         scrollFunc();
      });
