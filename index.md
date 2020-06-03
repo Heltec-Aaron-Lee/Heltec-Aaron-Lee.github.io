@@ -16,6 +16,11 @@
       {a:"https://heltec.cn/project/htcc-ab01", img:"http://resource.heltec.cn/img/docs/cubecell/htcc-ab01.jpg", p:"CubeCell Dev-Board"},
       {a:"https://heltec.cn/project/htcc-ac01", img:"http://resource.heltec.cn/img/docs/cubecell/htcc-ac01.jpg", p:"CubeCell Capsule Sensor"},
       {a:"https://heltec.cn/project/htcc-am01", img:"http://resource.heltec.cn/img/docs/cubecell/htcc-am01.jpg", p:"CubeCell Module"},
+      {a: 'https://heltec.org/project/htcc-ab02', img: 'http://resource.heltec.cn/img/docs/cubecell/HTCC_AB02_E.jpg', p: 'CubeCell Dev-Board Plus'},
+      {a: 'https://heltec.org/project/htcc-ab02s/', img: 'http://resource.heltec.cn/img/docs/cubecell/HTCC_AB02S_E.jpg', p: 'CubeCell GPS-6502'},
+      {a: 'https://heltec.org/project/htcc-ab02a/', img: 'http://resource.heltec.cn/img/docs/cubecell/HTCC_AB02A_E.jpg', p: 'CubeCell 1/2AA Node'},
+      {a: 'https://heltec.org/project/htcc-ac02/', img: 'http://resource.heltec.cn/img/docs/cubecell/HTCC_AC02_E.jpg', p: 'CubeCell Capsule Solar Sensor'},
+      {a: 'https://heltec.org/project/htcc-am02/', img: 'http://resource.heltec.cn/img/docs/cubecell/HTCC_AM02_E.jpg', p: 'CubeCell Module Plus'}
     ];
     
     const esp32_lora_list = [
@@ -257,7 +262,7 @@
         $("#gateway div.item a:lt(2)").append(mask_html);//lt后面括号内的数字代表该类中需要添加掩盖页的数量
         $("#gateway div#htm-01 .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/gateway/ht-m01/index.html");
         $("#gateway div#htm-02 .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/gateway/ht-m02/index.html");
-        $("#cubecell div.item a:lt(3)").append(mask_html);//lt后面括号内的数字代表该类中需要添加掩盖页的数量
+        $("#cubecell div.item a:lt(13)").append(mask_html);//lt后面括号内的数字代表该类中需要添加掩盖页的数量
         $("#cubecell .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/cubecell/quick_start.html");
         $("#esp32_lora div.item a:lt(4)").append(mask_html);//lt后面括号内的数字代表该类中需要添加掩盖页的数量
         $("#esp32_lora .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/esp32+arduino/quick_start.html");
