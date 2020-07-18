@@ -29,7 +29,7 @@ Highest technical content, super low power design, and best price / performance 
 |   [HTCC-AB02](https://heltec.org/project/htcc-ab02/)    |      Dev-Board       | 128KB | Lithium<sup>②</sup> |       √        |        √         |         3.5uA         |
 |   [HTCC-AM02](https://heltec.org/project/htcc-am02/)    |     Module Plus      | 128KB | Lithium<sup>②</sup> |       √        |        √         |         3.5uA         |
 |  [HTCC-AB02A](https://heltec.org/project/htcc-ab02a/)   |      1/2AA Node      | 128KB | Lithium<sup>②</sup> |       √        |        √         |         3.5uA         |
-|  [HTCC-AB02S](https://heltec.org/project/htcc-ab02a/)   |       GPS-6502       | 128KB | Lithium<sup>②</sup> |       √        |        √         |         50uA          |
+|  [HTCC-AB02S](https://heltec.org/project/htcc-ab02s/)   |       GPS-6502       | 128KB | Lithium<sup>②</sup> |       √        |        √         |         50uA          |
 |   [HTCC-AC02](https://heltec.org/project/htcc-ac02/)    | Capsule Solar Sensor | 128KB | Lithium<sup>②</sup> |       √        |        √         |         3.5uA         |
 
 &nbsp;

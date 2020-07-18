@@ -158,15 +158,15 @@
         }
         /*cubecell*/
         if(product_class[class_num][i].p === "CubeCell Dev-Board"){
-           $("#"+product_class_name[class_num]).append('<br><p> <a href="#/en/products/lora/lora_node/heltec_lora_node_list_eu"> <strong>CubeCell LoRa Nodes</strong> </a> </p>');
+           $("#"+product_class_name[class_num]).append('<br><p> <a href="#/en/products/lora/lora_node/heltec_lora_node_list_eu?id=cubecell-series"> <strong>CubeCell LoRa Nodes</strong> </a> </p>');
         }
         /*esp32 lora*/
         if(product_class[class_num][i].a === "https://heltec.cn/project/wireless-stick"){
-           $("#"+product_class_name[class_num]).append('<br><p> <a href="#/en/products/lora/lora_node/heltec_lora_node_list_eu"> <strong>ESP32 LoRa</strong> </a> </p>');
+           $("#"+product_class_name[class_num]).append('<br><p> <a href="#/en/products/lora/lora_node/heltec_lora_node_list_eu?id=esp32-lora-series"> <strong>ESP32 LoRa</strong> </a> </p>');
         }
         /*stm32 lora node*/
         if(product_class[class_num][i].a === "https://heltec.cn/project/lora-node-151/"){
-           $("#"+product_class_name[class_num]).append('<br><p> <a href="#/en/products/lora/lora_node/heltec_lora_node_list_eu"> <strong>STM32 LoRa</strong> </a> </p>');
+           $("#"+product_class_name[class_num]).append('<br><p> <a href="#/en/products/lora/lora_node/heltec_lora_node_list_eu?id=stm32-lora-series"> <strong>STM32 LoRa</strong> </a> </p>');
         }
         /*esp32 arduino*/
         if(product_class[class_num][i].a === "https://heltec.cn/project/wifi-kit-32"){
