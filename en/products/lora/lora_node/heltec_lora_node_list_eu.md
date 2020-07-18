@@ -21,16 +21,16 @@ Highest technical content, super low power design, and best price / performance 
 
 [CubeCell series summary & documents](https://heltec-automation-docs.readthedocs.io/en/latest/cubecell/index.html).
 
-|                         Product                         |   Type<sup>①</sup>   | FLASH |       Battery       | Battery Detect | Vext<sup>③</sup> | Low Power<sup>④</sup> |
-| :-----------------------------------------------------: | :------------------: | :---: | :-----------------: | :------------: | :--------------: | :-------------------: |
-|   [HTCC-AB01](https://heltec.org/project/htcc-ab01/)    |      Dev-Board       | 128KB | Lithium<sup>②</sup> |       √        |        x         |         3.5uA         |
-| [Capsule Sensor](https://heltec.org/project/htcc-ab01/) |     LoRa Sensor      | 128KB | Lithium<sup>②</sup> |       √        |        √         |          9uA          |
-|   [HTCC-AM01](https://heltec.org/project/htcc-ab01/)    |        Module        | 128KB | Lithium<sup>②</sup> |       √        |        √         |         3.5uA         |
-|   [HTCC-AB02](https://heltec.org/project/htcc-ab02/)    |      Dev-Board       | 128KB | Lithium<sup>②</sup> |       √        |        √         |         3.5uA         |
-|   [HTCC-AM02](https://heltec.org/project/htcc-am02/)    |     Module Plus      | 128KB | Lithium<sup>②</sup> |       √        |        √         |         3.5uA         |
-|  [HTCC-AB02A](https://heltec.org/project/htcc-ab02a/)   |      1/2AA Node      | 128KB | Lithium<sup>②</sup> |       √        |        √         |         3.5uA         |
-|  [HTCC-AB02S](https://heltec.org/project/htcc-ab02s/)   |       GPS-6502       | 128KB | Lithium<sup>②</sup> |       √        |        √         |         50uA          |
-|   [HTCC-AC02](https://heltec.org/project/htcc-ac02/)    | Capsule Solar Sensor | 128KB | Lithium<sup>②</sup> |       √        |        √         |         3.5uA         |
+|                           Product                            | Type<sup>①</sup>  | FLASH |       Battery       | Battery Detect | Vext<sup>③</sup> | Low Power<sup>④</sup> |
+| :----------------------------------------------------------: | :---------------: | :---: | :-----------------: | :------------: | :--------------: | :-------------------: |
+|      [HTCC-AB01](https://heltec.org/project/htcc-ab01/)      |     Dev-Board     | 128KB | Lithium<sup>②</sup> |       √        |        x         |         3.5uA         |
+|   [Capsule Sensor](https://heltec.org/project/htcc-ac01/)    |    LoRa Sensor    | 128KB | Lithium<sup>②</sup> |       √        |        √         |          9uA          |
+|      [HTCC-AM01](https://heltec.org/project/htcc-am01/)      |      Module       | 128KB | Lithium<sup>②</sup> |       √        |        √         |         3.5uA         |
+|      [HTCC-AB02](https://heltec.org/project/htcc-ab02/)      |     Dev-Board     | 128KB | Lithium<sup>②</sup> |       √        |        √         |         3.5uA         |
+|      [HTCC-AM02](https://heltec.org/project/htcc-am02/)      |    Module Plus    | 128KB | Lithium<sup>②</sup> |       √        |        √         |         3.5uA         |
+|     [HTCC-AB02A](https://heltec.org/project/htcc-ab02a/)     |    1/2AA Node     | 128KB | Lithium<sup>②</sup> |       √        |        √         |         3.5uA         |
+|     [HTCC-AB02S](https://heltec.org/project/htcc-ab02s/)     |     GPS-6502      | 128KB | Lithium<sup>②</sup> |       √        |        √         |         50uA          |
+| [Capsule Solar Sensor](https://heltec.org/project/htcc-ac02/) | LoRa Solar Sensor | 128KB | Lithium<sup>②</sup> |       √        |        √         |         3.5uA         |
 
 &nbsp;
 
