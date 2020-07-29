@@ -9,6 +9,7 @@
       //Core
       {a:"https://heltec.cn/project/ht-m01", img:"http://resource.heltec.cn/img/docs/ht_m01.jpg", p:"HT-M01 PicoCell LoRa Gateway"},
       {a:"https://heltec.cn/project/ht-m02", img:"http://resource.heltec.cn/img/docs/ht_m02.jpg", p:"HT-M02 Edge LoRa Gateway"},
+      {a:'https://heltec.org/project/ht-m00', img:'https://resource.heltec.cn/img/docs/ht_m00.jpg', p:'HT-M00 Dual Channel LoRa Gateway'}
     ];
     
     const cubecell_list = [
@@ -243,25 +244,44 @@
     }
     //给lora gateway添加属性
     function appendAttr(e) {
+        const gatewayId = [
+            'htm-01',
+            'htm-02',
+            'htm-00'
+        ];
         let 
             nodeName = '',
-            htm_01 = document.querySelector('#gateway')
-        nodeName = htm_01.childNodes
-        nodeName[2].setAttribute('id', 'htm-01')
-        nodeName[4].setAttribute('id', 'htm-02')
+            index = 0,
+            htm_01 = document.querySelector('#gateway'),
+            nodes = convertToArray(htm_01.childNodes);
+
+            nodes.forEach( node => {
+                if (node.nodeName.toLocaleLowerCase() === 'div') {
+                    node.setAttribute('id', gatewayId[index])
+                    index++;
+                } 
+            });
         }
-    appendAttr()
+   function convertToArray(nodes) {
+      let array = null;
+      try {
+         array = Array.prototype.slice.call(nodes, 0);
+      } catch (ex) {
+         array = new Array();
+         for (let i=0, len=nodes.length; i < len; i++) {
+            array.push(nodes[i]);
+         }
+      }
+      return array;
+   }
+    appendAttr();
     
-   // let 
-     //   htm_01_Id = document.querySelector('#htm-01'),
-       // htm_02_Id = document.querySelector('#htm-02')
-
-
     $(document).ready(function(){
         var mask_html = `<div class="mask"><a href="#" style="color:white;text-decoration:none" ><button type="button" class="btn-sm btn-primary mask-btn1">Docs Pages</button></a><button type="button" class="btn-sm btn-primary mask-btn2">Product Info</button></div>`
-        $("#gateway div.item a:lt(2)").append(mask_html);//lt后面括号内的数字代表该类中需要添加掩盖页的数量
+        $("#gateway div.item a:lt(3)").append(mask_html);//lt后面括号内的数字代表该类中需要添加掩盖页的数量
         $("#gateway div#htm-01 .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/gateway/ht-m01/index.html");
-        $("#gateway div#htm-02 .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/gateway/ht-m02/index.html");
+        $("#gateway div#htm-02 .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/gateway/ht-m02_4g/index.html");
+        $("#gateway div#htm-00 .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/gateway/ht-m00/index.html");
         $("#cubecell div.item a:lt(13)").append(mask_html);//lt后面括号内的数字代表该类中需要添加掩盖页的数量
         $("#cubecell .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/cubecell/quick_start.html");
         $("#esp32_lora div.item a:lt(4)").append(mask_html);//lt后面括号内的数字代表该类中需要添加掩盖页的数量
