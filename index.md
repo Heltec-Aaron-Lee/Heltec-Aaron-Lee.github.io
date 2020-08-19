@@ -277,32 +277,38 @@
     appendAttr();
     
     $(document).ready(function(){
-        var mask_html = `<div class="mask"><a href="#" style="color:white;text-decoration:none" ><button type="button" class="btn-sm btn-primary mask-btn1">Docs Pages</button></a><button type="button" class="btn-sm btn-primary mask-btn2">Product Info</button></div>`
-        $("#gateway div.item a:lt(3)").append(mask_html);//lt后面括号内的数字代表该类中需要添加掩盖页的数量
+        const mask_html = `<div class="mask"><a href="#" style="color:white;text-decoration:none" ><button type="button" class="btn-sm btn-primary mask-btn1">Docs Pages</button></a><button type="button" class="btn-sm btn-primary mask-btn2">Product Info</button></div>`;
+
+        $("#gateway div.item a:lt(" + gateway_list.length +")").append(mask_html);
         $("#gateway div#htm-01 .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/gateway/ht-m01/index.html");
         $("#gateway div#htm-02 .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/gateway/ht-m02_4g/index.html");
         $("#gateway div#htm-00 .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/gateway/ht-m00/index.html");
-        $("#cubecell div.item a:lt(13)").append(mask_html);//lt后面括号内的数字代表该类中需要添加掩盖页的数量
+
+        $("#cubecell div.item a:lt("+cubecell_list.length+")").append(mask_html);
         $("#cubecell .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/cubecell/quick_start.html");
-        $("#esp32_lora div.item a:lt(4)").append(mask_html);//lt后面括号内的数字代表该类中需要添加掩盖页的数量
+
+        $("#esp32_lora div.item a:lt("+esp32_lora_list.length+")").append(mask_html);
         $("#esp32_lora .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/esp32+arduino/quick_start.html");
-        $("#stm32_lora div.item a:lt(4)").append(mask_html);//lt后面括号内的数字代表该类中需要添加掩盖页的数量
+
+        $("#stm32_lora div.item a:lt("+stm32_lora_list.length+")").append(mask_html);
         $("#stm32_lora .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/stm32/quick_start.html");
 
-        $("#esp32_arduino div.item a:lt(4)").append(mask_html);//lt后面括号内的数字代表该类中需要添加掩盖页的数量
+        $("#esp32_arduino div.item a:lt("+esp32_arduino_list.length+")").append(mask_html);
         $("#esp32_arduino .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/esp32+arduino/quick_start.html");
+      
 
-        $("#esp8266_arduino div.item a:lt(4)").append(mask_html);//lt后面括号内的数字代表该类中需要添加掩盖页的数量
-        $("#esp8266_arduino .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/esp8266+arduino/quick_start.html#");
+        $("#esp8266_arduino div.item a:lt("+esp8266_arduino_list.length+")").append(mask_html);
+        $("#esp8266_arduino .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/esp8266+arduino/quick_start.html");
 
-        $("#oled div.item a:lt(14)").append(mask_html);//lt后面括号内的数字代表该类中需要添加掩盖页的数量
+        $("#oled div.item a:lt("+oled_list.length+")").append(mask_html);
         $("#oled .mask a").attr("href", "https://docs.heltec.cn/#/en/products/display/oled/heltec_oled_display_list_eu");
 
-        $("#e_ink div.item a:lt(28)").append(mask_html);//lt后面括号内的数字代表该类中需要添加掩盖页的数量
+        $("#e_ink div.item a:lt("+e_ink_list.length+")").append(mask_html);
         $("#e_ink .mask a").attr("href", "https://docs.heltec.cn/#/en/products/display/eink/heltec_eink_display_list_eu");
 
-        $("#accessories div.item a:lt(13)").append(mask_html);//lt后面括号内的数字代表该类中需要添加掩盖页的数量
+        $("#accessories div.item a:lt("+accessories_list.length+")").append(mask_html);
         $("#accessories .mask a").attr("href", "#");
+        
         anchor_search();
         scrollFunc();
      });
