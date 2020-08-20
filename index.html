@@ -61,7 +61,7 @@
             <a href="https://heltec.cn">
                 <img src="https://heltec.org/wp-content/uploads/2020/04/logo-new-1.png" alt="Heltec" style="margin-top:0;width:100px; margin-left:-10px;">
             </a>
-            <span style="position: relative; top: 5px;">Heltec Products Index</span></h5>
+            <a href="/" style="color: #555;"><span style="position: relative; top: 5px;">Heltec Products Index</span></a></h5>
         <nav class="my-2 my-md-0 mr-md-3">
             <div id="product" class="p-2 dropdown"><span>Product</span>
                 <div>
@@ -243,7 +243,7 @@
         }
         function language(language) {
             var test = window.location.href;
-            if ((test.indexOf(/en/) == -1) && (test.indexOf(/zh_CN/) == -1) && (test.indexOf(/ja/) == -1)) {
+            if ((test.indexOf(/en/) == -1) && (test.indexOf(/zh_CN/) == -1)) {
                 var test2 = test.concat("", language+"/");
                 window.location.href = test2;
                 change_title(language);
@@ -252,20 +252,15 @@
                 var test2 = test.replace(/en/, language);
                 window.location.href = test2;
                 change_title(language);
-
-            }else if(test.indexOf(/zh_CN/) != -1){
+            } else if(test.indexOf(/zh_CN/) != -1) {
                 var test2 = test.replace(/zh_CN/, language);
-                window.location.href = test2;
-                change_title(language);
-            }else if(test.indexOf(/ja/) != -1){
-                var test2 = test.replace(/ja/, language);
                 window.location.href = test2;
                 change_title(language);
             }
         }
         function page_loading() {
             var test = window.location.href;
-            if ((test.indexOf(/en/) == -1) && (test.indexOf(/zh_CN/) == -1)&& (test.indexOf(/ja/) == -1)) {
+            if ((test.indexOf(/en/) == -1) && (test.indexOf(/zh_CN/) == -1)) {
                 change_title('en');
             }
             if(test.indexOf(/en/) != -1){
@@ -273,9 +268,6 @@
             }
             if(test.indexOf(/zh_CN/) != -1){
                 change_title('zh_CN');
-            }
-            if(test.indexOf(/ja/) != -1){
-                change_title('ja');
             }
         }
 
