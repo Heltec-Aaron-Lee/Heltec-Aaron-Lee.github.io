@@ -7,42 +7,48 @@
 <script>
     var gateway_list = [
       //Core
-      {a:"https://heltec.org/zh/project/ht-m01", img:"http://resource.heltec.cn/img/docs/ht_m01.jpg", p:"HT-M01通信验证LoRa网关"},
-      {a:"https://heltec.org/zh/project/ht-m02", img:"http://resource.heltec.cn/img/docs/ht_m02.jpg", p:"HT-M02边缘计算LoRa网关"},
+      {a:"https://heltec.org/project/ht-m01", img:"http://resource.heltec.cn/img/docs/ht_m01.jpg", p:"HT-M01通信验证LoRa网关"},
+      {a:"https://heltec.org/project/ht-m02", img:"http://resource.heltec.cn/img/docs/ht_m02.jpg", p:"HT-M02边缘计算LoRa网关"},
+      {a:'https://heltec.org/project/ht-m00', img:'https://resource.heltec.cn/img/docs/ht_m00.jpg', p:'HT-M00双通道LoRa网关'}
     ];
     
     var cubecell_list = [
       //CubeCell
-      {a:"https://heltec.org/zh/project/htcc-ab01", img:"http://resource.heltec.cn/img/docs/cubecell/htcc-ab01.jpg", p:"CubeCell Dev-Board"},
-      {a:"https://heltec.org/zh/project/htcc-ac01", img:"http://resource.heltec.cn/img/docs/cubecell/htcc-ac01.jpg", p:"CubeCell Capsule Sensor"},
-      {a:"https://heltec.org/zh/project/htcc-am01", img:"http://resource.heltec.cn/img/docs/cubecell/htcc-am01.jpg", p:"CubeCell Module"},
+      {a:"https://heltec.org/project/htcc-ab01", img:"http://resource.heltec.cn/img/docs/cubecell/htcc-ab01.jpg", p:"CubeCell Dev-Board"},
+      {a:"https://heltec.org/project/htcc-ac01", img:"http://resource.heltec.cn/img/docs/cubecell/htcc-ac01.jpg", p:"CubeCell Capsule Sensor"},
+      {a:"https://heltec.org/project/htcc-am01", img:"http://resource.heltec.cn/img/docs/cubecell/htcc-am01.jpg", p:"CubeCell Module"},
+      {a: 'https://heltec.org/project/htcc-ab02', img: 'http://resource.heltec.cn/img/docs/cubecell/HTCC_AB02_E.jpg', p: 'CubeCell Dev-Board Plus'},
+      {a: 'https://heltec.org/project/htcc-ab02s/', img: 'http://resource.heltec.cn/img/docs/cubecell/HTCC_AB02S_E.jpg', p: 'CubeCell GPS-6502'},
+      {a: 'https://heltec.org/project/htcc-ab02a/', img: 'http://resource.heltec.cn/img/docs/cubecell/HTCC_AB02A_E.jpg', p: 'CubeCell 1/2AA Node'},
+      {a: 'https://heltec.org/project/htcc-ac02/', img: 'http://resource.heltec.cn/img/docs/cubecell/HTCC_AC02_E.jpg', p: 'CubeCell Capsule Solar Sensor'},
+      {a: 'https://heltec.org/project/htcc-am02/', img: 'http://resource.heltec.cn/img/docs/cubecell/HTCC_AM02_E.jpg', p: 'CubeCell Module Plus'}
     ];
     
     var esp32_lora_list = [
       //esp32 lora node
-      {a:"https://heltec.org/zh/project/wireless-stick", img:"http://resource.heltec.cn/img/docs/wireless_stick.jpg",p:"Wireless Stick"},
-      {a:"https://heltec.org/zh/project/wifi-lora-32", img:"http://resource.heltec.cn/img/docs/wifi_lora_32.jpg",p:"WiFi LoRa 32"},
-      {a:"https://heltec.org/zh/project/wireless-stick-lite", img:"http://resource.heltec.cn/img/docs/wireless_stick_lite.jpg",p:"WirelessStick lite"},
-      {a:"https://heltec.org/zh/project/wireless-shell", img:"http://resource.heltec.cn/img/docs/wireless_shell.jpg",p:"Wireless Shell"},
+      {a:"https://heltec.org/project/wireless-stick", img:"http://resource.heltec.cn/img/docs/wireless_stick.jpg",p:"Wireless Stick"},
+      {a:"https://heltec.org/project/wifi-lora-32", img:"http://resource.heltec.cn/img/docs/wifi_lora_32.jpg",p:"WiFi LoRa 32"},
+      {a:"https://heltec.org/project/wireless-stick-lite", img:"http://resource.heltec.cn/img/docs/wireless_stick_lite.jpg",p:"WirelessStick lite"},
+      {a:"https://heltec.org/project/wireless-shell", img:"http://resource.heltec.cn/img/docs/wireless_shell.jpg",p:"Wireless Shell"},
     ];
     
     var stm32_lora_list = [
       //stm32 lora node
-      {a:"https://heltec.org/zh/project/lora-node-151/", img:"http://resource.heltec.cn/img/docs/lora_node_151.jpg",p:"LoRa Node 151"},
-      {a:"https://heltec.org/zh/project/turtle", img:"http://resource.heltec.cn/img/docs/turtle.jpg",p:"Turtle"},
-      {a:"https://heltec.org/zh/project/lora-kit-151/", img:"http://resource.heltec.cn/img/docs/lora_kit_151.jpg",p:"LoRa kit 151"},
+      {a:"https://heltec.org/project/lora-node-151/", img:"http://resource.heltec.cn/img/docs/lora_node_151.jpg",p:"LoRa Node 151"},
+      {a:"https://heltec.org/project/turtle", img:"http://resource.heltec.cn/img/docs/turtle.jpg",p:"Turtle"},
+      {a:"https://heltec.org/project/lora-kit-151/", img:"http://resource.heltec.cn/img/docs/lora_kit_151.jpg",p:"LoRa kit 151"},
     ];
 
 
    var esp32_arduino_list = [
       //esp32 
-      {a:"https://heltec.org/zh/project/wifi-kit-32", img:"http://resource.heltec.cn/img/docs/wifi_kit_32.jpg",p:"WiFi Kit 32"}
+      {a:"https://heltec.org/project/wifi-kit-32", img:"http://resource.heltec.cn/img/docs/wifi_kit_32.jpg",p:"WiFi Kit 32"}
    ];
 
 
     var esp8266_arduino_list = [
       //esp8266
-      {a:"https://heltec.org/zh/project/wifi-kit-8", img:"http://resource.heltec.cn/img/docs/wifi_kit_8.jpg",p:"WiFi Kit 8"}
+      {a:"https://heltec.org/project/wifi-kit-8", img:"http://resource.heltec.cn/img/docs/wifi_kit_8.jpg",p:"WiFi Kit 8"}
     ];
 
 
@@ -151,33 +157,33 @@
       for (var i=0; i<product_class[class_num].length; i++ ) {
             //append的内容将显示在product_class.p名称的上方，并作为一行的开始
             /*lora gateway*/
-         if(product_class[class_num][i].p === "HT-M01"){
-            $("#"+product_class_name[class_num]).append('<br><p> <a href="#/en/products/lora/lora_gateway/heltec_lora_gateway_list_eu"> <strong>LoRa 网关</strong> </a> </p>');
+         if(product_class[class_num][i].p === "HT-M01通信验证LoRa网关"){
+            $("#"+product_class_name[class_num]).append('<br><p> <a href="#/zh_CN/products/lora/lora_gateway/heltec_lora_gateway_list"> <strong>LoRa 网关</strong> </a> </p>');
          }
          /*cubecell*/
          if(product_class[class_num][i].p == "CubeCell Dev-Board"){
-            $("#"+product_class_name[class_num]).append('<br><p> <a href="#/en/products/lora/lora_node/heltec_lora_node_list_eu"> <strong>CubeCell 系列</strong> </a> </p>');
+            $("#"+product_class_name[class_num]).append('<br><p> <a href="#/zh_CN/products/lora/lora_node/heltec_lora_node_list?id=cubecell-系列"> <strong>CubeCell 系列</strong> </a> </p>');
          }
          /*esp32 lora*/
-         if(product_class[class_num][i].a == "https://heltec.org/zh/project/wireless-stick"){
-            $("#"+product_class_name[class_num]).append('<br><p> <a href="#/en/products/lora/lora_node/heltec_lora_node_list_eu"> <strong>ESP32 LoRa 节点</strong> </a> </p>');
+         if(product_class[class_num][i].a == "https://heltec.org/project/wireless-stick"){
+            $("#"+product_class_name[class_num]).append('<br><p> <a href="#/zh_CN/products/lora/lora_node/heltec_lora_node_list?id=esp32-lora-系列"> <strong>ESP32 LoRa 节点</strong> </a> </p>');
          }
          /*stm32 lora node*/
-         if(product_class[class_num][i].a == "https://heltec.org/zh/project/lora-node-151/"){
-            $("#"+product_class_name[class_num]).append('<br><p> <a href="#/en/products/lora/lora_node/heltec_lora_node_list_eu"> <strong>STM32 LoRa 节点</strong> </a> </p>');
+         if(product_class[class_num][i].a == "https://heltec.org/project/lora-node-151/"){
+            $("#"+product_class_name[class_num]).append('<br><p> <a href="#/zh_CN/products/lora/lora_node/heltec_lora_node_list?id=stm32-lora-系列"> <strong>STM32 LoRa 节点</strong> </a> </p>');
          }
          /*esp32 arduino*/
-         if(product_class[class_num][i].a == "https://heltec.org/zh/project/wifi-kit-32"){
-            $("#"+product_class_name[class_num]).append('<br><p> <a href="#/en/products/esp_arduino/heltec_esp_arduino_list_eu"> <strong>WiFi Kit 32</strong> </a> </p>');
+         if(product_class[class_num][i].a == "https://heltec.org/project/wifi-kit-32"){
+            $("#"+product_class_name[class_num]).append('<br><p> <a href="#/zh_CN/products/esp_arduino/heltec_esp_arduino_list"> <strong>WiFi Kit 32</strong> </a> </p>');
          }
          /*esp8266 arduino*/
-         if(product_class[class_num][i].a == "https://heltec.org/zh/project/wifi-kit-8"){
-            $("#"+product_class_name[class_num]).append('<br><p> <a href="#/en/products/esp_arduino/heltec_esp_arduino_list_eu"> <strong>WiFi Kit 8</strong> </a> </p>');
+         if(product_class[class_num][i].a == "https://heltec.org/project/wifi-kit-8"){
+            $("#"+product_class_name[class_num]).append('<br><p> <a href="#/zh_CN/products/esp_arduino/heltec_esp_arduino_list"> <strong>WiFi Kit 8</strong> </a> </p>');
          }
          /*oled screen*/
             /*0.49*/
          if(product_class[class_num][i].p === '0.49"White IIC'){
-               $("#"+product_class_name[class_num]).append('<br><p> <a href="#/en/products/display/oled/heltec_oled_display_list_eu"> <strong>OLED显示屏</strong> </a> </p> <p>0.49" OLED Display</p>');
+               $("#"+product_class_name[class_num]).append('<br><p> <a href="#/zh_CN/products/display/oled/heltec_oled_display_list"> <strong>OLED显示屏</strong> </a> </p> <p>0.49" OLED Display</p>');
          }
          /*0.91*/
          if(product_class[class_num][i].p === '0.91"White IIC'){
@@ -192,13 +198,13 @@
                $("#"+product_class_name[class_num]).append('<br><p>1.3" OLED Display</p>');
          }
          /*1.54"*/
-         if (product_class[class_num][i].a == "https://heltec.org/zh/project/154-oled") {
+         if (product_class[class_num][i].a == "https://heltec.org/project/154-oled") {
                $("#"+product_class_name[class_num]).append('<br><p>1.54" OLED Display</p>');
          }
          /* e-ink screen*/
          /*1.54" */
          if(product_class[class_num][i].img == "http://resource.heltec.cn/img/docs/e_ink/154bw.jpg"){
-            $("#"+product_class_name[class_num]).append('<br><p> <a href="#/en/products/display/eink/heltec_eink_display_list_eu"> <strong>墨水屏/电子纸</strong> </a> </p> <p>1.54" E-ink Display</p> ');
+            $("#"+product_class_name[class_num]).append('<br><p> <a href="#/zh_CN/products/display/eink/heltec_eink_display_list"> <strong>墨水屏/电子纸</strong> </a> </p> <p>1.54" E-ink Display</p> ');
          } 
          /*2.13" */
          if(product_class[class_num][i].img == "http://resource.heltec.cn/img/docs/e_ink/213bw.jpg"){
@@ -238,31 +244,71 @@
          $("#"+product_class_name[class_num]+" .item:last-child p").text(product_class[class_num][i].p);//具体产品小格子下面的名字
       }
     }
+
+    //给lora gateway添加属性
+    function appendAttr(e) {
+        const gatewayId = [
+            'htm-01',
+            'htm-02',
+            'htm-00'
+        ];
+        let 
+            nodeName = '',
+            index = 0,
+            htm_01 = document.querySelector('#gateway'),
+            nodes = convertToArray(htm_01.childNodes);
+
+            nodes.forEach( node => {
+                if (node.nodeName.toLocaleLowerCase() === 'div') {
+                    node.setAttribute('id', gatewayId[index])
+                    index++;
+                } 
+            });
+        }
+   function convertToArray(nodes) {
+      let array = null;
+      try {
+         array = Array.prototype.slice.call(nodes, 0);
+      } catch (ex) {
+         array = new Array();
+         for (let i=0, len=nodes.length; i < len; i++) {
+            array.push(nodes[i]);
+         }
+      }
+      return array;
+   }
+    appendAttr();
+
     $(document).ready(function(){
          var mask_html = `<div class="mask"><a href="#" style="color:white;text-decoration:none" ><button type="button" class="btn-sm btn-primary mask-btn1">快速上手 »</button></a><button type="button" class="btn-sm btn-primary mask-btn2">产品信息 »</button></div>`
-         $("#gateway div.item a:lt(2)").append(mask_html);//lt后面括号内的数字代表该类中需要添加掩盖页的数量
-         $("#gateway .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/index.html");
-         $("#cubecell div.item a:lt(3)").append(mask_html);//lt后面括号内的数字代表该类中需要添加掩盖页的数量
-         $("#cubecell .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/cubecell/quick_start.html");
-         $("#esp32_lora div.item a:lt(4)").append(mask_html);//lt后面括号内的数字代表该类中需要添加掩盖页的数量
-         $("#esp32_lora .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/esp32+arduino/quick_start.html");
-         $("#stm32_lora div.item a:lt(4)").append(mask_html);//lt后面括号内的数字代表该类中需要添加掩盖页的数量
-         $("#stm32_lora .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/stm32/quick_start.html");
+         $("#gateway div.item a:lt(" + gateway_list.length +")").append(mask_html);//lt后面括号内的数字代表该类中需要添加掩盖页的数量
+         $("#gateway div#htm-01 .mask a").attr("href", "https://heltec-automation.readthedocs.io/zh_CN/latest/gateway/ht-m01/index.html");
+         $("#gateway div#htm-02 .mask a").attr("href", "https://heltec-automation.readthedocs.io/zh_CN/latest/gateway/ht-m02_4g/index.html");
+         $("#gateway div#htm-00 .mask a").attr("href", "https://heltec-automation.readthedocs.io/zh_CN/latest/gateway/ht-m00/index.html");
 
-         $("#esp32_arduino div.item a:lt(4)").append(mask_html);//lt后面括号内的数字代表该类中需要添加掩盖页的数量
-         $("#esp32_arduino .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/esp32+arduino/quick_start.html");
+         $("#cubecell div.item a:lt("+cubecell_list.length+")").append(mask_html);//lt后面括号内的数字代表该类中需要添加掩盖页的数量
+         $("#cubecell .mask a").attr("href", "https://heltec-automation.readthedocs.io/zh_CN/latest/cubecell/quick_start.html");
 
-         $("#esp8266_arduino div.item a:lt(4)").append(mask_html);//lt后面括号内的数字代表该类中需要添加掩盖页的数量
-         $("#esp8266_arduino .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/esp8266+arduino/quick_start.html#");
+         $("#esp32_lora div.item a:lt("+esp32_lora_list.length+")").append(mask_html);//lt后面括号内的数字代表该类中需要添加掩盖页的数量
+         $("#esp32_lora .mask a").attr("href", "https://heltec-automation.readthedocs.io/zh_CN/latest/esp32+arduino/quick_start.html");
+         $("#stm32_lora div.item a:lt("+stm32_lora_list.length+")").append(mask_html);//lt后面括号内的数字代表该类中需要添加掩盖页的数量
+         $("#stm32_lora .mask a").attr("href", "https://heltec-automation.readthedocs.io/zh_CN/latest/stm32/quick_start.html");
 
-         $("#oled div.item a:lt(14)").append(mask_html);//lt后面括号内的数字代表该类中需要添加掩盖页的数量
-         $("#oled .mask a").attr("href", "https://docs.heltec.cn/#/en/products/display/oled/heltec_oled_display_list_eu");
+         $("#esp32_arduino div.item a:lt("+esp32_arduino_list.length+")").append(mask_html);//lt后面括号内的数字代表该类中需要添加掩盖页的数量
+         $("#esp32_arduino .mask a").attr("href", "https://heltec-automation.readthedocs.io/zh_CN/latest/esp32+arduino/quick_start.html");
 
-         $("#e_ink div.item a:lt(28)").append(mask_html);//lt后面括号内的数字代表该类中需要添加掩盖页的数量
-         $("#e_ink .mask a").attr("href", "https://docs.heltec.cn/#/en/products/display/eink/heltec_eink_display_list_eu");
+         $("#esp8266_arduino div.item a:lt("+esp8266_arduino_list.length+")").append(mask_html);//lt后面括号内的数字代表该类中需要添加掩盖页的数量
+         $("#esp8266_arduino .mask a").attr("href", "https://heltec-automation.readthedocs.io/zh_CN/latest/esp8266+arduino/quick_start.html#");
 
-         $("#accessories div.item a:lt(13)").append(mask_html);//lt后面括号内的数字代表该类中需要添加掩盖页的数量
-         $("#accessories .mask a").attr("href", "#");
+         $("#oled div.item a:lt("+oled_list.length+")").append(mask_html);//lt后面括号内的数字代表该类中需要添加掩盖页的数量
+         $("#oled .mask a").attr("href", "https://docs.heltec.cn/#/zh_CN/products/display/oled/heltec_oled_display_list");
+
+         $("#e_ink div.item a:lt("+e_ink_list.length+")").append(mask_html);//lt后面括号内的数字代表该类中需要添加掩盖页的数量
+         $("#e_ink .mask a").attr("href", "https://docs.heltec.cn/#/zh_CN/products/display/eink/heltec_eink_display_list");
+
+         $("#accessories div.item a:lt("+accessories_list.length+")").append(mask_html);//lt后面括号内的数字代表该类中需要添加掩盖页的数量
+         $("#accessories .mask a").attr("href", "javascript:void(0)");
+         
          anchor_search();
          scrollFunc();
      });

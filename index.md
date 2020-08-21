@@ -153,15 +153,6 @@
     for (var class_num=0; class_num<product_class.length; class_num++ ){
       for (var i=0; i<product_class[class_num].length; i++ ) {
 
-         const hrefSearch = {
-            "en": "series",
-            "zh_CN": "系列"
-         }
-         const href = window.location.href;
-         const searchValue = href.indexOf('en') > -1 || href.indexOf('zh_CN') > -1 ?
-                              href.indexOf('en') > -1 ? hrefSearch["en"] : hrefSearch["zh_CN"] :
-                              hrefSearch["en"];
-
          //append的内容将显示在product_class.p名称的上方，并作为一行的开始
          /*lora gateway*/
         if(product_class[class_num][i].p === "HT-M01 PicoCell LoRa Gateway"){
@@ -169,15 +160,15 @@
         }
         /*cubecell*/
         if(product_class[class_num][i].p === "CubeCell Dev-Board"){
-           $("#"+product_class_name[class_num]).append(`<br><p> <a href="#/en/products/lora/lora_node/heltec_lora_node_list?id=cubecell-${searchValue}"> <strong>CubeCell LoRa Nodes</strong> </a> </p>`);
+           $("#"+product_class_name[class_num]).append(`<br><p> <a href="#/en/products/lora/lora_node/heltec_lora_node_list?id=cubecell-series"> <strong>CubeCell LoRa Nodes</strong> </a> </p>`);
         }
         /*esp32 lora*/
         if(product_class[class_num][i].a === "https://heltec.cn/project/wireless-stick"){
-           $("#"+product_class_name[class_num]).append(`<br><p> <a href="#/en/products/lora/lora_node/heltec_lora_node_list?id=esp32-lora-${searchValue}"> <strong>ESP32 LoRa</strong> </a> </p>`);
+           $("#"+product_class_name[class_num]).append(`<br><p> <a href="#/en/products/lora/lora_node/heltec_lora_node_list?id=esp32-lora-series"> <strong>ESP32 LoRa</strong> </a> </p>`);
         }
         /*stm32 lora node*/
         if(product_class[class_num][i].a === "https://heltec.cn/project/lora-node-151/"){
-           $("#"+product_class_name[class_num]).append(`<br><p> <a href="#/en/products/lora/lora_node/heltec_lora_node_list?id=stm32-lora-${searchValue}"> <strong>STM32 LoRa</strong> </a> </p>`);
+           $("#"+product_class_name[class_num]).append(`<br><p> <a href="#/en/products/lora/lora_node/heltec_lora_node_list?id=stm32-lora-series"> <strong>STM32 LoRa</strong> </a> </p>`);
         }
         /*esp32 arduino*/
         if(product_class[class_num][i].a === "https://heltec.cn/project/wifi-kit-32"){
@@ -311,13 +302,13 @@
         $("#esp8266_arduino .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/esp8266+arduino/quick_start.html");
 
         $("#oled div.item a:lt("+oled_list.length+")").append(mask_html);
-        $("#oled .mask a").attr("href", "https://docs.heltec.cn/#/en/products/display/oled/heltec_oled_display_list_eu");
+        $("#oled .mask a").attr("href", "https://docs.heltec.cn/#/en/products/display/oled/heltec_oled_display_list");
 
         $("#e_ink div.item a:lt("+e_ink_list.length+")").append(mask_html);
-        $("#e_ink .mask a").attr("href", "https://docs.heltec.cn/#/en/products/display/eink/heltec_eink_display_list_eu");
+        $("#e_ink .mask a").attr("href", "https://docs.heltec.cn/#/en/products/display/eink/heltec_eink_display_list");
 
         $("#accessories div.item a:lt("+accessories_list.length+")").append(mask_html);
-        $("#accessories .mask a").attr("href", "#");
+        $("#accessories .mask a").attr("href", "javascript:void(0)");
         
         anchor_search();
         scrollFunc();
