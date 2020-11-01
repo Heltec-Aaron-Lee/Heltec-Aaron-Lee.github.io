@@ -181,7 +181,7 @@
         /*oled screen*/
         /*0.49*/
         if(product_class[class_num][i].p === '0.49"White IIC'){
-            $("#"+product_class_name[class_num]).append('<br><p> <a href="#/en/products/display/oled/heltec_oled_display_list_eu"> <strong>OLED</strong> </a> </p> <p>0.49" OLED Display</p>');
+            $("#"+product_class_name[class_num]).append('<br><p> <a href="#/en/products/display/oled/heltec_oled_display_list"> <strong>OLED</strong> </a> </p> <p>0.49" OLED Display</p>');
         }
         /*0.91*/
         if(product_class[class_num][i].p === '0.91"White IIC'){
@@ -202,7 +202,7 @@
         /* e-ink screen*/
         /*1.54" */
         if(product_class[class_num][i].img === "http://resource.heltec.cn/img/docs/e_ink/154bw.jpg"){
-           $("#"+product_class_name[class_num]).append('<br><p> <a href="#/en/products/display/eink/heltec_eink_display_list_eu"> <strong>E-ink</strong> </a> </p> <p>1.54" E-ink Display</p>');
+           $("#"+product_class_name[class_num]).append('<br><p> <a href="#/en/products/display/eink/heltec_eink_display_list"> <strong>E-ink</strong> </a> </p> <p>1.54" E-ink Display</p>');
         } 
         /*2.13" */
         if(product_class[class_num][i].img === "http://resource.heltec.cn/img/docs/e_ink/213bw.jpg"){
