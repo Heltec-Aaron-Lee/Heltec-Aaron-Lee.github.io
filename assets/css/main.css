@@ -1039,75 +1039,35 @@ mark {
     background-color: rgb(15, 194, 215);
 }
 
-/* .anchor-box a:first-child {
-    border-top-right-radius: 5px;
-    background-color: rgb(15, 194, 237) ;
-}
-
-.anchor-box a {
-    background-color: rgb(15, 194, 237) ;
-} */
-
 .anchor-box a:nth-child(8) {
     /* border-bottom-right-radius: 5px; */
     background-color: rgb(15, 194, 237) ;
 }
 .anchor-box a:nth-child(9) {
-    border-bottom-right-radius: 5px;
     background-color: rgb(15, 194, 255) ;
 }
-
-#gateway strong:hover {
-    background-color: rgba(15, 194, 237,0.3);
+.anchor-box a:nth-child(10) {
+    border-bottom-right-radius: 5px;
+    background-color: hsla(195, 91%, 50%, 0.842);
 }
 
-#cubecell strong:hover {
-    background-color: rgba(15, 194, 237,0.3);
-}
-
-#esp32_lora strong:hover {
-    background-color: rgba(15, 194, 237,0.3);
-}
-
-#stm32_lora strong:hover {
-    background-color: rgba(15, 194, 237,0.3);
-}
-
-#esp32_arduino strong:hover {
-    background-color: rgba(15, 194, 237,0.3);
-}
-
-#esp8266_arduino strong:hover {
-    background-color: rgba(15, 194, 237,0.3);
-}
-
-#oled strong:hover {
-    background-color: rgba(15, 194, 237,0.3);
-}
-
+#gateway strong:hover,
+#cubecell strong:hover,
+#esp32_lora strong:hover,
+#stm32_lora strong:hover,
+#esp32_arduino strong:hover,
+#esp8266_arduino strong:hover,
+#oled strong:hover,
 #e_ink strong:hover {
     background-color: rgba(15, 194, 237,0.3);
 }
-/* #accessories strong:hover {
-    background-color: rgba(15, 194, 237,0.3);
-} */
 
-/* .anchor-active{
-    background-color: rgb(15, 93, 237) !important;
-    box-shadow: 0 10px 30px 0 rgba(51,51,51,.5) !important;
-    -moz-box-shadow: 0 10px 30px 0 rgba(51,51,51,.5) !important;
-    -webkit-box-shadow: 0 10px 30px 0 rgba(51,51,51,.5) !important;
-} */
-
-/* .anchor-quiet {
-    background-color: rgb(15, 93, 237) !important;
-    box-shadow: 0 10px 30px 0 rgba(51,51,51,.5) !important;
-    -moz-box-shadow: 0 10px 30px 0 rgba(51,51,51,.5) !important;
-    -webkit-box-shadow: 0 10px 30px 0 rgba(51,51,51,.5) !important;
-} */
-
-
-
+#touch_key
+.item>a 
+img {
+    /* width: 220px;
+    height: 97px; */
+}
 
 @media screen and (max-width: 1450px) {
     .anchor-box {
@@ -1137,14 +1097,4 @@ mark {
         flex-direction:column;
         z-index: 9999;
     }
-
-    /* .anchor-active {
-        float: left;
-        transform: translateX(-600px) !important;
-    }
-
-    .anchor-quiet {
-        float: left;
-        transform: translateX(-600px) !important;
-    } */
 }

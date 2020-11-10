@@ -144,9 +144,13 @@
       {a:'https://heltec.org/product/m01-converter/', img:'http://resource.heltec.cn/img/docs/accessories/M01_To_RPI.jpg',p:'HT-M01 to RPI Special converter'},
    ];
 
+   const touchKeyList = [
+      {a: 'https://heltec.org/project/touch-button/', img: 'http://resource.heltec.cn/img/docs/touch_key_1.jpg', p: 'Touch Key'}
+   ]
+
     // var product = [core,module,unit,base,application,accessory,aluminium];
-    var product_class = [gateway_list,cubecell_list,esp32_lora_list,stm32_lora_list,esp32_arduino_list,esp8266_arduino_list,oled_list,e_ink_list, accessories_list];
-    var product_class_name = ["gateway","cubecell","esp32_lora","stm32_lora","esp32_arduino","esp8266_arduino","oled","e_ink", "accessories"];
+    var product_class = [gateway_list,cubecell_list,esp32_lora_list,stm32_lora_list,esp32_arduino_list,esp8266_arduino_list,oled_list,e_ink_list, accessories_list, touchKeyList];
+    var product_class_name = ["gateway","cubecell","esp32_lora","stm32_lora","esp32_arduino","esp8266_arduino","oled","e_ink", "accessories", 'touch_key'];
     
     for (var i=0; i<product_class_name.length; i++){
       $(".product_page").append("<div></div>");
@@ -238,6 +242,13 @@
          if(product_class[class_num][i].a === 'https://heltec.org/product/solar-charging-panel/' ){
             $("#"+product_class_name[class_num]).append('<br><p><strong>Accessories</strong></p>');
          }
+
+                 //touch key
+        if(product_class[class_num][i].a === 'https://heltec.org/project/touch-button/' ){
+           $("#"+product_class_name[class_num]).append('<br><p><strong>Touch Key</strong></p>');
+        }
+
+
          $("#"+product_class_name[class_num]).append("<div class='item'><a><img><p class='item-title'></p><br></a></div> ");//<br>不能少
          $("#"+product_class_name[class_num]+" .item:last-child a").attr("href", product_class[class_num][i].a);//允许图片链接
          $("#"+product_class_name[class_num]+" .item:last-child img").attr("src", product_class[class_num][i].img);//产品的图片
@@ -308,6 +319,9 @@
 
          $("#accessories div.item a:lt("+accessories_list.length+")").append(mask_html);//lt后面括号内的数字代表该类中需要添加掩盖页的数量
          $("#accessories .mask a").attr("href", "javascript:void(0)");
+
+         $(`#touch_key div.item a:lt(${touchKeyList.length})`).append(mask_html);
+         $('#touch_key .mask a').attr('href', 'javascript:void(0)');
          
          anchor_search();
          scrollFunc();
