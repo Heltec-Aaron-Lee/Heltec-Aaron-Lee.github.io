@@ -7,48 +7,48 @@
 <script>
     var gateway_list = [
       //Core
-      {a:"https://heltec.org/project/ht-m01", img:"http://resource.heltec.cn/img/docs/ht_m01.jpg", p:"HT-M01通信验证LoRa网关"},
-      {a:"https://heltec.org/project/ht-m02", img:"http://resource.heltec.cn/img/docs/ht_m02.jpg", p:"HT-M02边缘计算LoRa网关"},
+      {a:"https://heltec.org/project/ht-m01", img:"https://resource.heltec.cn/img/docs/ht_m01.jpg", p:"HT-M01通信验证LoRa网关"},
+      {a:"https://heltec.org/project/ht-m02", img:"https://resource.heltec.cn/img/docs/ht_m02.jpg", p:"HT-M02边缘计算LoRa网关"},
       {a:'https://heltec.org/project/ht-m00', img:'https://resource.heltec.cn/img/docs/ht_m00.jpg', p:'HT-M00双通道LoRa网关'}
     ];
     
     var cubecell_list = [
       //CubeCell
-      {a:"https://heltec.org/project/htcc-ab01", img:"http://resource.heltec.cn/img/docs/cubecell/htcc-ab01.jpg", p:"CubeCell Dev-Board"},
-      {a:"https://heltec.org/project/htcc-ac01", img:"http://resource.heltec.cn/img/docs/cubecell/htcc-ac01.jpg", p:"CubeCell Capsule Sensor"},
-      {a:"https://heltec.org/project/htcc-am01", img:"http://resource.heltec.cn/img/docs/cubecell/htcc-am01.jpg", p:"CubeCell Module"},
-      {a: 'https://heltec.org/project/htcc-ab02', img: 'http://resource.heltec.cn/img/docs/cubecell/HTCC_AB02_E.jpg', p: 'CubeCell Dev-Board Plus'},
-      {a: 'https://heltec.org/project/htcc-ab02s/', img: 'http://resource.heltec.cn/img/docs/cubecell/HTCC_AB02S_E.jpg', p: 'CubeCell GPS-6502'},
-      {a: 'https://heltec.org/project/htcc-ab02a/', img: 'http://resource.heltec.cn/img/docs/cubecell/HTCC_AB02A_E.jpg', p: 'CubeCell 1/2AA Node'},
-      {a: 'https://heltec.org/project/htcc-ac02/', img: 'http://resource.heltec.cn/img/docs/cubecell/HTCC_AC02_E.jpg', p: 'CubeCell Capsule Solar Sensor'},
-      {a: 'https://heltec.org/project/htcc-am02/', img: 'http://resource.heltec.cn/img/docs/cubecell/HTCC_AM02_E.jpg', p: 'CubeCell Module Plus'}
+      {a:"https://heltec.org/project/htcc-ab01", img:"https://resource.heltec.cn/img/docs/cubecell/htcc-ab01.jpg", p:"CubeCell Dev-Board"},
+      {a:"https://heltec.org/project/htcc-ac01", img:"https://resource.heltec.cn/img/docs/cubecell/htcc-ac01.jpg", p:"CubeCell Capsule Sensor"},
+      {a:"https://heltec.org/project/htcc-am01", img:"https://resource.heltec.cn/img/docs/cubecell/htcc-am01.jpg", p:"CubeCell Module"},
+      {a: 'https://heltec.org/project/htcc-ab02', img: 'https://resource.heltec.cn/img/docs/cubecell/HTCC_AB02_E.jpg', p: 'CubeCell Dev-Board Plus'},
+      {a: 'https://heltec.org/project/htcc-ab02s/', img: 'https://resource.heltec.cn/img/docs/cubecell/HTCC_AB02S_E.jpg', p: 'CubeCell GPS-6502'},
+      {a: 'https://heltec.org/project/htcc-ab02a/', img: 'https://resource.heltec.cn/img/docs/cubecell/HTCC_AB02A_E.jpg', p: 'CubeCell 1/2AA Node'},
+      {a: 'https://heltec.org/project/htcc-ac02/', img: 'https://resource.heltec.cn/img/docs/cubecell/HTCC_AC02_E.jpg', p: 'CubeCell Capsule Solar Sensor'},
+      {a: 'https://heltec.org/project/htcc-am02/', img: 'https://resource.heltec.cn/img/docs/cubecell/HTCC_AM02_E.jpg', p: 'CubeCell Module Plus'}
     ];
     
     var esp32_lora_list = [
       //esp32 lora node
-      {a:"https://heltec.org/project/wireless-stick", img:"http://resource.heltec.cn/img/docs/wireless_stick.jpg",p:"Wireless Stick"},
-      {a:"https://heltec.org/project/wifi-lora-32", img:"http://resource.heltec.cn/img/docs/wifi_lora_32.jpg",p:"WiFi LoRa 32"},
-      {a:"https://heltec.org/project/wireless-stick-lite", img:"http://resource.heltec.cn/img/docs/wireless_stick_lite.jpg",p:"WirelessStick lite"},
-      {a:"https://heltec.org/project/wireless-shell", img:"http://resource.heltec.cn/img/docs/wireless_shell.jpg",p:"Wireless Shell"},
+      {a:"https://heltec.org/project/wireless-stick", img:"https://resource.heltec.cn/img/docs/wireless_stick.jpg",p:"Wireless Stick"},
+      {a:"https://heltec.org/project/wifi-lora-32", img:"https://resource.heltec.cn/img/docs/wifi_lora_32.jpg",p:"WiFi LoRa 32"},
+      {a:"https://heltec.org/project/wireless-stick-lite", img:"https://resource.heltec.cn/img/docs/wireless_stick_lite.jpg",p:"WirelessStick lite"},
+      {a:"https://heltec.org/project/wireless-shell", img:"https://resource.heltec.cn/img/docs/wireless_shell.jpg",p:"Wireless Shell"},
     ];
     
     var stm32_lora_list = [
       //stm32 lora node
-      {a:"https://heltec.org/project/lora-node-151/", img:"http://resource.heltec.cn/img/docs/lora_node_151.jpg",p:"LoRa Node 151"},
-      {a:"https://heltec.org/project/turtle", img:"http://resource.heltec.cn/img/docs/turtle.jpg",p:"Turtle"},
-      {a:"https://heltec.org/project/lora-kit-151/", img:"http://resource.heltec.cn/img/docs/lora_kit_151.jpg",p:"LoRa kit 151"},
+      {a:"https://heltec.org/project/lora-node-151/", img:"https://resource.heltec.cn/img/docs/lora_node_151.jpg",p:"LoRa Node 151"},
+      {a:"https://heltec.org/project/turtle", img:"https://resource.heltec.cn/img/docs/turtle.jpg",p:"Turtle"},
+      {a:"https://heltec.org/project/lora-kit-151/", img:"https://resource.heltec.cn/img/docs/lora_kit_151.jpg",p:"LoRa kit 151"},
     ];
 
 
    var esp32_arduino_list = [
       //esp32 
-      {a:"https://heltec.org/project/wifi-kit-32", img:"http://resource.heltec.cn/img/docs/wifi_kit_32.jpg",p:"WiFi Kit 32"}
+      {a:"https://heltec.org/project/wifi-kit-32", img:"https://resource.heltec.cn/img/docs/wifi_kit_32.jpg",p:"WiFi Kit 32"}
    ];
 
 
     var esp8266_arduino_list = [
       //esp8266
-      {a:"https://heltec.org/project/wifi-kit-8", img:"http://resource.heltec.cn/img/docs/wifi_kit_8.jpg",p:"WiFi Kit 8"}
+      {a:"https://heltec.org/project/wifi-kit-8", img:"https://resource.heltec.cn/img/docs/wifi_kit_8.jpg",p:"WiFi Kit 8"}
     ];
 
 
@@ -57,95 +57,95 @@
    const oled_list = [
       //oled screen
       //0.49"
-      {a:"https://heltec.org/project/049-oled", img:"http://resource.heltec.cn/img/docs/oled/0.49iic.jpg", p:'0.49"White IIC'},
+      {a:"https://heltec.org/project/049-oled", img:"https://resource.heltec.cn/img/docs/oled/0.49iic.jpg", p:'0.49"White IIC'},
       //0.91"
-      {a:"https://heltec.org/project/091-oled", img:"http://resource.heltec.cn/img/docs/oled/0.91iic.jpg", p:'0.91"White IIC'},
+      {a:"https://heltec.org/project/091-oled", img:"https://resource.heltec.cn/img/docs/oled/0.91iic.jpg", p:'0.91"White IIC'},
       //0.96"
-      {a:"https://heltec.org/project/096-oled", img:"http://resource.heltec.cn/img/docs/oled/0.96ssd1306_blue.jpg",p:'0.96" Blue SPI'},  
-      {a:"https://heltec.org/project/096-oled", img:"http://resource.heltec.cn/img/docs/oled/0.96ssd1306.jpg",p:'0.96" Blue&Yellow SPI'}, 
-      {a:"https://heltec.org/project/096-oled", img:"http://resource.heltec.cn/img/docs/oled/0.96ssd1306_white.jpg",p:'0.96" White SPI'},
-      {a:"https://heltec.org/project/096-oled", img:"http://resource.heltec.cn/img/docs/oled/0.96ssd1306_iic_yellow.jpg",p:'0.96" Blue&Yellow IIC'}, 
-      {a:"https://heltec.org/project/096-oled", img:"http://resource.heltec.cn/img/docs/oled/0.96ssd1306_iic_white.jpg",p:'0.96" White IIC'}, 
-      {a:"https://heltec.org/project/096-oled", img:"http://resource.heltec.cn/img/docs/oled/0.96ssd1306_iic_blue.jpg",p:'0.96" Blue IIC'}, 
+      {a:"https://heltec.org/project/096-oled", img:"https://resource.heltec.cn/img/docs/oled/0.96ssd1306_blue.jpg",p:'0.96" Blue SPI'},  
+      {a:"https://heltec.org/project/096-oled", img:"https://resource.heltec.cn/img/docs/oled/0.96ssd1306.jpg",p:'0.96" Blue&Yellow SPI'}, 
+      {a:"https://heltec.org/project/096-oled", img:"https://resource.heltec.cn/img/docs/oled/0.96ssd1306_white.jpg",p:'0.96" White SPI'},
+      {a:"https://heltec.org/project/096-oled", img:"https://resource.heltec.cn/img/docs/oled/0.96ssd1306_iic_yellow.jpg",p:'0.96" Blue&Yellow IIC'}, 
+      {a:"https://heltec.org/project/096-oled", img:"https://resource.heltec.cn/img/docs/oled/0.96ssd1306_iic_white.jpg",p:'0.96" White IIC'}, 
+      {a:"https://heltec.org/project/096-oled", img:"https://resource.heltec.cn/img/docs/oled/0.96ssd1306_iic_blue.jpg",p:'0.96" Blue IIC'}, 
       // 1.3"
-      {a:"https://heltec.org/project/13-oled", img:"http://resource.heltec.cn/img/docs/oled/1.3sh1106_blue.jpg",p:'1.3" Blue SPI'},  
-      {a:"https://heltec.org/project/13-oled", img:"http://resource.heltec.cn/img/docs/oled/1.3sh1106_white.jpg",p:'1.3" White SPI'},
-      {a:"https://heltec.org/project/13-oled", img:"http://resource.heltec.cn/img/docs/oled/1.3sh1106_iic_blue.jpg",p:'1.3" Blue IIC'},
-      {a:"https://heltec.org/project/13-oled", img:"http://resource.heltec.cn/img/docs/oled/1.3sh1106_iic_white.jpg",p:'1.3" White IIC '},
+      {a:"https://heltec.org/project/13-oled", img:"https://resource.heltec.cn/img/docs/oled/1.3sh1106_blue.jpg",p:'1.3" Blue SPI'},  
+      {a:"https://heltec.org/project/13-oled", img:"https://resource.heltec.cn/img/docs/oled/1.3sh1106_white.jpg",p:'1.3" White SPI'},
+      {a:"https://heltec.org/project/13-oled", img:"https://resource.heltec.cn/img/docs/oled/1.3sh1106_iic_blue.jpg",p:'1.3" Blue IIC'},
+      {a:"https://heltec.org/project/13-oled", img:"https://resource.heltec.cn/img/docs/oled/1.3sh1106_iic_white.jpg",p:'1.3" White IIC '},
       //1.54"
-      {a:"https://heltec.org/project/154-oled", img:"http://resource.heltec.cn/img/docs/oled/1.54spd0301_white.jpg",p:'1.54" White SPI'}, 
-      {a:"https://heltec.org/project/154-oled", img:"http://resource.heltec.cn/img/docs/oled/1.54spd0301_iic_white.jpg",p:'1.54" White IIC'} 
+      {a:"https://heltec.org/project/154-oled", img:"https://resource.heltec.cn/img/docs/oled/1.54spd0301_white.jpg",p:'1.54" White SPI'}, 
+      {a:"https://heltec.org/project/154-oled", img:"https://resource.heltec.cn/img/docs/oled/1.54spd0301_iic_white.jpg",p:'1.54" White IIC'} 
     ];
 
    const e_ink_list = [
       //e-ink screen
       //1.54"
-      {a:"https://heltec.org/project/154-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/154bw.jpg",p:'1.54" E-ink Display(B&W)'},
-      {a:"https://heltec.org/project/154-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/154bwr.jpg",p:'1.54" E-ink Display(B&W&R)'},
-      {a:"https://heltec.org/project/154-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/154bwy.jpg",p:'1.54" E-ink Display(B&W&Y)'},
-      {a:"https://heltec.org/project/154-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/154bwm.jpg",p:'1.54" E-ink Module(B&W)'},
+      {a:"https://heltec.org/project/154-e-ink/", img:"https://resource.heltec.cn/img/docs/e_ink/154bw.jpg",p:'1.54" E-ink Display(B&W)'},
+      {a:"https://heltec.org/project/154-e-ink/", img:"https://resource.heltec.cn/img/docs/e_ink/154bwr.jpg",p:'1.54" E-ink Display(B&W&R)'},
+      {a:"https://heltec.org/project/154-e-ink/", img:"https://resource.heltec.cn/img/docs/e_ink/154bwy.jpg",p:'1.54" E-ink Display(B&W&Y)'},
+      {a:"https://heltec.org/project/154-e-ink/", img:"https://resource.heltec.cn/img/docs/e_ink/154bwm.jpg",p:'1.54" E-ink Module(B&W)'},
       // 2.13"
-      {a:"https://heltec.org/project/213-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/213bw.jpg",p:'2.13" E-ink Display(B&W)'},
-      {a:"https://heltec.org/project/213-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/213bwr.jpg",p:'2.13" E-ink Display(B&W&R)'},
-      {a:"https://heltec.org/project/213-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/213bwy.jpg",p:'2.13" E-ink Display(B&W&Y)'},
-      {a:"https://heltec.org/project/213-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/213bwf.jpg",p:'2.13" E-ink Display(B&W)'},
-      {a:"https://heltec.org/project/213-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/213bwrm.jpg",p:'2.13" E-ink Module(B&W)'},
+      {a:"https://heltec.org/project/213-e-ink/", img:"https://resource.heltec.cn/img/docs/e_ink/213bw.jpg",p:'2.13" E-ink Display(B&W)'},
+      {a:"https://heltec.org/project/213-e-ink/", img:"https://resource.heltec.cn/img/docs/e_ink/213bwr.jpg",p:'2.13" E-ink Display(B&W&R)'},
+      {a:"https://heltec.org/project/213-e-ink/", img:"https://resource.heltec.cn/img/docs/e_ink/213bwy.jpg",p:'2.13" E-ink Display(B&W&Y)'},
+      {a:"https://heltec.org/project/213-e-ink/", img:"https://resource.heltec.cn/img/docs/e_ink/213bwf.jpg",p:'2.13" E-ink Display(B&W)'},
+      {a:"https://heltec.org/project/213-e-ink/", img:"https://resource.heltec.cn/img/docs/e_ink/213bwrm.jpg",p:'2.13" E-ink Module(B&W)'},
       //2.6"
-      {a:"https://heltec.org/project/26-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/260bw.jpg",p:'2.6" E-ink Display(B&W)'},
-      {a:"https://heltec.org/project/26-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/260bwr.jpg",p:'2.6" E-ink Display(B&W&R)'},
+      {a:"https://heltec.org/project/26-e-ink/", img:"https://resource.heltec.cn/img/docs/e_ink/260bw.jpg",p:'2.6" E-ink Display(B&W)'},
+      {a:"https://heltec.org/project/26-e-ink/", img:"https://resource.heltec.cn/img/docs/e_ink/260bwr.jpg",p:'2.6" E-ink Display(B&W&R)'},
       //2.7"
-      {a:"https://heltec.org/project/27-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/270bw.jpg",p:'2.7" E-ink Display(B&W)'},
-      {a:"https://heltec.org/project/27-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/270bwr.jpg",p:'2.7" E-ink Display(B&W&R)'},
+      {a:"https://heltec.org/project/27-e-ink/", img:"https://resource.heltec.cn/img/docs/e_ink/270bw.jpg",p:'2.7" E-ink Display(B&W)'},
+      {a:"https://heltec.org/project/27-e-ink/", img:"https://resource.heltec.cn/img/docs/e_ink/270bwr.jpg",p:'2.7" E-ink Display(B&W&R)'},
       //2.9"
-      {a:"https://heltec.org/project/290-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/290bw.jpg",p:'2.9" E-ink Display(B&W)'},
-      {a:"https://heltec.org/project/290-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/290bwr.jpg",p:'2.9" E-ink Display(B&W&R)'},
-      {a:"https://heltec.org/project/290-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/290bwy.jpg",p:'2.9" E-ink Display(B&W&Y)'},
-      {a:"https://heltec.org/project/290-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/290bwf.jpg",p:'2.9" E-ink Display(B&W)'},
-      {a:"https://heltec.org/project/290-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/290bwm.jpg",p:'2.9" E-ink Module(B&W)'},
+      {a:"https://heltec.org/project/290-e-ink/", img:"https://resource.heltec.cn/img/docs/e_ink/290bw.jpg",p:'2.9" E-ink Display(B&W)'},
+      {a:"https://heltec.org/project/290-e-ink/", img:"https://resource.heltec.cn/img/docs/e_ink/290bwr.jpg",p:'2.9" E-ink Display(B&W&R)'},
+      {a:"https://heltec.org/project/290-e-ink/", img:"https://resource.heltec.cn/img/docs/e_ink/290bwy.jpg",p:'2.9" E-ink Display(B&W&Y)'},
+      {a:"https://heltec.org/project/290-e-ink/", img:"https://resource.heltec.cn/img/docs/e_ink/290bwf.jpg",p:'2.9" E-ink Display(B&W)'},
+      {a:"https://heltec.org/project/290-e-ink/", img:"https://resource.heltec.cn/img/docs/e_ink/290bwm.jpg",p:'2.9" E-ink Module(B&W)'},
       //4.2"
-      {a:"https://heltec.org/project/42-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/420bw.jpg",p:'4.2" E-ink Display(B&W)'},
-      {a:"https://heltec.org/project/42-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/420bwr.jpg",p:'4.2" E-ink Display(B&W&R)'},
-      {a:"https://heltec.org/project/42-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/420bwy.jpg",p:'4.2" E-ink Display(B&W&Y)'},
+      {a:"https://heltec.org/project/42-e-ink/", img:"https://resource.heltec.cn/img/docs/e_ink/420bw.jpg",p:'4.2" E-ink Display(B&W)'},
+      {a:"https://heltec.org/project/42-e-ink/", img:"https://resource.heltec.cn/img/docs/e_ink/420bwr.jpg",p:'4.2" E-ink Display(B&W&R)'},
+      {a:"https://heltec.org/project/42-e-ink/", img:"https://resource.heltec.cn/img/docs/e_ink/420bwy.jpg",p:'4.2" E-ink Display(B&W&Y)'},
       //5.83"
-      {a:"https://heltec.org/project/583-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/583bw.jpg",p:'5.83" E-ink Display(B&W)'},
-      {a:"https://heltec.org/project/583-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/583bwr.jpg",p:'5.83" E-ink Display(B&W&R)'},
-      {a:"https://heltec.org/project/583-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/583bwy.jpg",p:'5.83" E-ink Display(B&W&Y)'},
+      {a:"https://heltec.org/project/583-e-ink/", img:"https://resource.heltec.cn/img/docs/e_ink/583bw.jpg",p:'5.83" E-ink Display(B&W)'},
+      {a:"https://heltec.org/project/583-e-ink/", img:"https://resource.heltec.cn/img/docs/e_ink/583bwr.jpg",p:'5.83" E-ink Display(B&W&R)'},
+      {a:"https://heltec.org/project/583-e-ink/", img:"https://resource.heltec.cn/img/docs/e_ink/583bwy.jpg",p:'5.83" E-ink Display(B&W&Y)'},
       //7.5"
-      {a:"https://heltec.org/project/75-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/750bw.jpg",p:'7.5" E-ink Display(B&W)'},
-      {a:"https://heltec.org/project/75-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/750bwr.jpg",p:'7.5" E-ink Display(B&W&R)'},
-      {a:"https://heltec.org/project/75-e-ink/", img:"http://resource.heltec.cn/img/docs/e_ink/750bwy.jpg",p:'7.5" E-ink Display(B&W&Y)'}
+      {a:"https://heltec.org/project/75-e-ink/", img:"https://resource.heltec.cn/img/docs/e_ink/750bw.jpg",p:'7.5" E-ink Display(B&W)'},
+      {a:"https://heltec.org/project/75-e-ink/", img:"https://resource.heltec.cn/img/docs/e_ink/750bwr.jpg",p:'7.5" E-ink Display(B&W&R)'},
+      {a:"https://heltec.org/project/75-e-ink/", img:"https://resource.heltec.cn/img/docs/e_ink/750bwy.jpg",p:'7.5" E-ink Display(B&W&Y)'}
     ];
 
 
    const accessories_list = [
       // solar charging panel
-      {a:'https://heltec.org/product/solar-charging-panel/', img:'http://resource.heltec.cn/img/docs/accessories/Solar.jpg', p:'Solar charging panel'},
+      {a:'https://heltec.org/product/solar-charging-panel/', img:'https://resource.heltec.cn/img/docs/accessories/Solar.jpg', p:'Solar charging panel'},
       //wireless shell test bottom board
-      {a:' https://heltec.org/product/shell-bottom/', img:'http://resource.heltec.cn/img/docs/accessories/test_bottom_board.jpg', p:'Wireless Shell Test Bottom Board'},
+      {a:' https://heltec.org/product/shell-bottom/', img:'https://resource.heltec.cn/img/docs/accessories/test_bottom_board.jpg', p:'Wireless Shell Test Bottom Board'},
       //bread board
-      {a:' https://heltec.org/product/bread-board/', img:'http://resource.heltec.cn/img/docs/accessories/bread_board.jpg',p:'Bread Board'},
+      {a:' https://heltec.org/product/bread-board/', img:'https://resource.heltec.cn/img/docs/accessories/bread_board.jpg',p:'Bread Board'},
       //BH1750 light intensity sensor
-      {a:'https://heltec.org/product/capsule-sensor/', img:'http://resource.heltec.cn/img/docs/accessories/BH1750.jpg', p:'BH1750 Light Intensity Sensor'},
+      {a:'https://heltec.org/product/capsule-sensor/', img:'https://resource.heltec.cn/img/docs/accessories/BH1750.jpg', p:'BH1750 Light Intensity Sensor'},
       //BMP180 barometric pressure sensor
-      {a:'https://heltec.org/product/capsule-sensor/', img:'http://resource.heltec.cn/img/docs/accessories/BMP180.jpg', p:'BMP180 Barometric Pressure Sensor'},
+      {a:'https://heltec.org/product/capsule-sensor/', img:'https://resource.heltec.cn/img/docs/accessories/BMP180.jpg', p:'BMP180 Barometric Pressure Sensor'},
       //CCS811B Air Quality Sensor
-      {a:'https://heltec.org/product/capsule-sensor/', img:'http://resource.heltec.cn/img/docs/accessories/CCS811B.jpg', p:'CCS811B Air Quality Sensor'},
+      {a:'https://heltec.org/product/capsule-sensor/', img:'https://resource.heltec.cn/img/docs/accessories/CCS811B.jpg', p:'CCS811B Air Quality Sensor'},
       //DCH1080 Temperature and Humidity Sensor
-      {a:'https://heltec.org/product/capsule-sensor/', img:'http://resource.heltec.cn/img/docs/accessories/HDC1080.jpg', p:'DCH1080 Temperature and Humidity Sensor'},
+      {a:'https://heltec.org/product/capsule-sensor/', img:'https://resource.heltec.cn/img/docs/accessories/HDC1080.jpg', p:'DCH1080 Temperature and Humidity Sensor'},
       //MPU9250 9-axis Attitude Sensor
-      {a:'https://heltec.org/product/capsule-sensor/', img:'http://resource.heltec.cn/img/docs/accessories/MPU9250.jpg', p:'MPU9250 9-axis Attitude Sensor'},
+      {a:'https://heltec.org/product/capsule-sensor/', img:'https://resource.heltec.cn/img/docs/accessories/MPU9250.jpg', p:'MPU9250 9-axis Attitude Sensor'},
       //
       // {a:'https://heltec.org/product/touch-button/', img:'https://heltec.org/wp-content/uploads/2019/04/%E8%93%9D800.png', p:'Touch Button'}
       //cubecell-capsule-debug
-      {a:'https://heltec.org/product/cubecell-capsule-debug/', img:'http://resource.heltec.cn/img/docs/accessories/Debug_Board.jpg', p:'Cubecell Capsule Debug'},
+      {a:'https://heltec.org/product/cubecell-capsule-debug/', img:'https://resource.heltec.cn/img/docs/accessories/Debug_Board.jpg', p:'Cubecell Capsule Debug'},
       //E-Ink Display Module Acrylic protect Surface
-      {a:'https://heltec.org/product/acrylic-surface/', img:'http://resource.heltec.cn/img/docs/accessories/protect_surface.jpg',p:'E-Ink Display Module Acrylic Protect Surface'},
+      {a:'https://heltec.org/product/acrylic-surface/', img:'https://resource.heltec.cn/img/docs/accessories/protect_surface.jpg',p:'E-Ink Display Module Acrylic Protect Surface'},
       //HT-M01 to RPI Special converter
-      {a:'https://heltec.org/product/m01-converter/', img:'http://resource.heltec.cn/img/docs/accessories/M01_To_RPI.jpg',p:'HT-M01 to RPI Special converter'},
+      {a:'https://heltec.org/product/m01-converter/', img:'https://resource.heltec.cn/img/docs/accessories/M01_To_RPI.jpg',p:'HT-M01 to RPI Special converter'},
    ];
 
    const touchKeyList = [
-      {a: 'https://heltec.org/project/touch-button/', img: 'http://resource.heltec.cn/img/docs/touch_key_1.jpg', p: 'Touch Key'}
+      {a: 'https://heltec.org/project/touch-button/', img: 'https://resource.heltec.cn/img/docs/touch_key_1.jpg', p: 'Touch Key'}
    ]
 
     // var product = [core,module,unit,base,application,accessory,aluminium];
@@ -194,11 +194,11 @@
                $("#"+product_class_name[class_num]).append('<br> <p>0.91" OLED Display</p>');
          }
          /*0.96"*/
-         if(product_class[class_num][i].img == "http://resource.heltec.cn/img/docs/oled/0.96ssd1306_blue.jpg"){
+         if(product_class[class_num][i].img == "https://resource.heltec.cn/img/docs/oled/0.96ssd1306_blue.jpg"){
                $("#"+product_class_name[class_num]).append('<br><p>0.96" OLED Display</p>');
          }
          /*1.3"*/
-         if (product_class[class_num][i].img == "http://resource.heltec.cn/img/docs/oled/1.3sh1106_blue.jpg") {
+         if (product_class[class_num][i].img == "https://resource.heltec.cn/img/docs/oled/1.3sh1106_blue.jpg") {
                $("#"+product_class_name[class_num]).append('<br><p>1.3" OLED Display</p>');
          }
          /*1.54"*/
@@ -207,35 +207,35 @@
          }
          /* e-ink screen*/
          /*1.54" */
-         if(product_class[class_num][i].img == "http://resource.heltec.cn/img/docs/e_ink/154bw.jpg"){
+         if(product_class[class_num][i].img == "https://resource.heltec.cn/img/docs/e_ink/154bw.jpg"){
             $("#"+product_class_name[class_num]).append('<br><p> <a href="#/zh_CN/products/display/eink/heltec_eink_display_list"> <strong>墨水屏/电子纸</strong> </a> </p> <p>1.54" E-ink Display</p> ');
          } 
          /*2.13" */
-         if(product_class[class_num][i].img == "http://resource.heltec.cn/img/docs/e_ink/213bw.jpg"){
+         if(product_class[class_num][i].img == "https://resource.heltec.cn/img/docs/e_ink/213bw.jpg"){
             $("#"+product_class_name[class_num]).append('<br><p>2.13" E-ink Display</p>');
          } 
          /*2.6" */
-         if(product_class[class_num][i].img == "http://resource.heltec.cn/img/docs/e_ink/260bw.jpg"){
+         if(product_class[class_num][i].img == "https://resource.heltec.cn/img/docs/e_ink/260bw.jpg"){
             $("#"+product_class_name[class_num]).append('<br><p>2.6" E-ink Display</p>');
          } 
          /*2.7" */
-         if(product_class[class_num][i].img == "http://resource.heltec.cn/img/docs/e_ink/270bw.jpg"){
+         if(product_class[class_num][i].img == "https://resource.heltec.cn/img/docs/e_ink/270bw.jpg"){
             $("#"+product_class_name[class_num]).append('<br><p>2.7" E-ink Display</p>');
          } 
          /*2.9" */
-         if(product_class[class_num][i].img == "http://resource.heltec.cn/img/docs/e_ink/290bw.jpg"){
+         if(product_class[class_num][i].img == "https://resource.heltec.cn/img/docs/e_ink/290bw.jpg"){
             $("#"+product_class_name[class_num]).append('<br><p>2.9" E-ink Display</p>');
          } 
          /*4.2" */
-         if(product_class[class_num][i].img == "http://resource.heltec.cn/img/docs/e_ink/420bw.jpg"){
+         if(product_class[class_num][i].img == "https://resource.heltec.cn/img/docs/e_ink/420bw.jpg"){
             $("#"+product_class_name[class_num]).append('<br><p>4.2" E-ink Display</p>');
          } 
          /*5.83" */
-         if(product_class[class_num][i].img == "http://resource.heltec.cn/img/docs/e_ink/583bw.jpg"){
+         if(product_class[class_num][i].img == "https://resource.heltec.cn/img/docs/e_ink/583bw.jpg"){
             $("#"+product_class_name[class_num]).append('<br><p>5.83" E-ink Display</p>');
          } 
          /*7.5" */
-         if(product_class[class_num][i].img == "http://resource.heltec.cn/img/docs/e_ink/750bw.jpg"){
+         if(product_class[class_num][i].img == "https://resource.heltec.cn/img/docs/e_ink/750bw.jpg"){
             $("#"+product_class_name[class_num]).append('<br><p>7.5" E-ink Display</p>');
          } 
          /*Accessories*/
