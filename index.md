@@ -6,10 +6,11 @@
 
 <script>
     const gateway_list = [
-      //Core
+      //LoRa Gateway
+      {a:'https://heltec.org/project/ht-m00', img:'https://resource.heltec.cn/img/docs/ht_m00.jpg', p:'HT-M00 Dual Channel LoRa Gateway'},
       {a:"https://heltec.cn/project/ht-m01", img:"https://resource.heltec.cn/img/docs/ht_m01.jpg", p:"HT-M01 PicoCell LoRa Gateway"},
+      {a:'https://heltec.org/project/ht-m01s', img: './assets/image/ht_m01s.jpg', p: 'HT-M01S Indoor LoRa Gateway'},
       {a:"https://heltec.cn/project/ht-m02", img:"https://resource.heltec.cn/img/docs/ht_m02.jpg", p:"HT-M02 Edge LoRa Gateway"},
-      {a:'https://heltec.org/project/ht-m00', img:'https://resource.heltec.cn/img/docs/ht_m00.jpg', p:'HT-M00 Dual Channel LoRa Gateway'}
     ];
     
     const cubecell_list = [
@@ -159,7 +160,7 @@
 
          //append的内容将显示在product_class.p名称的上方，并作为一行的开始
          /*lora gateway*/
-        if(product_class[class_num][i].p === "HT-M01 PicoCell LoRa Gateway"){
+        if(product_class[class_num][i].p === "HT-M00 Dual Channel LoRa Gateway"){
            $("#"+product_class_name[class_num]).append('<br><p> <a href="#/en/products/lora/lora_gateway/heltec_lora_gateway_list"> <strong>LoRa Gateway</strong> </a> </p>');
         }
         /*cubecell*/
@@ -253,24 +254,25 @@
     }
     //给lora gateway添加属性
     function appendAttr(e) {
-        const gatewayId = [
-            'htm-01',
-            'htm-02',
-            'htm-00'
-        ];
-        let 
-            nodeName = '',
-            index = 0,
-            htm_01 = document.querySelector('#gateway'),
-            nodes = convertToArray(htm_01.childNodes);
+      const gatewayId = [
+         'htm-00',
+         'htm-01',
+         'htm-01s',
+         'htm-02'
+      ];
+      let 
+         nodeName = '',
+         index = 0,
+         htm_01 = document.querySelector('#gateway'),
+         nodes = convertToArray(htm_01.childNodes);
 
-            nodes.forEach( node => {
-                if (node.nodeName.toLocaleLowerCase() === 'div') {
-                    node.setAttribute('id', gatewayId[index])
-                    index++;
-                } 
-            });
-        }
+      nodes.forEach( node => {
+            if (node.nodeName.toLocaleLowerCase() === 'div') {
+               node.setAttribute('id', gatewayId[index])
+               index++;
+            } 
+      });
+   }
    function convertToArray(nodes) {
       let array = null;
       try {
@@ -283,46 +285,46 @@
       }
       return array;
    }
-    appendAttr();
+   appendAttr();
     
-    $(document).ready(function(){
-        const mask_html = `<div class="mask"><a href="#" style="color:white;text-decoration:none" ><button type="button" class="btn-sm btn-primary mask-btn1">Docs Pages</button></a><button type="button" class="btn-sm btn-primary mask-btn2">Product Info</button></div>`;
+   $(document).ready(function(){
+      const mask_html = `<div class="mask"><a href="#" style="color:white;text-decoration:none" ><button type="button" class="btn-sm btn-primary mask-btn1">Docs Pages</button></a><button type="button" class="btn-sm btn-primary mask-btn2">Product Info</button></div>`;
 
-        $("#gateway div.item a:lt(" + gateway_list.length +")").append(mask_html);
-        $("#gateway div#htm-01 .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/gateway/ht-m01/index.html");
-        $("#gateway div#htm-02 .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/gateway/ht-m02_4g/index.html");
-        $("#gateway div#htm-00 .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/gateway/ht-m00/index.html");
+      $("#gateway div.item a:lt(" + gateway_list.length +")").append(mask_html);
+      $("#gateway div#htm-01 .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/gateway/ht-m01/index.html");
+      $("#gateway div#htm-02 .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/gateway/ht-m02_4g/index.html");
+      $("#gateway div#htm-00 .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/gateway/ht-m00/index.html");
+      $("#gateway div#htm-01s .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/gateway/ht-m01/index.html");
 
-        $("#cubecell div.item a:lt("+cubecell_list.length+")").append(mask_html);
-        $("#cubecell .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/cubecell/quick_start.html");
+      $("#cubecell div.item a:lt("+cubecell_list.length+")").append(mask_html);
+      $("#cubecell .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/cubecell/quick_start.html");
 
-        $("#esp32_lora div.item a:lt("+esp32_lora_list.length+")").append(mask_html);
-        $("#esp32_lora .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/esp32+arduino/quick_start.html");
+      $("#esp32_lora div.item a:lt("+esp32_lora_list.length+")").append(mask_html);
+      $("#esp32_lora .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/esp32+arduino/quick_start.html");
 
-        $("#stm32_lora div.item a:lt("+stm32_lora_list.length+")").append(mask_html);
-        $("#stm32_lora .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/stm32/quick_start.html");
+      $("#stm32_lora div.item a:lt("+stm32_lora_list.length+")").append(mask_html);
+      $("#stm32_lora .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/stm32/quick_start.html");
 
-        $("#esp32_arduino div.item a:lt("+esp32_arduino_list.length+")").append(mask_html);
-        $("#esp32_arduino .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/esp32+arduino/quick_start.html");
+      $("#esp32_arduino div.item a:lt("+esp32_arduino_list.length+")").append(mask_html);
+      $("#esp32_arduino .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/esp32+arduino/quick_start.html");
+   
+
+      $("#esp8266_arduino div.item a:lt("+esp8266_arduino_list.length+")").append(mask_html);
+      $("#esp8266_arduino .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/esp8266+arduino/quick_start.html");
+
+      $("#oled div.item a:lt("+oled_list.length+")").append(mask_html);
+      $("#oled .mask a").attr("href", "https://docs.heltec.cn/#/en/products/display/oled/heltec_oled_display_list");
+
+      $("#e_ink div.item a:lt("+e_ink_list.length+")").append(mask_html);
+      $("#e_ink .mask a").attr("href", "https://docs.heltec.cn/#/en/products/display/eink/heltec_eink_display_list");
+
+      $("#accessories div.item a:lt("+accessories_list.length+")").append(mask_html);
+      $("#accessories .mask a").attr("href", "javascript:void(0)");
+
+      $(`#touch_key div.item a:lt(${touchKeyList.length})`).append(mask_html);
+      $('#touch_key .mask a').attr('href', 'javascript:void(0)');
       
-
-        $("#esp8266_arduino div.item a:lt("+esp8266_arduino_list.length+")").append(mask_html);
-        $("#esp8266_arduino .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/esp8266+arduino/quick_start.html");
-
-        $("#oled div.item a:lt("+oled_list.length+")").append(mask_html);
-        $("#oled .mask a").attr("href", "https://docs.heltec.cn/#/en/products/display/oled/heltec_oled_display_list");
-
-        $("#e_ink div.item a:lt("+e_ink_list.length+")").append(mask_html);
-        $("#e_ink .mask a").attr("href", "https://docs.heltec.cn/#/en/products/display/eink/heltec_eink_display_list");
-
-        $("#accessories div.item a:lt("+accessories_list.length+")").append(mask_html);
-        $("#accessories .mask a").attr("href", "javascript:void(0)");
-
-        $(`#touch_key div.item a:lt(${touchKeyList.length})`).append(mask_html);
-        $('#touch_key .mask a').attr('href', 'javascript:void(0)');
-        
-        anchor_search();
-        scrollFunc();
-     });
-
+      anchor_search();
+      scrollFunc();
+   });
 </script>
