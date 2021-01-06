@@ -919,7 +919,6 @@ mark {
     display: block;
 }
 
-
 .faq-item .faq-title.open + .faq-answer{
     max-height: 600px;
 }
@@ -946,8 +945,6 @@ mark {
     position: relative;
     margin: 0px !important;
     padding-right: 30px !important;
-    /* width: 500px; */
-    /* overflow-x: auto; */
 }
 
 
@@ -956,7 +953,6 @@ mark {
     position: fixed;
     top: 28%;
     left: 5px;
-    /* right:70%; */
     display: -webkit-flex;
     display: flex;
     flex-direction:column;
@@ -968,46 +964,35 @@ mark {
     display: -webkit-flex;
     display: flex;
     flex-direction: row;
-    height: 40px;/*33*/
-    width: 160px;/*160*/
-    padding: 6px 0px;/*字的位置*/
+    height: 40px;
+    width: 160px;
+    padding: 6px 0px;
     text-decoration: none;
     outline: none;
     cursor: pointer;
     border: none;
-    /* border-top-right-radius: 5px;
-    border-bottom-right-radius: 5px; */
     color: #fff !important;
     font-size: 16px;
     line-height: 1.2;
     transition: all .3s ease;
-    /* background-color: rgb(97, 160, 202); */
-    /* box-shadow: 0 10px 30px 0 rgba(51,51,51,.5);
-    -moz-box-shadow: 0 10px 30px 0 rgba(51,51,51,.5);
-    -webkit-box-shadow: 0 10px 30px 0 rgba(51,51,51,.5); */
     margin-top: 0px;
+    position: relative;
+    justify-content: center;
+    align-items: center;
 } 
 
 .anchor-box > a:hover {
     width: 190px;
-    /* background-color: rgb(15, 93, 237) !important; */
-    /* background-image: url("https://heltec.org/wp-content/uploads/2019/03/logo-tab-1.png");
-    background-repeat: no-repeat;  */
-    background:url("../image/arrows.png") no-repeat;
-    background-position:0% 50%;
-    /* box-shadow: 0 10px 30px 0 rgba(255,75,90,.5) !important;
-    -moz-box-shadow: 0 10px 30px 0 rgba(255,75,90,.5) !important;
-    -webkit-box-shadow: 0 10px 30px 0 rgba(255,75,90,.5) !important; */
+    justify-content: flex-end;
 }
-
-.anchor-box span {
-    width: 160px;
-    text-align: center;
-    transition: all .3s ease;
-}
-.anchor-box span:hover {
-    width: 190px;
-    text-align: right;
+.anchor-box >
+a:hover::before {
+    content:'>>';
+    font-size: 25px;
+    font-weight: 700;
+    position: absolute;
+    top: 4px;
+    left: 4px;
 }
 
 .anchor-box a:first-child {
