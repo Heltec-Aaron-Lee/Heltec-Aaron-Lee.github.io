@@ -7,10 +7,10 @@
 <script>
     var gateway_list = [
       //LoRa Gateway
-      {a:'https://heltec.org/project/ht-m00', img:'https://resource.heltec.cn/img/docs/ht_m00.jpg', p:'HT-M00双通道LoRa网关'},
-      {a:"https://heltec.org/project/ht-m01", img:"https://resource.heltec.cn/img/docs/ht_m01.jpg", p:"HT-M01通信验证LoRa网关"},
-      {a:'https://heltec.org/project/ht-m01s', img: '../assets/image/ht_m01s.jpg', p: 'HT-M01S室内LoRa网关'},
-      {a:"https://heltec.org/project/ht-m02", img:"https://resource.heltec.cn/img/docs/ht_m02.jpg", p:"HT-M02边缘计算LoRa网关"}
+      {a:'https://heltec.org/project/ht-m00', img:'https://resource.heltec.cn/img/docs/lora_gateway/ht_m00.jpg', p:'HT-M00双通道LoRa网关'},
+      {a:"https://heltec.org/project/ht-m01", img:"https://resource.heltec.cn/img/docs/lora_gateway/ht_m01.jpg", p:"HT-M01通信验证LoRa网关"},
+      {a:'https://heltec.org/project/ht-m01s', img: 'https://resource.heltec.cn/img/docs/lora_gateway/ht_m01s.jpg', p: 'HT-M01S室内LoRa网关'},
+      {a:"https://heltec.org/project/ht-m02", img:"https://resource.heltec.cn/img/docs/lora_gateway/ht_m02.jpg", p:"HT-M02边缘计算LoRa网关"}
     ];
     
     var cubecell_list = [

@@ -7,10 +7,10 @@
 <script>
     const gateway_list = [
       //LoRa Gateway
-      {a:'https://heltec.org/project/ht-m00', img:'https://resource.heltec.cn/img/docs/ht_m00.jpg', p:'HT-M00 Dual Channel LoRa Gateway'},
-      {a:"https://heltec.cn/project/ht-m01", img:"https://resource.heltec.cn/img/docs/ht_m01.jpg", p:"HT-M01 PicoCell LoRa Gateway"},
-      {a:'https://heltec.org/project/ht-m01s', img: './assets/image/ht_m01s.jpg', p: 'HT-M01S Indoor LoRa Gateway'},
-      {a:"https://heltec.cn/project/ht-m02", img:"https://resource.heltec.cn/img/docs/ht_m02.jpg", p:"HT-M02 Edge LoRa Gateway"},
+      {a:'https://heltec.org/project/ht-m00', img:'https://resource.heltec.cn/img/docs/lora_gateway/ht_m00.jpg', p:'HT-M00 Dual Channel LoRa Gateway'},
+      {a:"https://heltec.cn/project/ht-m01", img:"https://resource.heltec.cn/img/docs/lora_gateway/ht_m01.jpg", p:"HT-M01 PicoCell LoRa Gateway"},
+      {a:'https://heltec.org/project/ht-m01s', img: 'https://resource.heltec.cn/img/docs/lora_gateway/ht_m01s.jpg', p: 'HT-M01S Indoor LoRa Gateway'},
+      {a:"https://heltec.cn/project/ht-m02", img:"https://resource.heltec.cn/img/docs/lora_gateway/ht_m02.jpg", p:"HT-M02 Edge LoRa Gateway"},
     ];
     
     const cubecell_list = [
