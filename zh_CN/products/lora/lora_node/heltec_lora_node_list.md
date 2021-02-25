@@ -50,7 +50,7 @@ Heltec LoRa 系列有三个主要分支:
 | [WiFi LoRa 32(V2)](https://heltec.org/project/wifi-lora-32)  |    开发板  | [ESP32](https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf) |  8MB  | 锂电池 <sup>②</sup> |       √        |        √         |         800uA         | OLED (128x64) |
 | [Wireless Stick](https://heltec.org/project/wireless-stick)  |    开发板  | [ESP32](https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf) |  8MB  | 锂电池 <sup>②</sup> |       √        |        √         |         800uA         | OLED (64x32)  |
 | [Wireless Stick Lite](https://heltec.org/project/wireless-stick-lite/) |    开发板  | [ESP32-PICO](https://www.espressif.com/sites/default/files/documentation/esp32-pico-d4_datasheet_en.pdf) |  4MB  | 锂电池 <sup>②</sup> |       √        |        √         |         35uA          |       x       |
-| [Wireless Shell](https://heltec.org/project/wireless-shell/) |      开发板      | [ESP32-PICO](https://www.espressif.com/sites/default/files/documentation/esp32-pico-d4_datasheet_en.pdf) |  4MB  |         --          |       √        |        x         |         10uA          |       x       |
+| [Wireless Shell](https://heltec.org/project/wireless-shell/) |      模块      | [ESP32-PICO](https://www.espressif.com/sites/default/files/documentation/esp32-pico-d4_datasheet_en.pdf) |  4MB  |         --          |       √        |        x         |         10uA          |       x       |
 
 &nbsp;
 
