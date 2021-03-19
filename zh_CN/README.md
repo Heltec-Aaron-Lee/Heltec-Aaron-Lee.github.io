@@ -298,7 +298,7 @@
          $("#gateway div#htm-01 .mask a").attr("href", "https://heltec-automation.readthedocs.io/zh_CN/latest/gateway/ht-m01/index.html");
          $("#gateway div#htm-02 .mask a").attr("href", "https://heltec-automation.readthedocs.io/zh_CN/latest/gateway/ht-m02_4g/index.html");
          $("#gateway div#htm-00 .mask a").attr("href", "https://heltec-automation.readthedocs.io/zh_CN/latest/gateway/ht-m00/index.html");
-         $("#gateway div#htm-01s .mask a").attr("href", "https://heltec-automation.readthedocs.io/zh_CN/latest/gateway/ht-m01/index.html");
+         $("#gateway div#htm-01s .mask a").attr("href", "https://heltec-automation.readthedocs.io/zh_CN/latest/gateway/ht-m01s/index.html");
 
          $("#cubecell div.item a:lt("+cubecell_list.length+")").append(mask_html);//lt后面括号内的数字代表该类中需要添加掩盖页的数量
          $("#cubecell .mask a").attr("href", "https://heltec-automation.readthedocs.io/zh_CN/latest/cubecell/quick_start.html");

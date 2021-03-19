@@ -294,7 +294,7 @@
       $("#gateway div#htm-01 .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/gateway/ht-m01/index.html");
       $("#gateway div#htm-02 .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/gateway/ht-m02_4g/index.html");
       $("#gateway div#htm-00 .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/gateway/ht-m00/index.html");
-      $("#gateway div#htm-01s .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/gateway/ht-m01/index.html");
+      $("#gateway div#htm-01s .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/gateway/ht-m01s/index.html");
 
       $("#cubecell div.item a:lt("+cubecell_list.length+")").append(mask_html);
       $("#cubecell .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/cubecell/quick_start.html");
