@@ -7,6 +7,7 @@
 <script>
     var gateway_list = [
       //LoRa Gateway
+      {a:'https://heltec.org/project/lora-gateway-module/', img:'https://resource.heltec.cn/img/docs/lora_gateway/lora_gateway_module.jpg', p:'SX130x LoRa 网关模块'},
       {a:'https://heltec.org/project/ht-m00', img:'https://resource.heltec.cn/img/docs/lora_gateway/ht_m00.jpg', p:'HT-M00双通道LoRa网关'},
       {a:"https://heltec.org/project/ht-m01", img:"https://resource.heltec.cn/img/docs/lora_gateway/ht_m01.jpg", p:"HT-M01通信验证LoRa网关"},
       {a:'https://heltec.org/project/ht-m01s', img: 'https://resource.heltec.cn/img/docs/lora_gateway/ht_m01s.jpg', p: 'HT-M01S室内LoRa网关'},
@@ -162,7 +163,7 @@
       for (var i=0; i<product_class[class_num].length; i++ ) {
             //append的内容将显示在product_class.p名称的上方，并作为一行的开始
             /*lora gateway*/
-         if(product_class[class_num][i].p === "HT-M00双通道LoRa网关"){
+         if(product_class[class_num][i].p === "SX130x LoRa 网关模块"){
             $("#"+product_class_name[class_num]).append('<br><p> <a href="#/zh_CN/products/lora/lora_gateway/heltec_lora_gateway_list"> <strong>LoRa 网关</strong> </a> </p>');
          }
          /*cubecell*/
@@ -260,6 +261,7 @@
     //给lora gateway添加属性
     function appendAttr(e) {
         const gatewayId = [
+         'lora-gate-module',
          'htm-00',
          'htm-01',
          'htm-01s',
@@ -299,6 +301,7 @@
          $("#gateway div#htm-02 .mask a").attr("href", "https://heltec-automation.readthedocs.io/zh_CN/latest/gateway/ht-m02_4g/index.html");
          $("#gateway div#htm-00 .mask a").attr("href", "https://heltec-automation.readthedocs.io/zh_CN/latest/gateway/ht-m00/index.html");
          $("#gateway div#htm-01s .mask a").attr("href", "https://heltec-automation.readthedocs.io/zh_CN/latest/gateway/ht-m01s/index.html");
+         $("#gateway div#lora-gate-module .mask a").attr("href", "https://heltec-automation.readthedocs.io/zh_CN/latest/gateway/sx1301module/index.html");
 
          $("#cubecell div.item a:lt("+cubecell_list.length+")").append(mask_html);//lt后面括号内的数字代表该类中需要添加掩盖页的数量
          $("#cubecell .mask a").attr("href", "https://heltec-automation.readthedocs.io/zh_CN/latest/cubecell/quick_start.html");

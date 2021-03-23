@@ -7,6 +7,7 @@
 <script>
     const gateway_list = [
       //LoRa Gateway
+      {a:'https://heltec.org/project/lora-gateway-module/', img:'https://resource.heltec.cn/img/docs/lora_gateway/lora_gateway_module.jpg', p:'SX130x LoRa Gateway Module'},
       {a:'https://heltec.org/project/ht-m00', img:'https://resource.heltec.cn/img/docs/lora_gateway/ht_m00.jpg', p:'HT-M00 Dual Channel LoRa Gateway'},
       {a:"https://heltec.cn/project/ht-m01", img:"https://resource.heltec.cn/img/docs/lora_gateway/ht_m01.jpg", p:"HT-M01 PicoCell LoRa Gateway"},
       {a:'https://heltec.org/project/ht-m01s', img: 'https://resource.heltec.cn/img/docs/lora_gateway/ht_m01s.jpg', p: 'HT-M01S Indoor LoRa Gateway'},
@@ -146,7 +147,7 @@
    const touchKeyList = [
       {a: 'https://heltec.org/project/touch-button/', img: 'https://resource.heltec.cn/img/docs/touch_key_1.jpg', p: 'Touch Key'}
    ]
-    // var product = [core,module,unit,base,application,accessory,aluminium];
+
     var product_class = [gateway_list,cubecell_list,esp32_lora_list,stm32_lora_list,esp32_arduino_list,esp8266_arduino_list,oled_list,e_ink_list,accessories_list, touchKeyList];
     var product_class_name = ["gateway","cubecell","esp32_lora","stm32_lora","esp32_arduino","esp8266_arduino","oled","e_ink","accessories", 'touch_key'];
     
@@ -160,7 +161,7 @@
 
          //append的内容将显示在product_class.p名称的上方，并作为一行的开始
          /*lora gateway*/
-        if(product_class[class_num][i].p === "HT-M00 Dual Channel LoRa Gateway"){
+        if(product_class[class_num][i].p === "SX130x LoRa Gateway Module"){
            $("#"+product_class_name[class_num]).append('<br><p> <a href="#/en/products/lora/lora_gateway/heltec_lora_gateway_list"> <strong>LoRa Gateway</strong> </a> </p>');
         }
         /*cubecell*/
@@ -255,6 +256,7 @@
     //给lora gateway添加属性
     function appendAttr(e) {
       const gatewayId = [
+         'lora-gate-module',
          'htm-00',
          'htm-01',
          'htm-01s',
@@ -295,6 +297,7 @@
       $("#gateway div#htm-02 .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/gateway/ht-m02_4g/index.html");
       $("#gateway div#htm-00 .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/gateway/ht-m00/index.html");
       $("#gateway div#htm-01s .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/gateway/ht-m01s/index.html");
+      $("#gateway div#lora-gate-module .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/gateway/sx1301module/index.html");
 
       $("#cubecell div.item a:lt("+cubecell_list.length+")").append(mask_html);
       $("#cubecell .mask a").attr("href", "https://heltec-automation-docs.readthedocs.io/en/latest/cubecell/quick_start.html");

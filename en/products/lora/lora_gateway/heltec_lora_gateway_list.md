@@ -12,13 +12,14 @@
 
 &nbsp;
 
-|                           Product                            |                     Application Scenario                     |          Baseband Chipset          |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :--------------------------------: |
-| [HT-M00 Dual Channel Gateway](https://heltec.org/project/ht-m00/) | Smart family or some indoor LoRa applications that work with less than 30PCS LoRa nodes. | ESP32+1276*2 with digital baseband |
-| [HT-M01 Evaluation Gateway](<https://heltec.org/project/ht-m01/>)<sup>1</sup> | Verify LoRa communication solutions and secondary development. |        SX1308 + SX1255/7*2         |
-| [HT-M01S Indoor Gateway](https://heltec.org/project/ht-m01s/) | Indoor environments with power supply and internet such as smart factories and smart warehouses. |        SX1308 + SX1255/7*2         |
-| [HT-M02 Edge LoRa Gateway](<https://heltec.org/project/ht-m02/>) |      Smart city, smart farms etc. **outdoor projects.**      |        SX1301 + SX1255/7*2         |
-|               HT-M02S Solar Edge LoRa Gateway                | suitable for deployment **in the field without power supply**, such as animal monitoring, forest fire warning, natural disaster warning etc. |         SX1302 + SX1250*2          |
+|                           Product                            |                     Application Scenario                     |          Baseband Chipset           |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :---------------------------------: |
+| [HT-M00 Dual Channel Gateway](https://heltec.org/project/ht-m00/) | Smart family or some indoor LoRa applications that work with less than 30PCS LoRa nodes. | ESP32+1276*2 with digital baseband  |
+| [HT-M01 Evaluation Gateway](<https://heltec.org/project/ht-m01/>)<sup>1</sup> | Verify LoRa communication solutions and secondary development. |         SX1308 + SX1255/7*2         |
+| [HT-M01S Indoor Gateway](https://heltec.org/project/ht-m01s/) | Indoor environments with power supply and internet such as smart factories and smart warehouses. |         SX1308 + SX1255/7*2         |
+| [HT-M02 Edge LoRa Gateway](<https://heltec.org/project/ht-m02/>) |      Smart city, smart farms etc. **outdoor projects.**      |         SX1301 + SX1255/7*2         |
+|               HT-M02S Solar Edge LoRa Gateway                | suitable for deployment **in the field without power supply**, such as animal monitoring, forest fire warning, natural disaster warning etc. |          SX1302 + SX1250*2          |
+| [SX130x LoRa Gateway Module](https://heltec.org/project/lora-gateway-module/) | The SX130x LoRa gateway module includes two baseband models, SX1301 and SX1308.SX1301 is positioned as an outdoor type, and SX1308 is positioned as an indoor type. | SX1301/SX1308 digital baseband chip |
 
 &nbsp;
 
