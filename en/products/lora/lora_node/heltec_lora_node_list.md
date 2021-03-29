@@ -51,6 +51,7 @@ Strong computing ability, huge FLASH, and rich hardware resources.
 | [Wireless Stick](https://heltec.org/project/wireless-stick)  |    Dev-Board     | [ESP32](https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf) |  8MB  | Lithium<sup>②</sup> |       √        |        √         |         800uA         | OLED (64x32)  |
 | [Wireless Stick Lite](https://heltec.org/project/wireless-stick-lite/) |    Dev-Board     | [ESP32-PICO](https://www.espressif.com/sites/default/files/documentation/esp32-pico-d4_datasheet_en.pdf) |  4MB  | Lithium<sup>②</sup> |       √        |        √         |         35uA          |       x       |
 | [Wireless Shell](https://heltec.org/project/wireless-shell/) |      Module      | [ESP32-PICO](https://www.espressif.com/sites/default/files/documentation/esp32-pico-d4_datasheet_en.pdf) |  4MB  |         --          |       √        |        x         |         10uA          |       x       |
+| [Wireless Bridge](https://heltec.org/project/wireless-bridge) |    Dev-Board     | [ESP32-D0WDQ6](https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf) |  8MB  | Lithium<sup>②</sup> |       √        |        x         |         800uA         |       x       |
 
 &nbsp;
 

@@ -32,6 +32,7 @@
       {a:"https://heltec.cn/project/wifi-lora-32", img:"https://resource.heltec.cn/img/docs/wifi_lora_32.jpg",p:"WiFi LoRa 32"},
       {a:"https://heltec.cn/project/wireless-stick-lite", img:"https://resource.heltec.cn/img/docs/wireless_stick_lite.jpg",p:"WirelessStick lite"},
       {a:"https://heltec.cn/project/wireless-shell", img:"https://resource.heltec.cn/img/docs/wireless_shell.jpg",p:"Wireless Shell"},
+      {a:"https://heltec.cn/project/wireless-bridge", img:"https://resource.heltec.cn/img/docs/wireless_bridge.jpg",p:"Wireless Bridge"},
     ];
     
     const stm32_lora_list = [

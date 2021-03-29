@@ -51,6 +51,7 @@ Heltec LoRa 系列有三个主要分支:
 | [Wireless Stick](https://heltec.org/project/wireless-stick)  |    开发板  | [ESP32](https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf) |  8MB  | 锂电池 <sup>②</sup> |       √        |        √         |         800uA         | OLED (64x32)  |
 | [Wireless Stick Lite](https://heltec.org/project/wireless-stick-lite/) |    开发板  | [ESP32-PICO](https://www.espressif.com/sites/default/files/documentation/esp32-pico-d4_datasheet_en.pdf) |  4MB  | 锂电池 <sup>②</sup> |       √        |        √         |         35uA          |       x       |
 | [Wireless Shell](https://heltec.org/project/wireless-shell/) |      模块      | [ESP32-PICO](https://www.espressif.com/sites/default/files/documentation/esp32-pico-d4_datasheet_en.pdf) |  4MB  |         --          |       √        |        x         |         10uA          |       x       |
+| [Wireless Bridge]( https://heltec.org/project/wireless-bridge/) | 开发板 | [ESP32-D0WDQ6](https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf) | 8MB | 锂电池 <sup>②</sup> | √ | x | 800uA | x |
 
 &nbsp;
 
