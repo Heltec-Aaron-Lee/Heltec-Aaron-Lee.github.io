@@ -2,8 +2,10 @@
 title: "Heltec LoRa Gateway 产品差异对比"
 description: |
   Heltec 的 LoRa Gateway 系列设备支持标准 LoRaWAN，
-  拥有完善的文档、出色的 RF 设计和阻抗匹配能力。
-bgImage: "/images/heltec-gateway-bg.jpg"
+  拥有完善的文档、出色的 RF 设计和阻抗匹配能力13131313131
+  1313131。
+bgImage: "https://resource.heltec.cn/img/docs/lora_gateway/ht_m02.jpg"
+link: "https://heltec.cn/project/htcc-ab01"
 ---
 
 # Heltec OLED Display Products Difference Table

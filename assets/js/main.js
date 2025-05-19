@@ -128,8 +128,6 @@
   initStyleSwitcher();
 })();
 
-
-
 async function loadAllMd() {
   const owner = "HelTecAutomation";
   const repo = "HelTecAutomation.github.io";
@@ -274,7 +272,6 @@ async function loadAllMd() {
   }
 }
 
-
 async function showAllMd(paths) {
   const owner = "HelTecAutomation";
   const repo = "HelTecAutomation.github.io";
@@ -289,16 +286,90 @@ async function showAllMd(paths) {
       const rawUrl = `https://raw.githubusercontent.com/${owner}/${repo}/${branch}/${p}`;
       const md = await fetch(rawUrl).then((r) => r.text());
       const name = p.split("/").pop();
-      html += `<h4>${name}</h4>\n<pre style="white-space:pre-wrap;">${md.replace(
-        /</g,
-        "&lt;"
-      )}</pre>\n<hr/>`;
+
+      // 提取元数据
+      const metadata = extractMetadata(md);
+
+      // 渲染内容
+      html += `
+        <div class="md-document">
+          <div class="md-header">
+            <h2>${metadata.title || name}</h2>
+            ${
+              metadata.bgImage
+                ? `<img src="${metadata.bgImage}" alt="${
+                    metadata.title || name
+                  }" class="md-bg-image">`
+                : ""
+            }
+          </div>
+          <div class="md-description">
+            ${metadata.description || "暂无描述"}
+          </div>
+          ${
+            metadata.link
+              ? `<div class="md-link"><a href="${metadata.link}" target="_blank">查看详情</a></div>`
+              : ""
+          }
+        </div>
+        <hr/>
+      `;
     }
     mdContent.innerHTML = html;
   } catch (error) {
     console.error("加载文件内容失败:", error);
     mdContent.innerHTML = "<p>加载失败，请重试</p>";
   }
+}
+
+// 提取元数据函数
+function extractMetadata(md) {
+  const metadata = {
+    title: null,
+    description: null,
+    bgImage: null,
+    link: null,
+  };
+
+  // 尝试匹配 YAML front matter
+  const yamlMatch = md.match(/^---\s*\n([\s\S]*?)\n---/);
+  if (yamlMatch) {
+    const yamlContent = yamlMatch[1];
+
+    // 提取 title
+    const titleMatch = yamlContent.match(
+      /title:\s*"([^"]*)"|title:\s*'([^']*)'|title:\s*([^\n]*)/
+    );
+    if (titleMatch) {
+      metadata.title = titleMatch[1] || titleMatch[2] || titleMatch[3];
+    }
+
+    // 提取 description
+    const descMatch = yamlContent.match(
+      /description:\s*\|([\s\S]*?)(?=\n\w|$)/
+    );
+    if (descMatch) {
+      metadata.description = descMatch[1].trim();
+    }
+
+    // 提取 bgImage
+    const bgImageMatch = yamlContent.match(
+      /bgImage:\s*"([^"]*)"|bgImage:\s*'([^']*)'|bgImage:\s*([^\n]*)/
+    );
+    if (bgImageMatch) {
+      metadata.bgImage = bgImageMatch[1] || bgImageMatch[2] || bgImageMatch[3];
+    }
+
+    // 提取 link
+    const linkMatch = yamlContent.match(
+      /link:\s*"([^"]*)"|link:\s*'([^']*)'|link:\s*([^\n]*)/
+    );
+    if (linkMatch) {
+      metadata.link = linkMatch[1] || linkMatch[2] || linkMatch[3];
+    }
+  }
+
+  return metadata;
 }
 
 // 页面加载完成后执行
