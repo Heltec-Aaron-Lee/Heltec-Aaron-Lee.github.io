@@ -1,26 +1,4 @@
 (function () {
-  // Functions
-  // =========================================================================
-  /**
-   * Adds event listeners to change active stylesheet and restore previously
-   * activated stylesheet on reload.
-   *
-   * @example
-   *
-   * This link:
-   *   <a href="#" data-link-title="Foo">Foo</a>
-   * Will active this existing link:
-   *   <link rel="stylesheet alternate" title="Foo" href="..." >
-   *
-   * @example
-   *
-   * This link:
-   *   <a href="#" data-link-href="path/to/file.css">Bar</a>
-   * Will activate this existing link:
-   *   <link rel="stylesheet alternate" title="[someID]" href="path/to/file.css" >
-   * Or generate this active link:
-   *   <link rel="stylesheet" title="Bar" href="path/to/file.css" >
-   */
   function initStyleSwitcher() {
     var isInitialzed = false;
     var sessionStorageKey = "activeStylesheetHref";
@@ -58,20 +36,16 @@
           '"])'
       );
 
-      // Remove "alternate" keyword
       activeElm.setAttribute(
         "rel",
         (activeElm.rel || "").replace(/\s*alternate/g, "").trim()
       );
 
-      // Force enable stylesheet (required for some browsers)
       activeElm.disabled = true;
       activeElm.disabled = false;
 
-      // Store active style sheet
       sessionStorage.setItem(sessionStorageKey, activeHref);
 
-      // Disable other elms
       for (var i = 0; i < inactiveElms.length; i++) {
         var elm = inactiveElms[i];
 
@@ -88,17 +62,14 @@
         }
       }
 
-      // CSS custom property ponyfil
       if ((window.$docsify || {}).themeable) {
         window.$docsify.themeable.util.cssVars();
       }
     }
 
-    // Event listeners
     if (!isInitialzed) {
       isInitialzed = true;
 
-      // Restore active stylesheet
       document.addEventListener("DOMContentLoaded", function () {
         var activeHref = sessionStorage.getItem(sessionStorageKey);
 
@@ -107,7 +78,6 @@
         }
       });
 
-      // Update active stylesheet
       document.addEventListener("click", function (evt) {
         var dataHref = evt.target.getAttribute("data-link-href");
         var dataTitle = evt.target.getAttribute("data-link-title");
@@ -139,7 +109,6 @@ async function loadAllMd() {
     const response = await fetch(treeUrl);
     const { tree } = await response.json();
 
-    // 2. 过滤 en/products/**/.md
     const mdPaths = tree
       ?.filter(
         (i) =>
@@ -149,13 +118,11 @@ async function loadAllMd() {
       )
       ?.map((i) => i.path);
 
-    // 3. 构建目录树
     const directoryTree = {};
     mdPaths.forEach((path) => {
       const parts = path.replace(/^en\/products\//, "").split("/");
       let current = directoryTree;
 
-      // 构建目录结构
       for (let i = 0; i < parts.length - 1; i++) {
         const part = parts[i];
         if (!current[part]) {
@@ -164,7 +131,6 @@ async function loadAllMd() {
         current = current[part].subdirs;
       }
 
-      // 添加文件
       const fileName = parts[parts.length - 1];
       const parentDir = parts
         .slice(0, -1)
@@ -176,22 +142,19 @@ async function loadAllMd() {
       }
     });
 
-    // 4. 渲染导航
     const navElement = document.getElementById("product-folders");
     navElement.innerHTML = "<h3>产品分类</h3><ul></ul>";
     const ulElement = navElement.querySelector("ul");
 
-    // 检查目录是否包含子文件夹
     function hasSubFolders(node) {
       return Object.values(node.subdirs).some((item) => item.type === "folder");
     }
 
-    // 递归渲染目录
     function renderDirectory(dir, parentElement, level = 0) {
       Object.entries(dir).forEach(([name, data]) => {
         const li = document.createElement("li");
         li.className = "category-item";
-        li.style.paddingLeft = `${level * 2}em`; // 每层增加2个字符宽度的缩进
+        li.style.paddingLeft = `${level * 2}em`;
 
         if (data.type === "folder") {
           // 这是一个目录
@@ -213,16 +176,13 @@ async function loadAllMd() {
           const subfolderWrapper = li.querySelector(".subfolder-wrapper");
           const subfolder = li.querySelector(".subfolder");
 
-          // 点击文件夹名称时加载该文件夹下的所有 md 文件
           folderName.addEventListener("click", () => {
-            // 移除所有选中状态
             document.querySelectorAll(".category-item").forEach((item) => {
               item.classList.remove("active");
             });
-            // 添加当前选中状态
+
             li.classList.add("active");
 
-            // 收集当前文件夹及其子文件夹下的所有 md 文件
             const allFiles = [];
             function collectFiles(node) {
               if (node.type === "file") {
@@ -234,7 +194,6 @@ async function loadAllMd() {
             collectFiles(data);
             showAllMd(allFiles);
 
-            // 如果有子文件夹，处理展开/折叠
             if (hasSubdirs) {
               const isExpanded =
                 subfolderWrapper.classList.contains("expanded");
@@ -247,7 +206,6 @@ async function loadAllMd() {
             renderDirectory(data.subdirs, subfolder, level + 1);
           }
         } else {
-          // 这是一个文件，不显示在导航中
           return;
         }
 
@@ -257,7 +215,6 @@ async function loadAllMd() {
 
     renderDirectory(directoryTree, ulElement);
 
-    // 自动展开并选中第一个目录
     const firstFolder = ulElement.querySelector(".folder-item");
     if (firstFolder) {
       const folderName = firstFolder.querySelector(".folder-name");
@@ -287,12 +244,13 @@ async function showAllMd(paths) {
       const md = await fetch(rawUrl).then((r) => r.text());
       const name = p.split("/").pop();
 
-      // 提取元数据
       const metadata = extractMetadata(md);
 
       // 渲染内容
       html += `
-        <div class="md-document">
+        <div class="md-card" ${
+          metadata.link ? `data-link="${metadata.link}"` : ""
+        }>
           <div class="md-header">
             <h2>${metadata.title || name}</h2>
             ${
@@ -312,17 +270,91 @@ async function showAllMd(paths) {
               : ""
           }
         </div>
-        <hr/>
       `;
     }
     mdContent.innerHTML = html;
+
+
+    const cards = document.getElementsByClassName("md-card");
+    Array.from(cards).forEach((card) => {
+      const link = card.getAttribute("data-link");
+      if (link) {
+        card.style.cursor = "pointer";
+        card.addEventListener("click", (e) => {
+
+          if (e.target.tagName === "A") {
+            return;
+          }
+          window.open(link, "_blank");
+        });
+      }
+    });
+
+    initMasonry();
   } catch (error) {
     console.error("加载文件内容失败:", error);
     mdContent.innerHTML = "<p>加载失败，请重试</p>";
   }
 }
 
-// 提取元数据函数
+function initMasonry() {
+  const container = document.getElementById("md-content");
+  const cards = container.getElementsByClassName("md-card");
+  const cardWidth = 400;
+  const gap = 20;
+
+  function calculateLayout() {
+    const containerWidth = container.clientWidth;
+    const columnCount = Math.floor((containerWidth + gap) / (cardWidth + gap));
+    return columnCount;
+  }
+
+  function layout() {
+    const columnCount = calculateLayout();
+    const columns = Array(columnCount)
+      .fill()
+      .map(() => []);
+    const columnHeights = Array(columnCount).fill(0);
+
+    container.style.position = "relative";
+    container.style.height = "auto";
+
+    Array.from(cards).forEach((card) => {
+      const minHeightIndex = columnHeights.indexOf(Math.min(...columnHeights));
+      columns[minHeightIndex].push(card);
+      columnHeights[minHeightIndex] += card.offsetHeight + gap;
+    });
+
+    let currentX = 0;
+    columns.forEach((column, columnIndex) => {
+      let currentY = 0;
+      column.forEach((card) => {
+        card.style.position = "absolute";
+        card.style.width = `${cardWidth}px`;
+        card.style.left = `${currentX}px`;
+        card.style.top = `${currentY}px`;
+        currentY += card.offsetHeight + gap;
+      });
+      currentX += cardWidth + gap;
+    });
+
+    container.style.height = `${Math.max(...columnHeights)}px`;
+  }
+
+  let resizeTimer;
+  window.addEventListener("resize", () => {
+    clearTimeout(resizeTimer);
+    resizeTimer = setTimeout(layout, 100);
+  });
+
+  const images = container.getElementsByTagName("img");
+  Array.from(images).forEach((img) => {
+    img.addEventListener("load", layout);
+  });
+
+  layout();
+}
+
 function extractMetadata(md) {
   const metadata = {
     title: null,
@@ -331,7 +363,6 @@ function extractMetadata(md) {
     link: null,
   };
 
-  // 尝试匹配 YAML front matter
   const yamlMatch = md.match(/^---\s*\n([\s\S]*?)\n---/);
   if (yamlMatch) {
     const yamlContent = yamlMatch[1];
@@ -372,7 +403,6 @@ function extractMetadata(md) {
   return metadata;
 }
 
-// 页面加载完成后执行
 document.addEventListener("DOMContentLoaded", () => {
   loadAllMd();
 });

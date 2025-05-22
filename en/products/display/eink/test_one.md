@@ -1,9 +1,7 @@
 ---
 title: "Heltec LoRa Gateway 产品差异对比"
 description: |
-  Heltec 的 LoRa Gateway 系列设备支持标准 LoRaWAN，
-  拥有完善的文档、出色的 RF 设计和阻抗匹配能力131313131
-  131313131。
+  Heltec 的 LoRa Gateway 系列设备支持标准 LoRaWAN 协议，兼容主流网络服务器（如 The Things Network、ChirpStack 等），提供完善的文档和示例代码，帮助开发者快速上手。产品采用优异的 RF 设计与精确的阻抗匹配，在 863–870MHz（EU）和 902–928MHz（US）等频段均表现出稳定的链路质量和灵敏度，接收灵敏度可达 -137dBm。设备内置高性能处理器与大容量存储，能够支持数千个终端设备同时连接，并提供 MQTT、HTTP 等多种上行接口，方便与云平台实时交互。硬件方面，外壳采用全铝合金一体成型工艺，具备 IP65 防水防尘等级，适合室外复杂环境部署；同时支持 PoE 供电与太阳能供电扩展模块，可在无市电场景持久运行。软件层面内置实时监控面板、自动重连与远程升级功能，支持 MQTT over TLS 和设备访问控制列表（ACL），保障数据安全与网络稳定。整机功耗低至 3W 左右，并可配置休眠模式提升能源利用效率。广泛应用于智慧农业、智能交通、环境监测、工业物联网等场景，是高可靠性、低功耗、易集成的 LoRaWAN 基础设施利器。
 bgImage: "https://resource.heltec.cn/img/docs/lora_gateway/ht_m02.jpg"
 link: "https://heltec.cn/project/htcc-ab01"
 ---
